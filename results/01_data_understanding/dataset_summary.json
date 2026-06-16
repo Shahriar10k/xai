@@ -1,0 +1,20 @@
+{
+    "dataset_name": "Dry Bean Dataset",
+    "total_rows": 13611,
+    "total_columns": 17,
+    "number_of_features": 16,
+    "target_column": "Class",
+    "classes": [
+        "BARBUNYA",
+        "BOMBAY",
+        "CALI",
+        "DERMASON",
+        "HOROZ",
+        "SEKER",
+        "SIRA"
+    ],
+    "number_of_classes": 7,
+    "missing_values_total": 0,
+    "duplicate_rows": 68,
+    "random_seed": 42
+}
