@@ -1,0 +1,21 @@
+method,model_name,display_name,rank,feature,mean_abs_shap
+SHAP,decision_tree,Decision Tree,1,MajorAxisLength,0.0858107919134539
+SHAP,decision_tree,Decision Tree,2,Perimeter,0.0699931300993089
+SHAP,decision_tree,Decision Tree,3,ShapeFactor1,0.0530461076486203
+SHAP,decision_tree,Decision Tree,4,Compactness,0.0344327438573421
+SHAP,decision_tree,Decision Tree,5,roundness,0.0294257960619251
+SHAP,logistic_regression,Logistic Regression,1,ShapeFactor1,1.3770058184178793
+SHAP,logistic_regression,Logistic Regression,2,MinorAxisLength,1.0355745439223394
+SHAP,logistic_regression,Logistic Regression,3,EquivDiameter,0.8529438791951693
+SHAP,logistic_regression,Logistic Regression,4,Perimeter,0.851588048762111
+SHAP,logistic_regression,Logistic Regression,5,ConvexArea,0.7528492413119742
+SHAP,mlp,MLP,1,ShapeFactor1,0.0452901402695977
+SHAP,mlp,MLP,2,AspectRation,0.0312280318720681
+SHAP,mlp,MLP,3,roundness,0.0304646956938072
+SHAP,mlp,MLP,4,ShapeFactor4,0.0276763515361496
+SHAP,mlp,MLP,5,MajorAxisLength,0.0223284719897603
+SHAP,random_forest,Random Forest,1,Perimeter,0.029611888105597
+SHAP,random_forest,Random Forest,2,ShapeFactor1,0.0270628029040542
+SHAP,random_forest,Random Forest,3,ConvexArea,0.0245077843515965
+SHAP,random_forest,Random Forest,4,MajorAxisLength,0.0242471663502482
+SHAP,random_forest,Random Forest,5,MinorAxisLength,0.0234714730232705

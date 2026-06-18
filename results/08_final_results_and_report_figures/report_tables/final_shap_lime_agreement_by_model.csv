@@ -1,0 +1,5 @@
+model_name,display_name,mean_top_k_overlap,mean_jaccard_similarity,mean_rank_correlation,mean_abs_cosine_similarity,n_comparisons
+logistic_regression,Logistic Regression,0.695,0.5697,0.2989,0.7329,40
+decision_tree,Decision Tree,0.51,0.3683,-0.0164,0.5349,40
+random_forest,Random Forest,0.6,0.4657,0.0156,0.6093,40
+mlp,MLP,0.53,0.3932,-0.1028,0.5724,40

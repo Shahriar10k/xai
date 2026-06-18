@@ -1,0 +1,5 @@
+model_name,display_name,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted
+logistic_regression,Logistic Regression,0.9192,0.9307,0.93,0.9302,0.9193
+decision_tree,Decision Tree,0.8955,0.9094,0.9104,0.9098,0.8953
+random_forest,Random Forest,0.9192,0.9314,0.9289,0.9301,0.9191
+mlp,MLP,0.9251,0.9359,0.9346,0.9351,0.9251

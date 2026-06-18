@@ -1,0 +1,38 @@
+{
+    "notebook": "08_final_results_and_report_figures",
+    "random_state": 42,
+    "purpose": "Collect final model performance, XAI explanation, and explanation stability outputs for report-ready tables and figures.",
+    "input_result_folders": {
+        "model_evaluation": "results/04_model_evaluation",
+        "shap_explanations": "results/05_shap_explanations",
+        "lime_explanations": "results/06_lime_explanations",
+        "explanation_stability": "results/07_explanation_stability"
+    },
+    "key_findings": {
+        "best_predictive_model": {
+            "model": "MLP",
+            "macro_f1": 0.9351
+        },
+        "best_shap_lime_agreement": {
+            "model": "Logistic Regression",
+            "mean_top_k_overlap": 0.695
+        },
+        "best_nearest_neighbor_stability": {
+            "model_method": "Logistic Regression - SHAP",
+            "mean_top_k_overlap": 0.775
+        },
+        "strongest_stability_analysis": {
+            "analysis": "Nearest-neighbor stability",
+            "mean_top_k_overlap": 0.6293749999999999
+        },
+        "weakest_stability_analysis": {
+            "analysis": "Cross-model stability",
+            "mean_top_k_overlap": 0.4608333333333334
+        }
+    },
+    "saved_outputs": {
+        "report_tables_dir": "/home/iailab42/khans1/projects/xai/results/08_final_results_and_report_figures/report_tables",
+        "plots_dir": "/home/iailab42/khans1/projects/xai/plots/08_final_results_and_report_figures",
+        "final_report_notes": "/home/iailab42/khans1/projects/xai/results/08_final_results_and_report_figures/final_report_notes.md"
+    }
+}

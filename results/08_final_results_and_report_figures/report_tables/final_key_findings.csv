@@ -1,0 +1,6 @@
+finding_area,main_result,supporting_value,interpretation
+Best predictive model,MLP,Macro F1 = 0.9351,This model achieved the strongest classification performance.
+Best SHAP vs LIME agreement,Logistic Regression,Top-5 overlap = 0.6950,This model produced the most consistent explanations across SHAP and LIME.
+Best nearest-neighbor stability,Logistic Regression - SHAP,Top-5 overlap = 0.7750,This model-method combination produced the most similar explanations for nearby samples.
+Strongest stability analysis,Nearest-neighbor stability,Top-5 overlap = 0.6294,This analysis showed the strongest explanation consistency.
+Weakest stability analysis,Cross-model stability,Top-5 overlap = 0.4608,This analysis showed the weakest explanation consistency.

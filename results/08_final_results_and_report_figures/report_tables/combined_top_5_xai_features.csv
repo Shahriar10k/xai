@@ -1,0 +1,41 @@
+method,model_name,display_name,rank,feature,importance_value
+SHAP,decision_tree,Decision Tree,1,MajorAxisLength,0.085811
+SHAP,decision_tree,Decision Tree,2,Perimeter,0.069993
+SHAP,decision_tree,Decision Tree,3,ShapeFactor1,0.053046
+SHAP,decision_tree,Decision Tree,4,Compactness,0.034433
+SHAP,decision_tree,Decision Tree,5,roundness,0.029426
+SHAP,logistic_regression,Logistic Regression,1,ShapeFactor1,1.377006
+SHAP,logistic_regression,Logistic Regression,2,MinorAxisLength,1.035575
+SHAP,logistic_regression,Logistic Regression,3,EquivDiameter,0.852944
+SHAP,logistic_regression,Logistic Regression,4,Perimeter,0.851588
+SHAP,logistic_regression,Logistic Regression,5,ConvexArea,0.752849
+SHAP,mlp,MLP,1,ShapeFactor1,0.04529
+SHAP,mlp,MLP,2,AspectRation,0.031228
+SHAP,mlp,MLP,3,roundness,0.030465
+SHAP,mlp,MLP,4,ShapeFactor4,0.027676
+SHAP,mlp,MLP,5,MajorAxisLength,0.022328
+SHAP,random_forest,Random Forest,1,Perimeter,0.029612
+SHAP,random_forest,Random Forest,2,ShapeFactor1,0.027063
+SHAP,random_forest,Random Forest,3,ConvexArea,0.024508
+SHAP,random_forest,Random Forest,4,MajorAxisLength,0.024247
+SHAP,random_forest,Random Forest,5,MinorAxisLength,0.023471
+LIME,decision_tree,Decision Tree,1,Perimeter,0.113066
+LIME,decision_tree,Decision Tree,2,MajorAxisLength,0.066178
+LIME,decision_tree,Decision Tree,3,MinorAxisLength,0.043609
+LIME,decision_tree,Decision Tree,4,ShapeFactor1,0.037935
+LIME,decision_tree,Decision Tree,5,roundness,0.031857
+LIME,logistic_regression,Logistic Regression,1,ShapeFactor1,0.107108
+LIME,logistic_regression,Logistic Regression,2,Perimeter,0.052903
+LIME,logistic_regression,Logistic Regression,3,EquivDiameter,0.049299
+LIME,logistic_regression,Logistic Regression,4,MinorAxisLength,0.047433
+LIME,logistic_regression,Logistic Regression,5,MajorAxisLength,0.045067
+LIME,mlp,MLP,1,ShapeFactor1,0.107379
+LIME,mlp,MLP,2,MinorAxisLength,0.057996
+LIME,mlp,MLP,3,Area,0.056071
+LIME,mlp,MLP,4,MajorAxisLength,0.047045
+LIME,mlp,MLP,5,ConvexArea,0.044961
+LIME,random_forest,Random Forest,1,Perimeter,0.047165
+LIME,random_forest,Random Forest,2,ConvexArea,0.038898
+LIME,random_forest,Random Forest,3,EquivDiameter,0.031141
+LIME,random_forest,Random Forest,4,MajorAxisLength,0.02917
+LIME,random_forest,Random Forest,5,MinorAxisLength,0.027949

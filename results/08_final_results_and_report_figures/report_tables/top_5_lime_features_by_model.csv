@@ -1,0 +1,21 @@
+method,model_name,display_name,rank,feature,mean_abs_lime_weight
+LIME,decision_tree,Decision Tree,1,Perimeter,0.1130655850320901
+LIME,decision_tree,Decision Tree,2,MajorAxisLength,0.0661777514738648
+LIME,decision_tree,Decision Tree,3,MinorAxisLength,0.0436088243946488
+LIME,decision_tree,Decision Tree,4,ShapeFactor1,0.0379353664502124
+LIME,decision_tree,Decision Tree,5,roundness,0.0318573072986778
+LIME,logistic_regression,Logistic Regression,1,ShapeFactor1,0.107108243403613
+LIME,logistic_regression,Logistic Regression,2,Perimeter,0.0529028441411742
+LIME,logistic_regression,Logistic Regression,3,EquivDiameter,0.0492988526578348
+LIME,logistic_regression,Logistic Regression,4,MinorAxisLength,0.0474334820403828
+LIME,logistic_regression,Logistic Regression,5,MajorAxisLength,0.0450669540068703
+LIME,mlp,MLP,1,ShapeFactor1,0.1073788258553292
+LIME,mlp,MLP,2,MinorAxisLength,0.057995650449635
+LIME,mlp,MLP,3,Area,0.0560710663380458
+LIME,mlp,MLP,4,MajorAxisLength,0.0470453680287809
+LIME,mlp,MLP,5,ConvexArea,0.0449612236186078
+LIME,random_forest,Random Forest,1,Perimeter,0.0471651372127164
+LIME,random_forest,Random Forest,2,ConvexArea,0.0388984171433856
+LIME,random_forest,Random Forest,3,EquivDiameter,0.0311406146404924
+LIME,random_forest,Random Forest,4,MajorAxisLength,0.0291704930603615
+LIME,random_forest,Random Forest,5,MinorAxisLength,0.0279491864093398
