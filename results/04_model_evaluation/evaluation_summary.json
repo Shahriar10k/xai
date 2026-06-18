@@ -1,0 +1,12 @@
+{
+    "best_accuracy_model": "mlp",
+    "best_macro_f1_model": "mlp",
+    "main_findings": {
+        "best_overall_model": "MLP achieved the highest accuracy and macro F1-score.",
+        "strong_reference_models": "Logistic Regression and Random Forest performed very close to MLP.",
+        "weakest_model": "Decision Tree had the lowest overall performance.",
+        "easiest_class": "BOMBAY was classified perfectly by all models.",
+        "hardest_confusion_pair": "DERMASON and SIRA were the most frequently confused classes.",
+        "secondary_confusion_pair": "BARBUNYA and CALI also showed repeated confusion."
+    }
+}
