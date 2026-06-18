@@ -1,0 +1,481 @@
+comparison_type,method,model_a,model_b,model_pair,sample_id,row_index,selection_group,true_label,true_class_name,top_k_overlap,jaccard_similarity,rank_correlation,signed_cosine_similarity,abs_cosine_similarity
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.07272727272727272,0.43656530926197457,0.43656530926197457
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.37272727272727274,0.19526152222669588,0.19526152222669588
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.6545454545454545,0.7554345540487095,0.7554345540487095
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.6545454545454545,0.8282989437092253,0.8282989437092253
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.07272727272727272,0.6445506724212661,0.6445506724212661
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.125,0.5472261017661919,0.5472261017661919
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.5,0.36024857919786374,0.36024857919786374
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.6000000000000001,0.25794932599267895,0.25794932599267895
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.4909090909090909,0.33017962107580034,0.33017962107580034
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.2545454545454545,0.7242750927009459,0.7242750927009459
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.8727272727272728,0.35763085722165233,0.35763085722165233
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.7363636363636364,0.18684927788747777,0.18684927788747777
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.55,0.2587135321960897,0.2587135321960897
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.17500000000000002,0.5198625739752522,0.5198625739752522
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.09090909090909091,0.6803828003994858,0.6803828003994858
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.028571428571428574,0.7582339032040373,0.7582339032040373
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.65,0.2260738739620164,0.2260738739620164
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.2,0.49632184765415005,0.49632184765415005
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.8250000000000001,0.12534179617956262,0.12534179617956262
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.8636363636363635,0.05138370973898194,0.05138370973898194
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.41818181818181815,0.5345295518717854,0.5345295518717854
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.07272727272727272,0.15154570509144635,0.500756518817362
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.725,-0.03623364504638835,0.23057413007046848
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.2545454545454546,0.46518647143327835,0.46518647143327835
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.7090909090909091,0.2596054760545436,0.2596054760545436
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.12727272727272726,0.6319171821023502,0.6319171821023502
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,0.15000000000000002,0.6773183265824583,0.6773183265824583
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.05454545454545455,0.5451241677850054,0.5451241677850054
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.2545454545454546,0.4062977580971582,0.4062977580971582
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.5,0.34988201301008814,0.34988201301008814
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.55,0.24463642440873581,0.24463642440873581
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.30000000000000004,0.3378332049389557,0.43125200400288616
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.07272727272727272,0.7660984345842458,0.7660984345842458
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,0.025,0.6660122588877165,0.6660122588877165
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.3090909090909091,0.6951383670559148,0.7980330888699547
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.9818181818181818,0.13999912806590026,0.13999912806590026
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,3450,1567,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,-0.2571428571428572,0.8214737712175373,0.8214737712175373
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,0.2909090909090909,0.751142629623158,0.751142629623158
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.03636363636363636,0.46814818275954373,0.46814818275954373
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.32727272727272727,-0.043583680752257686,0.2896420471055927
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,0.05454545454545455,0.4679566426454152,0.6529321461638312
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.9818181818181818,0.12922489277398735,0.12922489277398735
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,3869,806,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.2,0.8153491039111606,0.8153491039111606
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,0.38181818181818183,0.8164000595131378,0.8164000595131378
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.23636363636363636,0.4563361478268379,0.4563361478268379
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,3869,806,correct_bombay,1,BOMBAY,0.4,0.25,-0.45,0.14573720699186463,0.14573720699186463
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,3869,806,correct_bombay,1,BOMBAY,0.4,0.25,-0.1,0.5677589823559647,0.5677589823559647
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.6,0.8371347191101541,0.8371347191101541
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.4285714285714286,0.7065177605262188,0.7065177605262188
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.2571428571428572,0.795388270304485,0.795388270304485
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.3714285714285715,0.42782666053653357,0.42782666053653357
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.3142857142857143,0.7600847822694088,0.7600847822694088
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,10554,1099,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.4,0.5463332467355171,0.5463332467355171
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11193,2097,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.5428571428571429,0.7951657947062523,0.7951657947062523
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,11193,2097,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.8285714285714287,0.6154737112500098,0.6154737112500098
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,-0.05,0.6430237799688284,0.6430237799688284
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,11193,2097,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.38181818181818183,0.5231453609750166,0.5231453609750166
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,-0.25,0.3550285135865322,0.42295798507406224
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,11193,2097,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.7363636363636364,0.08310563326483708,0.08310563326483708
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.6,0.7511305512836154,0.7511305512836154
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.6,0.6530918596765248,0.6530918596765248
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,11538,2056,correct_dermason,3,DERMASON,0.4,0.25,-0.25,0.5059490914937776,0.5059490914937776
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,11538,2056,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.18181818181818182,0.5893120619393758,0.5893120619393758
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,11538,2056,correct_dermason,3,DERMASON,0.4,0.25,-0.35000000000000003,0.25445977147614657,0.25445977147614657
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,11538,2056,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.9090909090909091,0.08743881188121987,0.08743881188121987
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.5428571428571429,0.8089763362751701,0.8089763362751701
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.7714285714285715,0.6397670421908366,0.6397670421908366
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,11678,1622,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.0,0.7134955589159366,0.7134955589159366
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,11678,1622,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.18181818181818182,0.5921443667788533,0.5921443667788533
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.2,0.46726073321118583,0.53405718568562
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,11678,1622,correct_dermason,3,DERMASON,0.4,0.25,-0.75,0.22595999235304365,0.22595999235304365
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.028571428571428574,0.6167480781492228,0.6167480781492228
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.942857142857143,0.5190386049044347,0.5190386049044347
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.5636363636363636,0.8388597728779161,0.8388597728779161
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.07272727272727272,0.5848588352604023,0.5848588352604023
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.2181818181818182,0.5287818478544748,0.5287818478544748
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,12185,322,correct_dermason,3,DERMASON,0.4,0.25,-0.475,0.22551506602723004,0.22551506602723004
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.7643272711709477,0.7643272711709477
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.2571428571428572,0.7531555113574488,0.7531555113574488
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,12237,1552,correct_dermason,3,DERMASON,0.4,0.25,-0.55,0.35810663042193047,0.35810663042193047
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,12237,1552,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.2,0.683622656006778,0.683622656006778
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,12237,1552,correct_dermason,3,DERMASON,0.4,0.25,-0.7000000000000001,0.16373307978036356,0.16373307978036356
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,12237,1552,correct_dermason,3,DERMASON,0.4,0.25,-0.675,0.3236817934534287,0.3236817934534287
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12383,386,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.8509522229129519,0.8509522229129519
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.2181818181818182,0.6606025876893477,0.6606025876893477
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.4,0.5874470109266109,0.5874470109266109
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,12383,386,correct_dermason,3,DERMASON,0.4,0.25,0.1,0.6022807266922032,0.6022807266922032
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.14545454545454545,0.5716443858520618,0.5716443858520618
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,12383,386,correct_dermason,3,DERMASON,0.4,0.25,-0.55,0.3440720104546548,0.3440720104546548
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12838,2412,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.14285714285714288,0.6690510922952556,0.6690510922952556
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,12838,2412,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.5428571428571429,0.7301738600987888,0.7301738600987888
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,12838,2412,correct_dermason,3,DERMASON,0.4,0.25,-0.15000000000000002,0.4664926589911818,0.4664926589911818
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,12838,2412,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.14285714285714288,0.6909352082200325,0.6909352082200325
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,12838,2412,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.609090909090909,0.07715726348832022,0.07715726348832022
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,12838,2412,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.7272727272727273,0.20574681887558766,0.20574681887558766
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7636,2067,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7272727272727273,0.17908436356772348,0.17908436356772348
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7636,2067,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.35786686127952366,0.35786686127952366
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7636,2067,correct_sira,6,SIRA,0.4,0.25,-0.275,0.42807178642388916,0.42807178642388916
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7636,2067,correct_sira,6,SIRA,0.8,0.6666666666666666,0.3142857142857143,0.8377585163013967,0.8377585163013967
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7636,2067,correct_sira,6,SIRA,0.4,0.25,-0.30000000000000004,0.523027194190231,0.523027194190231
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7636,2067,correct_sira,6,SIRA,0.4,0.25,-0.025,0.525171297680354,0.525171297680354
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,8943,362,correct_sira,6,SIRA,0.4,0.25,-0.25,0.5362306465948037,0.5362306465948037
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,8943,362,correct_sira,6,SIRA,0.6,0.42857142857142855,-0.03636363636363636,0.602793870800342,0.602793870800342
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,8943,362,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7727272727272728,0.1547321652463582,0.1547321652463582
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,8943,362,correct_sira,6,SIRA,0.4,0.25,-0.1,0.6945310853047842,0.6945310853047842
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,8943,362,correct_sira,6,SIRA,0.4,0.25,-0.5750000000000001,0.353151511421029,0.353151511421029
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,8943,362,correct_sira,6,SIRA,0.4,0.25,-0.5,0.42531780344361564,0.42531780344361564
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.49710051569069164,0.49710051569069164
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,9111,186,correct_sira,6,SIRA,0.4,0.25,0.15000000000000002,0.575302663092207,0.575302663092207
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.609090909090909,0.16040862852657145,0.16040862852657145
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,9111,186,correct_sira,6,SIRA,0.6,0.42857142857142855,0.05454545454545455,0.7708053741107902,0.7708053741107902
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,9111,186,correct_sira,6,SIRA,0.4,0.25,-0.55,0.30014405566423935,0.30014405566423935
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.609090909090909,0.18417985349445393,0.18417985349445393
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.25,0.5527873708649496,0.5527873708649496
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,9316,462,correct_sira,6,SIRA,0.6,0.42857142857142855,0.01818181818181818,0.598288659908719,0.598288659908719
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.95,0.1828583694306457,0.1828583694306457
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,9316,462,correct_sira,6,SIRA,0.6,0.42857142857142855,0.05454545454545455,0.7677004918085645,0.7677004918085645
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.625,0.22044093930148165,0.22044093930148165
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,9316,462,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8,0.14208164701787962,0.14208164701787962
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9463,1293,correct_sira,6,SIRA,0.4,0.25,-0.4,0.4689231394542427,0.4689231394542427
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,9463,1293,correct_sira,6,SIRA,0.6,0.42857142857142855,0.14545454545454545,0.619182411238834,0.619182411238834
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,9463,1293,correct_sira,6,SIRA,0.4,0.25,-0.5,0.3944871921916179,0.3944871921916179
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,9463,1293,correct_sira,6,SIRA,0.6,0.42857142857142855,0.1090909090909091,0.7984636041560713,0.7984636041560713
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,9463,1293,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.4727272727272727,0.1956708081721928,0.1956708081721928
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,9463,1293,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6727272727272727,0.18463100416691824,0.18463100416691824
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,0.03333337125032795,0.03333337125032795
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,9919,1094,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6545454545454545,0.1898544319493925,0.1898544319493925
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.05,0.4744368749831306,0.4744368749831306
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.725,0.11986146669505693,0.11986146669505693
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.325,0.3670388657039277,0.3670388657039277
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.6000000000000001,-0.10292061197436542,0.23211622512791247
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,9967,1890,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.275,0.43962132142275395,0.43962132142275395
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,9967,1890,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.4727272727272727,0.2089482013703816,0.2089482013703816
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.7000000000000001,0.2299646929777128,0.2299646929777128
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.25,0.49048528725476825,0.49048528725476825
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.4394378915896362,0.4394378915896362
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.5750000000000001,0.2606815126681152,0.2606815126681152
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.8181818181818182,0.09658425548466376,0.09658425548466376
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.34545454545454546,0.5675380301494504,0.5675380301494504
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.6000000000000001,0.2622690877939056,0.2622690877939056
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.025,0.5394233952788541,0.5394233952788541
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.2727272727272727,0.5267430093516802,0.5267430093516802
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.48571428571428577,0.7807358765825576,0.7807358765825576
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.15000000000000002,0.6571536023847139,0.6571536023847139
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.15000000000000002,0.47400471555251833,0.47400471555251833
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.23784986309031902,0.23784986309031902
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.4,0.5004961153543513,0.5004961153543513
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.5,0.39259012976710067,0.39259012976710067
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.325,0.3296340412806753,0.3296340412806753
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.8636363636363635,-0.0963450695657559,0.0963450695657559
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.2909090909090909,0.6177756950236426,0.6177756950236426
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.05,0.5743471100934219,0.5743471100934219
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.42500000000000004,0.38981406753666753,0.38981406753666753
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.18955765677825928,0.18955765677825928
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.4285714285714286,0.6029956301955186,0.6804811529044135
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.07272727272727272,0.49588202405172027,0.5338592637104732
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.6,0.4918726123462175,0.4918726123462175
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.475,0.28231739999123256,0.28231739999123256
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.3283353427821102,0.3283353427821102
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.5,0.32245905411051495,0.32245905411051495
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.9090909090909091,0.09540832138101715,0.09540832138101715
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.6000000000000001,0.21107827446259425,0.21107827446259425
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.6727272727272727,0.1272758279814607,0.1272758279814607
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.10367631431104646,0.10367631431104646
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.37272727272727274,0.3032807679889035,0.3032807679889035
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.75,0.24764075365725796,0.24764075365725796
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.375,0.27300858202509865,0.27300858202509865
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.4,0.27122712546694816,0.27122712546694816
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.6727272727272727,0.1894272173329424,0.1894272173329424
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.16363636363636364,0.654190655429224,0.654190655429224
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.6000000000000001,0.3546262053760932,0.3546262053760932
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.16363636363636364,0.05881670825390716,0.33910038603305004
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.8,0.17313428177139567,0.17313428177139567
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.8,0.10058857842925564,0.10058857842925564
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.1,0.4858094500891691,0.4858094500891691
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.30000000000000004,0.35935764037461804,0.35935764037461804
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.8,0.28934755573948673,0.28934755573948673
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.35000000000000003,0.3267278292790486,0.3267278292790486
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.8636363636363635,0.08805592386467459,0.08805592386467459
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.25,0.5839111833520948,0.5839111833520948
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.1,0.5063073415960221,0.5063073415960221
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.7363636363636364,-0.15806873067983462,0.15806873067983462
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13499,182,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.07272727272727272,0.5828236942594799,0.5828236942594799
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.4,0.38019390460629565,0.38019390460629565
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.1,0.513993751514856,0.513993751514856
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13514,54,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.15000000000000002,0.5802316190351262,0.5802316190351262
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,13514,54,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.0,0.3813531410307034,0.6970842549301896
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.6727272727272727,0.17442659708899516,0.17442659708899516
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.6549890005147735,0.6549890005147735
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.7000000000000001,0.21004347459716943,0.21004347459716943
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.30000000000000004,0.32228356948266956,0.32228356948266956
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.3090909090909091,0.5382677968321435,0.5382677968321435
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.23636363636363636,0.6114654858889252,0.6114654858889252
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.6545454545454545,0.7817618910368738,0.7817618910368738
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.2,0.5182931436236853,0.5182931436236853
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.22837025252710932,0.22837025252710932
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.30000000000000004,0.4595518018387479,0.4595518018387479
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.2545454545454545,0.5332562639658376,0.5332562639658376
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.028571428571428574,0.724018696811305,0.724018696811305
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.7714285714285715,0.9028916267848837,0.9028916267848837
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.2181818181818182,0.4902083552625932,0.4902083552625932
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.42500000000000004,0.25242302597953764,0.25242302597953764
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.07272727272727272,0.6170617803475134,0.6170617803475134
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7526,1439,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.4596112832809601,0.4596112832809601
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.18181818181818182,0.6207611662977073,0.6207611662977073
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.8500000000000001,0.246120010947254,0.246120010947254
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7526,1439,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.8500000000000001,0.1422158117058285,0.1422158117058285
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.4909090909090909,0.35802843807535534,0.35802843807535534
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7568,1414,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.3376115340214315,0.3376115340214315
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7568,1414,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.35000000000000003,0.3341796429336986,0.3341796429336986
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8636363636363635,0.11918150485356607,0.11918150485356607
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7568,1414,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.09090909090909091,0.5649617618662954,0.5649617618662954
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6181818181818182,0.41760043456207174,0.41760043456207174
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.6727272727272727,0.12656105881920976,0.12656105881920976
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7604,217,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.3142857142857143,0.5315307471730945,0.7388518651253471
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7604,217,sira_predicted_as_dermason,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6909090909090909,0.454702413878035,0.454702413878035
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7604,217,sira_predicted_as_dermason,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.4,0.4365345573036041,0.4365345573036041
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.37272727272727274,0.3403693422346216,0.3403693422346216
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7683,2179,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.125,0.5621186711298121,0.6525763975377057
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7683,2179,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.6571428571428573,0.5959091116691038,0.8757945348233956
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8636363636363635,0.13413476910384622,0.13413476910384622
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.09090909090909091,0.6552601156147889,0.6552601156147889
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.7272727272727273,0.030281297501273247,0.030281297501273247
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.725,0.300680600099196,0.300680600099196
+cross_model_same_method,SHAP,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,0.025,-0.25222650488369186,0.47918899734107295
+cross_model_same_method,SHAP,logistic_regression,random_forest,Logistic Regression vs Random Forest,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.35000000000000003,0.4598852071964686,0.4598852071964686
+cross_model_same_method,SHAP,logistic_regression,mlp,Logistic Regression vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.7727272727272728,0.14126995795686365,0.14126995795686365
+cross_model_same_method,SHAP,decision_tree,random_forest,Decision Tree vs Random Forest,7761,21,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.609090909090909,0.18983387089847822,0.18983387089847822
+cross_model_same_method,SHAP,decision_tree,mlp,Decision Tree vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6,0.10450586336277816,0.4404453512326808
+cross_model_same_method,SHAP,random_forest,mlp,Random Forest vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.325,0.4394658360147385,0.4394658360147385
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.1,0.37468927282167924,0.37468927282167924
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.2,0.7268889285524547,0.7268889285524547
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.028571428571428574,0.7351032556289437,0.7351032556289437
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.325,0.31878689917964836,0.31878689917964836
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.25,0.3460744833502593,0.3460744833502593
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.3714285714285715,0.8295482401467775,0.8295482401467775
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.6571428571428573,0.5681238086238961,0.5681238086238961
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.2571428571428572,0.712286971239438,0.712286971239438
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.14285714285714288,0.7678473434284734,0.7678473434284734
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,0.14285714285714288,0.7148778644329677,0.7148778644329677
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.7090909090909091,0.41428539681343246,0.41428539681343246
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.6,0.5855756972109564,0.5855756972109564
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.4363636363636364,0.4344107776886066,0.4344107776886066
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.36363636363636365,0.4959856442183959,0.4959856442183959
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.5428571428571429,0.7165140662431766,0.7165140662431766
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.5272727272727272,0.7241879080990192,0.7241879080990192
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.41818181818181815,0.478034284580349,0.478034284580349
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.5,0.37720750801513786,0.37720750801513786
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.65,0.06398894127593124,0.22697154217050614
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.6571428571428573,0.6632414908977975,0.6632414908977975
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.2571428571428572,0.7561697535132785,0.7561697535132785
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,0.15000000000000002,0.5406589263830284,0.5406589263830284
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.8,-0.08449438582766455,0.08449438582766455
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.8,0.4905844723106917,0.4905844723106917
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.32727272727272727,0.49889464676676076,0.49889464676676076
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.36363636363636365,0.5008578247271259,0.5008578247271259
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.01818181818181818,0.6201078045986574,0.6201078045986574
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.5636363636363636,0.7518183672746058,0.7518183672746058
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.45,0.3008463205713161,0.3008463205713161
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.775,0.30662399638761484,0.30662399638761484
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.325,0.38263667583638655,0.38263667583638655
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.2727272727272727,0.5376498801808969,0.5376498801808969
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.4909090909090909,0.7655538101548606,0.7655538101548606
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.2,0.685370411804907,0.685370411804907
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.4,0.3894521136891698,0.3894521136891698
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.03636363636363636,0.5819174248054887,0.5819174248054887
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.7818181818181817,0.3145907246702915,0.3145907246702915
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,3450,1567,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.5428571428571429,0.8626079875124435,0.8626079875124435
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,0.2181818181818182,0.7614153713736815,0.7614153713736815
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.41818181818181815,0.49787383371804744,0.49787383371804744
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,-0.7714285714285715,0.24798782181801024,0.44831142714523353
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,3450,1567,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.3090909090909091,0.48068729494864804,0.5809333438233008
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,3869,806,correct_bombay,1,BOMBAY,0.4,0.25,-0.8250000000000001,0.09421757322468569,0.09421757322468569
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,3869,806,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.3142857142857143,0.8355542702574821,0.8355542702574821
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,0.4363636363636364,0.8067160373137574,0.8067160373137574
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,3869,806,correct_bombay,1,BOMBAY,0.4,0.25,-0.5,0.37689308551069267,0.37689308551069267
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.4363636363636364,0.13412595098047292,0.3979765544725788
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,3869,806,correct_bombay,1,BOMBAY,0.6,0.42857142857142855,-0.2545454545454545,0.4374905028993253,0.5682423933087097
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,10554,1099,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.6909090909090909,0.3739551536967374,0.3739551536967374
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,10554,1099,correct_dermason,3,DERMASON,0.4,0.25,-0.6000000000000001,0.21259334632892593,0.21259334632892593
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.2571428571428572,0.9187620976520463,0.9187620976520463
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,10554,1099,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.01818181818181818,0.683641778729874,0.683641778729874
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,10554,1099,correct_dermason,3,DERMASON,0.4,0.25,-0.45,0.2798173222934927,0.2798173222934927
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,10554,1099,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.8181818181818182,0.09352289921567564,0.09352289921567564
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,-0.325,0.20883757567938066,0.20883757567938066
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,11193,2097,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.6545454545454545,0.2600299497878856,0.2600299497878856
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,11193,2097,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.3142857142857143,0.9321615309589396,0.9321615309589396
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,0.025,0.6543383897499407,0.6543383897499407
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,-0.5,0.17830146825368032,0.17830146825368032
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,11193,2097,correct_dermason,3,DERMASON,0.4,0.25,-0.8,0.1478377552081864,0.1478377552081864
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11538,2056,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.32727272727272727,0.3625071624376628,0.3625071624376628
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,11538,2056,correct_dermason,3,DERMASON,0.4,0.25,-0.65,0.17956545217253078,0.17956545217253078
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.48571428571428577,0.9241118139150518,0.9241118139150518
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,11538,2056,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.0,0.6730798627586848,0.6730798627586848
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,11538,2056,correct_dermason,3,DERMASON,0.4,0.25,-0.4,0.266937653650044,0.266937653650044
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,11538,2056,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.8181818181818182,0.08329722517651138,0.08329722517651138
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,11678,1622,correct_dermason,3,DERMASON,0.4,0.25,-0.475,0.21887895005828403,0.21887895005828403
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,11678,1622,correct_dermason,3,DERMASON,0.4,0.25,-0.9,0.1825382491019754,0.1825382491019754
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.7142857142857143,0.9325696881279979,0.9325696881279979
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,11678,1622,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.1090909090909091,0.6797354283038052,0.6797354283038052
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,11678,1622,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.5727272727272728,0.10354366200059226,0.10354366200059226
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,11678,1622,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.8181818181818182,0.06624971377172283,0.06624971377172283
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.2571428571428572,0.4912714869161212,0.4912714869161212
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.32727272727272727,0.2590910368883797,0.2590910368883797
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,12185,322,correct_dermason,3,DERMASON,1.0,1.0,0.8999999999999998,0.9856269880259005,0.9856269880259005
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,12185,322,correct_dermason,3,DERMASON,0.4,0.25,-0.15000000000000002,0.6046637580949362,0.6046637580949362
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.08571428571428573,0.4577387800802708,0.4577387800802708
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.4,0.2539758840835334,0.2539758840835334
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12237,1552,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.5818181818181818,0.16165564344002045,0.2845188845443854
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,12237,1552,correct_dermason,3,DERMASON,0.4,0.25,-0.65,0.20561131465724053,0.20561131465724053
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.9190299320412331,0.9190299320412331
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,12237,1552,correct_dermason,3,DERMASON,0.4,0.25,0.025,0.6280310652911927,0.6280310652911927
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,12237,1552,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.6909090909090909,-0.015933614961349797,0.18834474147988678
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,12237,1552,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.7363636363636364,0.09110972227128367,0.09110972227128367
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12383,386,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.4727272727272727,0.2481281093895383,0.2481281093895383
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.7636363636363637,0.40788146666605485,0.40788146666605485
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.07272727272727272,0.6659532642118923,0.6659532642118923
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,12383,386,correct_dermason,3,DERMASON,0.4,0.25,-0.1,0.6064064724397514,0.6064064724397514
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,12383,386,correct_dermason,3,DERMASON,0.4,0.25,-0.625,0.03194264068973536,0.222880196694733
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,12383,386,correct_dermason,3,DERMASON,0.4,0.25,-0.8500000000000001,0.219545434683514,0.219545434683514
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12838,2412,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.2525854874901198,0.2525854874901198
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,12838,2412,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.2,0.6849962867854319,0.6849962867854319
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,12838,2412,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.4909090909090909,0.7172850290605043,0.7172850290605043
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,12838,2412,correct_dermason,3,DERMASON,0.4,0.25,0.15000000000000002,0.6914237866861555,0.6914237866861555
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,12838,2412,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.1090909090909091,0.47759864323618456,0.588826212182051
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,12838,2412,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.5818181818181818,0.7350599387417,0.7350599387417
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7636,2067,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.3614748294283919,0.3614748294283919
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7636,2067,correct_sira,6,SIRA,0.4,0.25,-0.15000000000000002,0.43403916607220355,0.43403916607220355
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7636,2067,correct_sira,6,SIRA,0.8,0.6666666666666666,0.08571428571428573,0.8282282870236183,0.8282282870236183
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7636,2067,correct_sira,6,SIRA,0.6,0.42857142857142855,0.4,0.31715729189789993,0.7293386267413184
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7636,2067,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7272727272727273,0.17182550497292334,0.17182550497292334
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7636,2067,correct_sira,6,SIRA,0.4,0.25,-0.65,0.3089069298905777,0.3089069298905777
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,8943,362,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8636363636363635,0.07428758438120403,0.07428758438120403
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,8943,362,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.37272727272727274,0.2792805139329221,0.2792805139329221
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,8943,362,correct_sira,6,SIRA,0.6,0.42857142857142855,0.5272727272727272,0.8108257699081248,0.8108257699081248
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,8943,362,correct_sira,6,SIRA,0.4,0.25,-0.75,0.36917364915386713,0.36917364915386713
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,8943,362,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,0.07624089766304816,0.07624089766304816
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,8943,362,correct_sira,6,SIRA,0.4,0.25,0.15000000000000002,0.5590225656479015,0.5590225656479015
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9111,186,correct_sira,6,SIRA,0.4,0.25,-0.35000000000000003,-0.1552158701132185,0.3325082515812326
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8636363636363635,0.06543245165342973,0.06543245165342973
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,9111,186,correct_sira,6,SIRA,0.6,0.42857142857142855,0.16363636363636364,0.7707096121044396,0.7707096121044396
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.609090909090909,-0.21187404257170075,0.21187404257170075
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,9111,186,correct_sira,6,SIRA,0.4,0.25,-0.5,-0.3343584292005596,0.3343584292005596
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,9111,186,correct_sira,6,SIRA,0.4,0.25,-0.275,0.34280745369701365,0.34280745369701365
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9316,462,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,9316,462,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,-0.0809330056938513,0.0809330056938513
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,9316,462,correct_sira,6,SIRA,0.6,0.42857142857142855,0.2909090909090909,0.7205718078362995,0.7205718078362995
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,9316,462,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.37272727272727274,0.31553074526231367,0.31553074526231367
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,9316,462,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6545454545454545,-0.13938752780703742,0.13938752780703742
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,9316,462,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.609090909090909,0.23144383261127227,0.23144383261127227
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9463,1293,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,9463,1293,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,9463,1293,correct_sira,6,SIRA,0.8,0.6666666666666666,0.7142857142857143,0.9039070800937309,0.9039070800937309
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,9463,1293,correct_sira,6,SIRA,0.4,0.25,-0.42500000000000004,-0.030854149397012923,0.4168615113624913
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,9463,1293,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7363636363636364,0.11258597831983705,0.11258597831983705
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,9463,1293,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6727272727272727,-0.12503043004544542,0.12503043004544542
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.65,0.08834969349904004,0.20436453089377712
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,9919,1094,correct_sira,6,SIRA,0.4,0.25,0.05,0.6672486022650153,0.6672486022650153
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.4727272727272727,0.238061363637999,0.238061363637999
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.7000000000000001,0.28968282110153376,0.28968282110153376
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7727272727272728,0.17579185770702374,0.17579185770702374
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.8,0.1563395863934477,0.1563395863934477
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,9967,1890,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6727272727272727,0.1553814705975975,0.1553814705975975
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,9967,1890,correct_sira,6,SIRA,0.8,0.6666666666666666,0.6,0.8795629325171601,0.8795629325171601
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,9967,1890,correct_sira,6,SIRA,0.4,0.25,-0.4,-0.0198108287138944,0.33943929693146085
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,9967,1890,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7272727272727273,0.08110255048585459,0.08110255048585459
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,9967,1890,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.6727272727272727,0.20595834959129355,0.20595834959129355
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.30000000000000004,0.5067779220524422,0.5067779220524422
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.2,0.5154825260118794,0.5154825260118794
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.1090909090909091,0.6670611330230942,0.6670611330230942
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.47374239137632956,0.47374239137632956
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.8,0.3722227209969837,0.3722227209969837
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.30000000000000004,0.06884600433069021,0.21408882780438682
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.6571428571428573,0.7160428095261143,0.7160428095261143
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.8857142857142858,0.9684733170040515,0.9684733170040515
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.09090909090909091,0.28365682677128723,0.6185955548057219
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.15000000000000002,-0.0013713996572832833,0.23570769646993409
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.7714285714285715,0.7542115285484243,0.7542115285484243
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.293449928515822,0.293449928515822
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.5,0.39954041566285964,0.39954041566285964
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.15000000000000002,0.5319801828721609,0.5319801828721609
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.05,0.5441891070158191,0.5441891070158191
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.6727272727272727,0.1578385956855651,0.1578385956855651
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4727272727272727,0.23283609130834695,0.23283609130834695
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.2181818181818182,0.18177560567659445,0.6103311731848193
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.37272727272727274,0.22890624818565894,0.22890624818565894
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.48571428571428577,0.8565714407686504,0.8565714407686504
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.36327889614403014,0.36327889614403014
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.35000000000000003,0.03370499587641704,0.37877651214104824
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.6000000000000001,0.31357976813314575,0.31357976813314575
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.025,0.10979062847299041,0.6151457388699599
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.14545454545454545,0.6182090135024013,0.6182090135024013
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.6,0.8088394832099425,0.8088394832099425
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.34788550414185676,0.34788550414185676
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4727272727272727,-0.2396335211760178,0.2396335211760178
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.18181818181818182,0.5858335807007184,0.5858335807007184
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.2,0.5304494521716874,0.5304494521716874
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4727272727272727,0.23167442366899085,0.23167442366899085
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.08571428571428573,0.7663363854088631,0.7663363854088631
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.4,0.4824322688122118,0.7194188348079572
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.45,0.022864697299303606,0.3528376381289165
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.7727272727272728,0.17464024162839978,0.17464024162839978
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.15000000000000002,0.6688470724345283,0.6688470724345283
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.25,0.5128121621554576,0.5128121621554576
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.08571428571428573,0.7362816625866778,0.7362816625866778
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.025,0.2882514398553347,0.6123860038317263
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.55,0.46824353469355023,0.46824353469355023
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.7636363636363637,0.25156907103817006,0.5541372967301427
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.37272727272727274,0.37356096673444644,0.37356096673444644
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.3827355787221455,0.3827355787221455
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.2,0.8285528011139572,0.8285528011139572
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.2,0.08674505615399318,0.5575602946433651
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.6000000000000001,0.31357168168182986,0.31357168168182986
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.24163635538552553,0.24163635538552553
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13499,182,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.37272727272727274,0.3570423655275511,0.3570423655275511
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13499,182,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.36363636363636365,0.6851484812457596,0.6851484812457596
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.30000000000000004,0.29054304267032766,0.29054304267032766
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13499,182,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.37272727272727274,0.34091541706287204,0.34091541706287204
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.025,0.6904442540079341,0.6904442540079341
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.5272727272727272,0.35508340780248954,0.35508340780248954
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.4626949899099059,0.4626949899099059
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.3684261363316574,0.3684261363316574
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.6,0.8296795029111192,0.8296795029111192
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,13514,54,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.36363636363636365,0.4552684612011167,0.7681333804581082
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.2572773459439112,0.2572773459439112
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.4909090909090909,0.20486000626511022,0.20486000626511022
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.18835700608163533,0.18835700608163533
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7426,942,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.2571428571428572,0.3942792718956509,0.3942792718956509
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.7714285714285715,0.9721645120969057,0.9721645120969057
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6363636363636364,0.4428167432125485,0.4428167432125485
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.5272727272727272,0.20855330137163022,0.2695698745720456
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.1090909090909091,0.32324859472891554,0.32324859472891554
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.028571428571428574,0.539984046449447,0.539984046449447
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.6,0.6867146091256899,0.6867146091256899
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.8285714285714287,0.9687833262144108,0.9687833262144108
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.5428571428571429,0.9201661809292805,0.9201661809292805
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.16363636363636364,0.5250525698672531,0.5250525698672531
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.4,0.6868192906926813,0.6868192906926813
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.4,0.32711231614070063,0.32711231614070063
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.6545454545454545,0.6769976256324894,0.6769976256324894
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,-0.6720247894939898,0.6720247894939898
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7526,1439,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.14285714285714288,0.7355886595512239,0.7355886595512239
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.35000000000000003,0.08101589454166339,0.3616551385822168
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.12727272727272726,-0.1115102829076694,0.621792635964386
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7568,1414,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,-0.2,0.19717034854566737,0.6786015667631394
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.37272727272727274,0.23780908961422784,0.23780908961422784
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.5727272727272728,0.21150524627894174,0.21150524627894174
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.3105121598415815,0.3105121598415815
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.4,0.25,0.1,0.5628461103383477,0.5628461103383477
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.32727272727272727,0.57526342447106,0.57526342447106
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7604,217,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.36057516536414613,0.36057516536414613
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7604,217,sira_predicted_as_dermason,6,SIRA,0.4,0.25,0.15000000000000002,0.5029485651578897,0.5029485651578897
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.09090909090909091,0.5730357005621682,0.5730357005621682
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7604,217,sira_predicted_as_dermason,6,SIRA,0.4,0.25,0.15000000000000002,0.5160049485479158,0.5160049485479158
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8,0.1532379099726471,0.1532379099726471
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.38961040870471547,0.38961040870471547
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7683,2179,sira_predicted_as_dermason,6,SIRA,0.4,0.25,0.025,0.5184697823676816,0.5184697823676816
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.1090909090909091,0.6167454320035508,0.6167454320035508
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.7454545454545455,0.12420742618904256,0.48910667360247345
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7683,2179,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.6571428571428573,0.8521341945964205,0.8521341945964205
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.525,0.2780263560468569,0.2780263560468569
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.4363636363636364,0.5386903102861881,0.5386903102861881
+cross_model_same_method,LIME,logistic_regression,decision_tree,Logistic Regression vs Decision Tree,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.675,0.28789165903642855,0.28789165903642855
+cross_model_same_method,LIME,logistic_regression,random_forest,Logistic Regression vs Random Forest,7761,21,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,0.10633776245182705,0.10633776245182705
+cross_model_same_method,LIME,logistic_regression,mlp,Logistic Regression vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.48571428571428577,0.8409747296670685,0.8409747296670685
+cross_model_same_method,LIME,decision_tree,random_forest,Decision Tree vs Random Forest,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.5,0.3919243225488486,0.3919243225488486
+cross_model_same_method,LIME,decision_tree,mlp,Decision Tree vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.9,0.012000130125312418,0.3093231478245817
+cross_model_same_method,LIME,random_forest,mlp,Random Forest vs MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.65,0.08127914815955335,0.3193762350177849

@@ -1,0 +1,43 @@
+{
+    "notebook": "07_explanation_stability",
+    "random_state": 42,
+    "top_k": 5,
+    "models": [
+        "logistic_regression",
+        "decision_tree",
+        "random_forest",
+        "mlp"
+    ],
+    "methods": [
+        "SHAP",
+        "LIME"
+    ],
+    "number_of_selected_samples": 40,
+    "input_files": {
+        "selected_samples": "results/05_shap_explanations/selected_samples.csv",
+        "local_shap": "results/05_shap_explanations/local_shap_explanations_all_models.csv",
+        "local_lime_top_k": "results/06_lime_explanations/local_lime_top_5_explanations_all_models.csv",
+        "local_lime_full": "results/06_lime_explanations/local_lime_explanations_all_models.csv",
+        "X_test_scaled": "data/processed/X_test_scaled.csv"
+    },
+    "saved_outputs": {
+        "unified_top_k_explanations": "results/07_explanation_stability/unified_top_k_explanations.csv",
+        "shap_lime_method_agreement_by_sample": "results/07_explanation_stability/shap_lime_method_agreement_by_sample.csv",
+        "shap_lime_method_agreement_summary_by_model": "results/07_explanation_stability/shap_lime_method_agreement_summary_by_model.csv",
+        "cross_model_stability_by_sample": "results/07_explanation_stability/cross_model_stability_by_sample.csv",
+        "cross_model_stability_summary": "results/07_explanation_stability/cross_model_stability_summary.csv",
+        "within_group_stability_pairs": "results/07_explanation_stability/within_group_stability_pairs.csv",
+        "within_group_stability_summary": "results/07_explanation_stability/within_group_stability_summary.csv",
+        "nearest_neighbor_pairs": "results/07_explanation_stability/nearest_neighbor_pairs.csv",
+        "nearest_neighbor_explanation_stability": "results/07_explanation_stability/nearest_neighbor_explanation_stability.csv",
+        "nearest_neighbor_stability_summary": "results/07_explanation_stability/nearest_neighbor_stability_summary.csv",
+        "dermason_sira_stability_summary": "results/07_explanation_stability/dermason_sira_stability_summary.json",
+        "overall_stability_summary": "results/07_explanation_stability/overall_stability_summary.csv"
+    },
+    "plots": {
+        "shap_lime_agreement_by_model": "plots/07_explanation_stability/shap_lime_agreement_by_model.png",
+        "cross_model_stability_by_method": "plots/07_explanation_stability/cross_model_stability_by_method.png",
+        "within_group_stability_by_selection_group": "plots/07_explanation_stability/within_group_stability_by_selection_group.png",
+        "nearest_neighbor_stability_by_model_method": "plots/07_explanation_stability/nearest_neighbor_stability_by_model_method.png"
+    }
+}

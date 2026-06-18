@@ -1,0 +1,161 @@
+comparison_type,model_name,display_name,sample_id,row_index,selection_group,true_label,true_class_name,top_k_overlap,jaccard_similarity,rank_correlation,signed_cosine_similarity,abs_cosine_similarity
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,1.0,1.0,0.6,0.9042921694896544,0.9042921694896544
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.1,0.6318246063002715,0.6318246063002715
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.1090909090909091,0.7021791894622811,0.7021791894622811
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.3090909090909091,0.827497013033471,0.827497013033471
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.32727272727272727,0.7655029766799251,0.7655029766799251
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,1.0,1.0,0.49999999999999994,0.9776712397259334,0.9776712397259334
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,3450,1567,correct_bombay,1,BOMBAY,1.0,1.0,0.9999999999999999,0.988680075631681,0.988680075631681
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,3869,806,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.8285714285714287,0.9306221814431863,0.9306221814431863
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.48571428571428577,0.8387231727654231,0.8387231727654231
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,11193,2097,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.942857142857143,0.8886849620829208,0.8886849620829208
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.3714285714285715,0.7992756249843741,0.7992756249843741
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.2571428571428572,0.8328033779664263,0.8328033779664263
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,12185,322,correct_dermason,3,DERMASON,1.0,1.0,0.7999999999999999,0.9424545844780938,0.9424545844780938
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.3714285714285715,0.8114471822777742,0.8114471822777742
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.18181818181818182,0.7151719750088332,0.7151719750088332
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,12838,2412,correct_dermason,3,DERMASON,0.6,0.42857142857142855,-0.18181818181818182,0.5704689828444439,0.5704689828444439
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7636,2067,correct_sira,6,SIRA,0.6,0.42857142857142855,0.2727272727272727,0.6873565167963992,0.6873565167963992
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,8943,362,correct_sira,6,SIRA,0.6,0.42857142857142855,-0.14545454545454545,0.2654278278990007,0.5417432721960431
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,9111,186,correct_sira,6,SIRA,0.4,0.25,-0.4,-0.07077759454697294,0.2763375624839892
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,9316,462,correct_sira,6,SIRA,0.4,0.25,0.0,0.11412236828110034,0.45670006259967905
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,9463,1293,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7363636363636364,-0.09450511761485758,0.09450511761485758
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.25,0.3205069562241822,0.3205069562241822
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,9967,1890,correct_sira,6,SIRA,0.6,0.42857142857142855,0.5818181818181818,0.7767613620845812,0.7767613620845812
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.3090909090909091,0.5852880554684435,0.5852880554684435
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13136,1480,dermason_predicted_as_sira,3,DERMASON,1.0,1.0,0.7,0.8949101146554764,0.8949101146554764
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.5454545454545454,0.7275111639050786,0.7275111639050786
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.5428571428571429,0.8087192855758216,0.8087192855758216
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13381,1676,dermason_predicted_as_sira,3,DERMASON,1.0,1.0,0.09999999999999999,0.9733247102989264,0.9733247102989264
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.08571428571428573,0.7530808461396078,0.7530808461396078
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.2,0.8238601127194299,0.8238601127194299
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.36363636363636365,0.7603072761191171,0.7603072761191171
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13499,182,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.832756723887462,0.832756723887462
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,13514,54,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.2181818181818182,0.6813937341195557,0.6813937341195557
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7426,942,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.6909090909090909,0.8073720668177046,0.8073720668177046
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7434,693,sira_predicted_as_dermason,6,SIRA,1.0,1.0,0.8999999999999998,0.8859046122189794,0.8859046122189794
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7526,1439,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.5428571428571429,0.812341718051738,0.812341718051738
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7568,1414,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.25,0.4206355655538055,0.4206355655538055
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7604,217,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.3142857142857143,0.8324565225557524,0.8324565225557524
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.6909090909090909,0.7389533919156202,0.7389533919156202
+shap_vs_lime_same_model,logistic_regression,Logistic Regression,7761,21,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.23636363636363636,0.6941511900809302,0.6941511900809302
+shap_vs_lime_same_model,decision_tree,Decision Tree,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.12727272727272726,0.5548968989158319,0.5548968989158319
+shap_vs_lime_same_model,decision_tree,Decision Tree,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.14545454545454545,0.7046513303019596,0.7046513303019596
+shap_vs_lime_same_model,decision_tree,Decision Tree,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,0.48571428571428577,0.7220195678612512,0.8762632047089328
+shap_vs_lime_same_model,decision_tree,Decision Tree,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.16363636363636364,0.7026901731047952,0.7026901731047952
+shap_vs_lime_same_model,decision_tree,Decision Tree,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.07272727272727272,0.6281954316029477,0.6281954316029477
+shap_vs_lime_same_model,decision_tree,Decision Tree,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.5818181818181818,0.45527575563381195,0.45527575563381195
+shap_vs_lime_same_model,decision_tree,Decision Tree,3450,1567,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.7714285714285715,0.9168855863412889,0.9168855863412889
+shap_vs_lime_same_model,decision_tree,Decision Tree,3869,806,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.7714285714285715,0.9458601495600946,0.9458601495600946
+shap_vs_lime_same_model,decision_tree,Decision Tree,10554,1099,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.724531635286337,0.724531635286337
+shap_vs_lime_same_model,decision_tree,Decision Tree,11193,2097,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.32727272727272727,0.6492164393668863,0.6492164393668863
+shap_vs_lime_same_model,decision_tree,Decision Tree,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.6571428571428573,0.7739732838788327,0.7739732838788327
+shap_vs_lime_same_model,decision_tree,Decision Tree,11678,1622,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.32727272727272727,0.7014203624884175,0.7014203624884175
+shap_vs_lime_same_model,decision_tree,Decision Tree,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.8285714285714287,0.6774771209113792,0.6774771209113792
+shap_vs_lime_same_model,decision_tree,Decision Tree,12237,1552,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.5272727272727272,0.7978045561323674,0.7978045561323674
+shap_vs_lime_same_model,decision_tree,Decision Tree,12383,386,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.6545454545454545,0.8799840680948394,0.8799840680948394
+shap_vs_lime_same_model,decision_tree,Decision Tree,12838,2412,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.41818181818181815,0.6589679095602959,0.6589679095602959
+shap_vs_lime_same_model,decision_tree,Decision Tree,7636,2067,correct_sira,6,SIRA,0.8,0.6666666666666666,0.3142857142857143,0.07719967755720937,0.7771886688088581
+shap_vs_lime_same_model,decision_tree,Decision Tree,8943,362,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,0.06983160859779987,0.06983160859779987
+shap_vs_lime_same_model,decision_tree,Decision Tree,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.8636363636363635,-0.044897741353988,0.044897741353988
+shap_vs_lime_same_model,decision_tree,Decision Tree,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.275,-0.03699843984186363,0.23088014230630616
+shap_vs_lime_same_model,decision_tree,Decision Tree,9463,1293,correct_sira,6,SIRA,0.4,0.25,-0.725,0.015093896017534036,0.07781905991600566
+shap_vs_lime_same_model,decision_tree,Decision Tree,9919,1094,correct_sira,6,SIRA,0.4,0.25,0.0,-0.20031102033297765,0.35950665500581175
+shap_vs_lime_same_model,decision_tree,Decision Tree,9967,1890,correct_sira,6,SIRA,0.6,0.42857142857142855,0.16363636363636364,0.7239280988384946,0.7239280988384946
+shap_vs_lime_same_model,decision_tree,Decision Tree,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.6121651457229875,0.6121651457229875
+shap_vs_lime_same_model,decision_tree,Decision Tree,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.5454545454545454,0.339827326154748,0.6718114698381313
+shap_vs_lime_same_model,decision_tree,Decision Tree,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.2,0.5091105635868,0.5091105635868
+shap_vs_lime_same_model,decision_tree,Decision Tree,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.05,0.5938839535058366,0.5938839535058366
+shap_vs_lime_same_model,decision_tree,Decision Tree,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+shap_vs_lime_same_model,decision_tree,Decision Tree,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.1,-0.27161653666417873,0.4969244642639926
+shap_vs_lime_same_model,decision_tree,Decision Tree,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.7727272727272728,0.07608329192764351,0.07608329192764351
+shap_vs_lime_same_model,decision_tree,Decision Tree,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.8636363636363635,0.05876219867338453,0.05876219867338453
+shap_vs_lime_same_model,decision_tree,Decision Tree,13499,182,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.03636363636363636,0.6132556434700603,0.6132556434700603
+shap_vs_lime_same_model,decision_tree,Decision Tree,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.6576217153933431,0.6576217153933431
+shap_vs_lime_same_model,decision_tree,Decision Tree,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.35000000000000003,0.4571883085197516,0.4571883085197516
+shap_vs_lime_same_model,decision_tree,Decision Tree,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.07272727272727272,0.4833080151357333,0.4833080151357333
+shap_vs_lime_same_model,decision_tree,Decision Tree,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6,0.4400408517319009,0.4400408517319009
+shap_vs_lime_same_model,decision_tree,Decision Tree,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8,0.05020995842001587,0.05020995842001587
+shap_vs_lime_same_model,decision_tree,Decision Tree,7604,217,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.05,0.5647576456915201,0.5647576456915201
+shap_vs_lime_same_model,decision_tree,Decision Tree,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.5636363636363636,0.6554090381401533,0.8207719605112166
+shap_vs_lime_same_model,decision_tree,Decision Tree,7761,21,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.4363636363636364,0.24737891815916815,0.3564092180341862
+shap_vs_lime_same_model,random_forest,Random Forest,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.2,0.1111111111111111,-0.7272727272727273,0.15051914989521648,0.15051914989521648
+shap_vs_lime_same_model,random_forest,Random Forest,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.0,0.615898122865794,0.615898122865794
+shap_vs_lime_same_model,random_forest,Random Forest,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.05454545454545455,0.6347645875099502,0.6347645875099502
+shap_vs_lime_same_model,random_forest,Random Forest,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,0.0,0.35169962397729426,0.35169962397729426
+shap_vs_lime_same_model,random_forest,Random Forest,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.35000000000000003,0.33073049016887973,0.33073049016887973
+shap_vs_lime_same_model,random_forest,Random Forest,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.01818181818181818,0.41297766230827054,0.41297766230827054
+shap_vs_lime_same_model,random_forest,Random Forest,3450,1567,correct_bombay,1,BOMBAY,1.0,1.0,0.0,0.9888749569546594,0.9888749569546594
+shap_vs_lime_same_model,random_forest,Random Forest,3869,806,correct_bombay,1,BOMBAY,1.0,1.0,0.7,0.9947941675484533,0.9947941675484533
+shap_vs_lime_same_model,random_forest,Random Forest,10554,1099,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.5272727272727272,0.7343371398105085,0.7343371398105085
+shap_vs_lime_same_model,random_forest,Random Forest,11193,2097,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.8857142857142858,0.8851749500449051,0.8851749500449051
+shap_vs_lime_same_model,random_forest,Random Forest,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.8285714285714287,0.8863127046962427,0.8863127046962427
+shap_vs_lime_same_model,random_forest,Random Forest,11678,1622,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.6571428571428573,0.877592296267538,0.877592296267538
+shap_vs_lime_same_model,random_forest,Random Forest,12185,322,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.4285714285714286,0.8380334199820081,0.8380334199820081
+shap_vs_lime_same_model,random_forest,Random Forest,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.8857142857142858,0.8893611597278146,0.8893611597278146
+shap_vs_lime_same_model,random_forest,Random Forest,12383,386,correct_dermason,3,DERMASON,1.0,1.0,0.7,0.9849589117974438,0.9849589117974438
+shap_vs_lime_same_model,random_forest,Random Forest,12838,2412,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.5428571428571429,0.8301029089541938,0.8301029089541938
+shap_vs_lime_same_model,random_forest,Random Forest,7636,2067,correct_sira,6,SIRA,0.6,0.42857142857142855,0.4,0.7259691682605832,0.7259691682605832
+shap_vs_lime_same_model,random_forest,Random Forest,8943,362,correct_sira,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0
+shap_vs_lime_same_model,random_forest,Random Forest,9111,186,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.7727272727272728,0.17338298375709363,0.17338298375709363
+shap_vs_lime_same_model,random_forest,Random Forest,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.75,0.3094668239461159,0.3094668239461159
+shap_vs_lime_same_model,random_forest,Random Forest,9463,1293,correct_sira,6,SIRA,0.4,0.25,-0.8500000000000001,0.04555290233725722,0.2639692484219192
+shap_vs_lime_same_model,random_forest,Random Forest,9919,1094,correct_sira,6,SIRA,0.4,0.25,-0.4,0.35017962657048113,0.35017962657048113
+shap_vs_lime_same_model,random_forest,Random Forest,9967,1890,correct_sira,6,SIRA,0.4,0.25,0.275,0.6044482212400982,0.6044482212400982
+shap_vs_lime_same_model,random_forest,Random Forest,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.6571428571428573,0.7104495333136146,0.7104495333136146
+shap_vs_lime_same_model,random_forest,Random Forest,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.2571428571428572,0.8210524249473427,0.8210524249473427
+shap_vs_lime_same_model,random_forest,Random Forest,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.775,0.2671432581599248,0.2671432581599248
+shap_vs_lime_same_model,random_forest,Random Forest,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.5636363636363636,0.5499041389261108,0.5499041389261108
+shap_vs_lime_same_model,random_forest,Random Forest,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,0.025,0.4747131329647578,0.4747131329647578
+shap_vs_lime_same_model,random_forest,Random Forest,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.45454545454545453,0.30373398627575465,0.534298824884229
+shap_vs_lime_same_model,random_forest,Random Forest,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,0.14285714285714288,0.7932724680449358,0.7932724680449358
+shap_vs_lime_same_model,random_forest,Random Forest,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.2,0.6526694570040015,0.6526694570040015
+shap_vs_lime_same_model,random_forest,Random Forest,13499,182,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.35000000000000003,0.42928893279717045,0.42928893279717045
+shap_vs_lime_same_model,random_forest,Random Forest,13514,54,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.5636363636363636,0.7501050598105271,0.7501050598105271
+shap_vs_lime_same_model,random_forest,Random Forest,7426,942,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.05,0.4851748430988534,0.4851748430988534
+shap_vs_lime_same_model,random_forest,Random Forest,7434,693,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.2571428571428572,0.7488945650563762,0.7488945650563762
+shap_vs_lime_same_model,random_forest,Random Forest,7526,1439,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.0,0.5813197173491597,0.5813197173491597
+shap_vs_lime_same_model,random_forest,Random Forest,7568,1414,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.18181818181818182,0.6459486855777933,0.6459486855777933
+shap_vs_lime_same_model,random_forest,Random Forest,7604,217,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.6545454545454545,0.564078469347948,0.564078469347948
+shap_vs_lime_same_model,random_forest,Random Forest,7683,2179,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.07272727272727272,0.6535491161473291,0.6535491161473291
+shap_vs_lime_same_model,random_forest,Random Forest,7761,21,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.6,0.8757477571588581,0.8757477571588581
+shap_vs_lime_same_model,mlp,MLP,2573,192,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,-0.14545454545454545,0.5614987148863376,0.5614987148863376
+shap_vs_lime_same_model,mlp,MLP,2590,960,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.2545454545454545,0.6720555916439163,0.6720555916439163
+shap_vs_lime_same_model,mlp,MLP,2591,66,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.2545454545454545,0.6411498791542162,0.6411498791542162
+shap_vs_lime_same_model,mlp,MLP,2790,126,barbunya_predicted_as_cali,0,BARBUNYA,0.6,0.42857142857142855,0.16363636363636364,0.6130271065647837,0.6130271065647837
+shap_vs_lime_same_model,mlp,MLP,2883,553,barbunya_predicted_as_cali,0,BARBUNYA,0.8,0.6666666666666666,-0.14285714285714288,0.7269213499639642,0.7269213499639642
+shap_vs_lime_same_model,mlp,MLP,3330,895,barbunya_predicted_as_cali,0,BARBUNYA,0.4,0.25,-0.2,0.4706318020927186,0.4706318020927186
+shap_vs_lime_same_model,mlp,MLP,3450,1567,correct_bombay,1,BOMBAY,1.0,1.0,0.6,0.9029576891903889,0.9029576891903889
+shap_vs_lime_same_model,mlp,MLP,3869,806,correct_bombay,1,BOMBAY,0.8,0.6666666666666666,0.8857142857142858,0.866617105682047,0.866617105682047
+shap_vs_lime_same_model,mlp,MLP,10554,1099,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.16363636363636364,0.8314580820229306,0.8314580820229306
+shap_vs_lime_same_model,mlp,MLP,11193,2097,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.3090909090909091,0.8746224594268457,0.8746224594268457
+shap_vs_lime_same_model,mlp,MLP,11538,2056,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.7142857142857143,0.9095154586826198,0.9095154586826198
+shap_vs_lime_same_model,mlp,MLP,11678,1622,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.5636363636363636,0.8735025854682239,0.8735025854682239
+shap_vs_lime_same_model,mlp,MLP,12185,322,correct_dermason,3,DERMASON,0.6,0.42857142857142855,0.4363636363636364,0.9095149433049853,0.9095149433049853
+shap_vs_lime_same_model,mlp,MLP,12237,1552,correct_dermason,3,DERMASON,0.8,0.6666666666666666,-0.08571428571428573,0.7568594092008084,0.7568594092008084
+shap_vs_lime_same_model,mlp,MLP,12383,386,correct_dermason,3,DERMASON,0.8,0.6666666666666666,0.6,0.8698419732615353,0.8698419732615353
+shap_vs_lime_same_model,mlp,MLP,12838,2412,correct_dermason,3,DERMASON,0.2,0.1111111111111111,-0.8181818181818182,0.1659248900465387,0.1659248900465387
+shap_vs_lime_same_model,mlp,MLP,7636,2067,correct_sira,6,SIRA,0.6,0.42857142857142855,-0.7636363636363637,0.4066906847397168,0.4066906847397168
+shap_vs_lime_same_model,mlp,MLP,8943,362,correct_sira,6,SIRA,0.6,0.42857142857142855,0.2,0.5575702931204869,0.5575702931204869
+shap_vs_lime_same_model,mlp,MLP,9111,186,correct_sira,6,SIRA,0.6,0.42857142857142855,0.2181818181818182,0.7291065994643767,0.7291065994643767
+shap_vs_lime_same_model,mlp,MLP,9316,462,correct_sira,6,SIRA,0.4,0.25,-0.125,0.519811208053071,0.519811208053071
+shap_vs_lime_same_model,mlp,MLP,9463,1293,correct_sira,6,SIRA,0.6,0.42857142857142855,-0.16363636363636364,0.5685578735408022,0.5685578735408022
+shap_vs_lime_same_model,mlp,MLP,9919,1094,correct_sira,6,SIRA,0.2,0.1111111111111111,-0.37272727272727274,0.34665578589403173,0.34665578589403173
+shap_vs_lime_same_model,mlp,MLP,9967,1890,correct_sira,6,SIRA,0.6,0.42857142857142855,-0.2181818181818182,0.6077984830322227,0.6077984830322227
+shap_vs_lime_same_model,mlp,MLP,12877,2335,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.4727272727272727,0.4727219834137425,0.4727219834137425
+shap_vs_lime_same_model,mlp,MLP,13136,1480,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,0.16363636363636364,0.8412431994320667,0.8412431994320667
+shap_vs_lime_same_model,mlp,MLP,13322,1696,dermason_predicted_as_sira,3,DERMASON,0.8,0.6666666666666666,-0.6,0.6894039281637205,0.6894039281637205
+shap_vs_lime_same_model,mlp,MLP,13372,2326,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.7000000000000001,0.2549029005279486,0.2549029005279486
+shap_vs_lime_same_model,mlp,MLP,13381,1676,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.34545454545454546,0.48642092037273893,0.48642092037273893
+shap_vs_lime_same_model,mlp,MLP,13395,1719,dermason_predicted_as_sira,3,DERMASON,0.4,0.25,-0.55,0.33570094751467866,0.33570094751467866
+shap_vs_lime_same_model,mlp,MLP,13448,2291,dermason_predicted_as_sira,3,DERMASON,0.0,0.0,-0.8620689655172413,0.0,0.0
+shap_vs_lime_same_model,mlp,MLP,13457,2148,dermason_predicted_as_sira,3,DERMASON,0.6,0.42857142857142855,-0.14545454545454545,0.6593658419606166,0.6593658419606166
+shap_vs_lime_same_model,mlp,MLP,13499,182,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.2545454545454546,0.489245271751963,0.489245271751963
+shap_vs_lime_same_model,mlp,MLP,13514,54,dermason_predicted_as_sira,3,DERMASON,0.2,0.1111111111111111,-0.7727272727272728,0.21254062386774084,0.21254062386774084
+shap_vs_lime_same_model,mlp,MLP,7426,942,sira_predicted_as_dermason,6,SIRA,0.8,0.6666666666666666,0.8285714285714287,0.9268270979883215,0.9268270979883215
+shap_vs_lime_same_model,mlp,MLP,7434,693,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,0.6909090909090909,0.9308403925379732,0.9308403925379732
+shap_vs_lime_same_model,mlp,MLP,7526,1439,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.8181818181818182,0.10060481744821674,0.10060481744821674
+shap_vs_lime_same_model,mlp,MLP,7568,1414,sira_predicted_as_dermason,6,SIRA,0.2,0.1111111111111111,-0.2545454545454546,0.3125441175615757,0.3125441175615757
+shap_vs_lime_same_model,mlp,MLP,7604,217,sira_predicted_as_dermason,6,SIRA,0.6,0.42857142857142855,-0.7090909090909091,0.4938611036746041,0.4938611036746041
+shap_vs_lime_same_model,mlp,MLP,7683,2179,sira_predicted_as_dermason,6,SIRA,0.4,0.25,-0.775,0.30649904543590195,0.30649904543590195
+shap_vs_lime_same_model,mlp,MLP,7761,21,sira_predicted_as_dermason,6,SIRA,0.0,0.0,-0.8620689655172413,0.0,0.0

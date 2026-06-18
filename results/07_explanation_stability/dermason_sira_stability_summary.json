@@ -1,0 +1,17 @@
+{
+    "method_agreement": {
+        "mean_top_k_overlap": 0.5609374999999999,
+        "mean_abs_cosine_similarity": 0.5900522845815741,
+        "n_comparisons": 128
+    },
+    "within_group_stability": {
+        "mean_top_k_overlap": 0.5830434782608696,
+        "mean_abs_cosine_similarity": 0.609693094706264,
+        "n_pairs": 920
+    },
+    "nearest_neighbor_stability": {
+        "mean_top_k_overlap": 0.60703125,
+        "mean_abs_cosine_similarity": 0.6374298964664459,
+        "n_pairs": 256
+    }
+}
