@@ -1,0 +1,65 @@
+model_name,display_name,feature,mean_abs_shap,rank
+logistic_regression,Logistic Regression,ShapeFactor1,1.3770058184178793,1
+logistic_regression,Logistic Regression,MinorAxisLength,1.0355745439223394,2
+logistic_regression,Logistic Regression,EquivDiameter,0.8529438791951693,3
+logistic_regression,Logistic Regression,Perimeter,0.851588048762111,4
+logistic_regression,Logistic Regression,ConvexArea,0.7528492413119742,5
+logistic_regression,Logistic Regression,MajorAxisLength,0.7475978053389808,6
+logistic_regression,Logistic Regression,Area,0.7349986741156137,7
+logistic_regression,Logistic Regression,ShapeFactor2,0.6594664091848715,8
+logistic_regression,Logistic Regression,ShapeFactor4,0.6078524543738373,9
+logistic_regression,Logistic Regression,roundness,0.43685879750936807,10
+logistic_regression,Logistic Regression,AspectRation,0.31457665160470966,11
+logistic_regression,Logistic Regression,Eccentricity,0.2728589622791524,12
+logistic_regression,Logistic Regression,Solidity,0.225791518022827,13
+logistic_regression,Logistic Regression,Extent,0.21357927790523207,14
+logistic_regression,Logistic Regression,ShapeFactor3,0.2023512500387214,15
+logistic_regression,Logistic Regression,Compactness,0.2002163768842599,16
+decision_tree,Decision Tree,MajorAxisLength,0.08581079191345393,1
+decision_tree,Decision Tree,Perimeter,0.06999313009930895,2
+decision_tree,Decision Tree,ShapeFactor1,0.05304610764862031,3
+decision_tree,Decision Tree,Compactness,0.03443274385734213,4
+decision_tree,Decision Tree,roundness,0.02942579606192517,5
+decision_tree,Decision Tree,ShapeFactor3,0.02474015958859311,6
+decision_tree,Decision Tree,MinorAxisLength,0.022507417853742606,7
+decision_tree,Decision Tree,ShapeFactor4,0.019976164220950606,8
+decision_tree,Decision Tree,Solidity,0.013348074669637092,9
+decision_tree,Decision Tree,ConvexArea,0.011311420914022076,10
+decision_tree,Decision Tree,EquivDiameter,0.010579565690426094,11
+decision_tree,Decision Tree,Extent,0.008837930299852336,12
+decision_tree,Decision Tree,Area,0.0073863649211332455,13
+decision_tree,Decision Tree,ShapeFactor2,0.005648911663297112,14
+decision_tree,Decision Tree,AspectRation,0.004347244372216076,15
+decision_tree,Decision Tree,Eccentricity,0.0034364622155694147,16
+random_forest,Random Forest,Perimeter,0.029611888105597093,1
+random_forest,Random Forest,ShapeFactor1,0.027062802904054255,2
+random_forest,Random Forest,ConvexArea,0.02450778435159657,3
+random_forest,Random Forest,MajorAxisLength,0.02424716635024822,4
+random_forest,Random Forest,MinorAxisLength,0.02347147302327051,5
+random_forest,Random Forest,roundness,0.020620283758589524,6
+random_forest,Random Forest,EquivDiameter,0.020141810349614202,7
+random_forest,Random Forest,Compactness,0.019243738001113214,8
+random_forest,Random Forest,ShapeFactor3,0.01855692539863022,9
+random_forest,Random Forest,Area,0.015552331045137745,10
+random_forest,Random Forest,ShapeFactor4,0.013868078520659771,11
+random_forest,Random Forest,AspectRation,0.010868337657138988,12
+random_forest,Random Forest,Eccentricity,0.01041706179431297,13
+random_forest,Random Forest,ShapeFactor2,0.009487706532693544,14
+random_forest,Random Forest,Solidity,0.006473591667033672,15
+random_forest,Random Forest,Extent,0.0031653234104130324,16
+mlp,MLP,ShapeFactor1,0.04529014026959775,1
+mlp,MLP,AspectRation,0.03122803187206813,2
+mlp,MLP,roundness,0.030464695693807244,3
+mlp,MLP,ShapeFactor4,0.027676351536149682,4
+mlp,MLP,MajorAxisLength,0.0223284719897603,5
+mlp,MLP,ConvexArea,0.022316569387283453,6
+mlp,MLP,ShapeFactor2,0.020761101096640592,7
+mlp,MLP,MinorAxisLength,0.01794902297503538,8
+mlp,MLP,Area,0.017712186085066545,9
+mlp,MLP,Perimeter,0.016921837634364622,10
+mlp,MLP,Compactness,0.016133173247074348,11
+mlp,MLP,ShapeFactor3,0.014942845159908983,12
+mlp,MLP,EquivDiameter,0.0130663395805239,13
+mlp,MLP,Eccentricity,0.012638899686103579,14
+mlp,MLP,Solidity,0.010424895902540797,15
+mlp,MLP,Extent,0.007627608247823925,16

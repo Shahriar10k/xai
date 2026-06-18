@@ -1,0 +1,17 @@
+model_name,display_name,feature,mean_abs_shap,rank
+logistic_regression,Logistic Regression,ShapeFactor1,1.3770058184178793,1
+logistic_regression,Logistic Regression,MinorAxisLength,1.0355745439223394,2
+logistic_regression,Logistic Regression,EquivDiameter,0.8529438791951693,3
+logistic_regression,Logistic Regression,Perimeter,0.851588048762111,4
+logistic_regression,Logistic Regression,ConvexArea,0.7528492413119742,5
+logistic_regression,Logistic Regression,MajorAxisLength,0.7475978053389808,6
+logistic_regression,Logistic Regression,Area,0.7349986741156137,7
+logistic_regression,Logistic Regression,ShapeFactor2,0.6594664091848715,8
+logistic_regression,Logistic Regression,ShapeFactor4,0.6078524543738373,9
+logistic_regression,Logistic Regression,roundness,0.43685879750936807,10
+logistic_regression,Logistic Regression,AspectRation,0.31457665160470966,11
+logistic_regression,Logistic Regression,Eccentricity,0.2728589622791524,12
+logistic_regression,Logistic Regression,Solidity,0.225791518022827,13
+logistic_regression,Logistic Regression,Extent,0.21357927790523207,14
+logistic_regression,Logistic Regression,ShapeFactor3,0.2023512500387214,15
+logistic_regression,Logistic Regression,Compactness,0.2002163768842599,16

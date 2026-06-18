@@ -1,0 +1,51 @@
+{
+    "notebook": "05_shap_explanations",
+    "random_state": 42,
+    "force_recompute_shap": false,
+    "models_explained": [
+        "logistic_regression",
+        "decision_tree",
+        "random_forest",
+        "mlp"
+    ],
+    "number_of_selected_samples": 40,
+    "selected_samples_path": "/home/iailab42/khans1/projects/xai/results/05_shap_explanations/selected_samples.csv",
+    "global_importance_path": "/home/iailab42/khans1/projects/xai/results/05_shap_explanations/shap_feature_importance_all_models.csv",
+    "local_explanations_path": "/home/iailab42/khans1/projects/xai/results/05_shap_explanations/local_shap_explanations_all_models.csv",
+    "background_sizes": {
+        "tree": 100,
+        "linear": 100,
+        "mlp": 50
+    },
+    "mlp_kernel_nsamples": 100,
+    "top_k_local_features": 5,
+    "model_input_types": {
+        "logistic_regression": "scaled",
+        "decision_tree": "unscaled",
+        "random_forest": "unscaled",
+        "mlp": "scaled"
+    },
+    "saved_outputs": {
+        "selected_samples": "results/05_shap_explanations/selected_samples.csv",
+        "shap_values_per_model": [
+            "results/05_shap_explanations/shap_values_logistic_regression.pkl",
+            "results/05_shap_explanations/shap_values_decision_tree.pkl",
+            "results/05_shap_explanations/shap_values_random_forest.pkl",
+            "results/05_shap_explanations/shap_values_mlp.pkl"
+        ],
+        "global_feature_importance_per_model": [
+            "results/05_shap_explanations/shap_feature_importance_logistic_regression.csv",
+            "results/05_shap_explanations/shap_feature_importance_decision_tree.csv",
+            "results/05_shap_explanations/shap_feature_importance_random_forest.csv",
+            "results/05_shap_explanations/shap_feature_importance_mlp.csv"
+        ],
+        "combined_global_feature_importance": "results/05_shap_explanations/shap_feature_importance_all_models.csv",
+        "local_explanations_per_model": [
+            "results/05_shap_explanations/local_shap_explanations_logistic_regression.csv",
+            "results/05_shap_explanations/local_shap_explanations_decision_tree.csv",
+            "results/05_shap_explanations/local_shap_explanations_random_forest.csv",
+            "results/05_shap_explanations/local_shap_explanations_mlp.csv"
+        ],
+        "combined_local_explanations": "results/05_shap_explanations/local_shap_explanations_all_models.csv"
+    }
+}

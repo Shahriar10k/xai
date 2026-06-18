@@ -1,0 +1,801 @@
+model_name,display_name,input_type,sample_id,row_index,selection_group,selected_from_model,true_label,true_class_name,explained_predicted_label,explained_predicted_class_name,feature_rank,feature,shap_value,abs_shap_value,original_feature_value,model_input_feature_value
+logistic_regression,Logistic Regression,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,ShapeFactor1,2.8645229900141294,2.8645229900141294,0.005314961869829,-1.1050931589179638
+logistic_regression,Logistic Regression,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,roundness,0.864478326648348,0.864478326648348,0.9045325908282456,0.5183217787978041
+logistic_regression,Logistic Regression,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,MinorAxisLength,0.7209074477616214,0.7209074477616214,240.5130294492974,0.8477767819176024
+logistic_regression,Logistic Regression,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,EquivDiameter,0.7117838344294948,0.7117838344294948,293.6475351976314,0.6863912857027362
+logistic_regression,Logistic Regression,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,ShapeFactor2,0.6380804421805377,0.6380804421805377,0.0014521595602311,-0.4494768743905221
+logistic_regression,Logistic Regression,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,ShapeFactor1,1.9083881930299122,1.9083881930299122,0.0056897429947588,-0.7730868874382189
+logistic_regression,Logistic Regression,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,ShapeFactor2,1.424755427386879,1.424755427386879,0.0011735798544305,-0.9168432112039804
+logistic_regression,Logistic Regression,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,ShapeFactor4,-0.8435878648275524,0.8435878648275524,0.997570025272178,0.573635466516168
+logistic_regression,Logistic Regression,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,Eccentricity,0.8079303211890763,0.8079303211890763,0.8148552227551156,0.7032443731176219
+logistic_regression,Logistic Regression,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,MajorAxisLength,0.7917753679788703,0.7917753679788703,386.98786978852297,0.7839859399786914
+logistic_regression,Logistic Regression,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,ShapeFactor1,2.1510188745963634,2.1510188745963634,0.0055946377856745,-0.857337464017534
+logistic_regression,Logistic Regression,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,ShapeFactor4,1.8081507758842967,1.8081507758842967,0.9880679024330704,-1.603589852677381
+logistic_regression,Logistic Regression,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ShapeFactor2,1.2537785715823258,1.2537785715823258,0.0012341266915417,-0.8152652682415545
+logistic_regression,Logistic Regression,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,roundness,-1.0460459732044685,1.0460459732044685,0.8358830384499509,-0.6420037727975543
+logistic_regression,Logistic Regression,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,EquivDiameter,0.7252004398523068,0.7252004398523068,294.29720826243783,0.6973523027999835
+logistic_regression,Logistic Regression,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,ShapeFactor1,3.0430832202947555,3.0430832202947555,0.0052449706884774,-1.1670960443657297
+logistic_regression,Logistic Regression,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,ShapeFactor2,0.9057973226799912,0.9057973226799912,0.0013573548553531,-0.6085284015079594
+logistic_regression,Logistic Regression,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,EquivDiameter,0.8766304781623647,0.8766304781623647,301.6299138159141,0.8210666990012154
+logistic_regression,Logistic Regression,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,MinorAxisLength,0.8028157271419922,0.8028157271419922,244.4125876142546,0.9343446540621446
+logistic_regression,Logistic Regression,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,MajorAxisLength,0.621983811251497,0.621983811251497,374.7846255158424,0.6416204642151777
+logistic_regression,Logistic Regression,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,1,ShapeFactor1,3.2805212950739238,3.2805212950739238,0.0051519008524589,-1.2495435508924289
+logistic_regression,Logistic Regression,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,2,EquivDiameter,0.9477501706977078,0.9477501706977078,305.07374682444606,0.8791696349722938
+logistic_regression,Logistic Regression,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,3,MinorAxisLength,0.8994005457175018,0.8994005457175018,249.01087878501625,1.0364239833900204
+logistic_regression,Logistic Regression,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,4,ShapeFactor2,0.8738478017183023,0.8738478017183023,0.0013686689155652,-0.5895470803071935
+logistic_regression,Logistic Regression,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,5,MajorAxisLength,0.6470822256354658,0.6470822256354658,376.5884966121909,0.6626647833412505
+logistic_regression,Logistic Regression,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,ShapeFactor1,4.319960630455829,4.319960630455829,0.0047444664147212,-1.610476318173805
+logistic_regression,Logistic Regression,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,EquivDiameter,1.767933754959548,1.767933754959548,344.7895442336276,1.5492382556600577
+logistic_regression,Logistic Regression,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ShapeFactor2,1.7056950217610558,1.7056950217610558,0.0010740926824468,-1.0837503984893089
+logistic_regression,Logistic Regression,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,MajorAxisLength,1.570848399456395,1.570848399456395,442.9813402096897,1.4372169069278256
+logistic_regression,Logistic Regression,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,MinorAxisLength,1.3208599046552987,1.3208599046552987,269.0760699570991,1.4818592943824211
+logistic_regression,Logistic Regression,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,Area,7.574755079727736,7.574755079727736,153261.0,3.4149260031028907
+logistic_regression,Logistic Regression,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,ConvexArea,7.5118560872139115,7.5118560872139115,154519.0,3.381785603455392
+logistic_regression,Logistic Regression,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,MinorAxisLength,6.338560781027717,6.338560781027717,362.1338272028383,3.547686162590045
+logistic_regression,Logistic Regression,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,EquivDiameter,4.886574997423471,4.886574997423471,441.74423127603575,3.185017911457707
+logistic_regression,Logistic Regression,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Perimeter,3.8049735651794796,3.8049735651794796,1457.451,2.810666790742582
+logistic_regression,Logistic Regression,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ConvexArea,15.396504023234192,15.396504023234192,257425.0,6.834812830363772
+logistic_regression,Logistic Regression,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,Area,15.200548155221252,15.200548155221252,251432.0,6.759250256079441
+logistic_regression,Logistic Regression,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,MinorAxisLength,9.947687572667789,9.947687572667789,450.926186722595,5.518823737967868
+logistic_regression,Logistic Regression,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,EquivDiameter,8.207190671235677,8.207190671235677,565.8031152369625,5.278088444659286
+logistic_regression,Logistic Regression,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Perimeter,6.828208713248172,6.828208713248172,1919.868,4.966718210859961
+logistic_regression,Logistic Regression,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,1,ShapeFactor1,3.971344304854925,3.971344304854925,0.0078833268077651,1.170136862346293
+logistic_regression,Logistic Regression,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,2,MajorAxisLength,3.11295534570074,3.11295534570074,213.83523966062947,-1.2360470952566496
+logistic_regression,Logistic Regression,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,3,EquivDiameter,2.837924696464803,2.837924696464803,185.8403149237035,-1.132487853116534
+logistic_regression,Logistic Regression,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,4,Perimeter,2.24588256779171,2.24588256779171,603.014,-1.1732051414113684
+logistic_regression,Logistic Regression,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,5,MinorAxisLength,2.085755449136612,2.085755449136612,162.1897200105204,-0.8909541077415046
+logistic_regression,Logistic Regression,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ShapeFactor1,3.9592564501501735,3.9592564501501735,0.0078789269088587,1.1662391366241782
+logistic_regression,Logistic Regression,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,MajorAxisLength,2.5528090082605908,2.5528090082605908,234.75262724944605,-0.9920206897147767
+logistic_regression,Logistic Regression,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,EquivDiameter,2.4923072929802457,2.4923072929802457,194.772103329466,-0.9817943878522396
+logistic_regression,Logistic Regression,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MinorAxisLength,2.0854421753544408,2.0854421753544408,162.19632893113194,-0.8908073936343387
+logistic_regression,Logistic Regression,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,Perimeter,1.931491635252573,1.931491635252573,641.153,-0.99537940163135
+logistic_regression,Logistic Regression,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ShapeFactor1,3.2357881775648383,3.2357881775648383,0.0076155892580419,0.9329569733234064
+logistic_regression,Logistic Regression,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,MajorAxisLength,2.5118734500372537,2.5118734500372537,236.2812723200096,-0.9741872121672096
+logistic_regression,Logistic Regression,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,EquivDiameter,2.338190218977481,2.338190218977481,198.7549499130856,-0.9145974362412423
+logistic_regression,Logistic Regression,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,Perimeter,1.8711837073452786,1.8711837073452786,648.4689999999999,-0.9612680428586868
+logistic_regression,Logistic Regression,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,MinorAxisLength,1.8271471583623138,1.8271471583623138,167.64540050624518,-0.7698412452999313
+logistic_regression,Logistic Regression,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ShapeFactor1,3.4635082957178724,3.4635082957178724,0.0076984778700661,1.0063852683888008
+logistic_regression,Logistic Regression,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,MajorAxisLength,2.3333301520937764,2.3333301520937764,242.94856462354684,-0.8964052535635905
+logistic_regression,Logistic Regression,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,EquivDiameter,2.2725332038535764,2.2725332038535764,200.45172374602387,-0.8859701650790323
+logistic_regression,Logistic Regression,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,MinorAxisLength,1.8581051420908052,1.8581051420908052,166.9923013054856,-0.7843396591502806
+logistic_regression,Logistic Regression,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,Perimeter,1.8053692600500566,1.8053692600500566,656.453,-0.9240420876316576
+logistic_regression,Logistic Regression,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ShapeFactor1,4.1186360004053215,4.1186360004053215,0.0079369400076259,1.2176310326869588
+logistic_regression,Logistic Regression,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,MinorAxisLength,2.1402249218099474,2.1402249218099474,161.04061516633084,-0.9164635518950496
+logistic_regression,Logistic Regression,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,EquivDiameter,2.0317143176743455,2.0317143176743455,206.67520472174508,-0.7809701503414714
+logistic_regression,Logistic Regression,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MajorAxisLength,1.7088470124041315,1.7088470124041315,266.26846337583515,-0.6243506747612253
+logistic_regression,Logistic Regression,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,Perimeter,1.5487143481591834,1.5487143481591834,687.588,-0.7788729849270543
+logistic_regression,Logistic Regression,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor1,2.451453990345107,2.451453990345107,0.0073300968181597,0.6800486110927882
+logistic_regression,Logistic Regression,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,MajorAxisLength,2.215157650073201,2.215157650073201,247.3614472256199,-0.8449236870969493
+logistic_regression,Logistic Regression,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,EquivDiameter,2.00814892250367,2.00814892250367,207.28420508237667,-0.7706953464028145
+logistic_regression,Logistic Regression,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,Perimeter,1.6428774783512323,1.6428774783512323,676.165,-0.8321335168106156
+logistic_regression,Logistic Regression,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,MinorAxisLength,1.5019320514524044,1.5019320514524044,174.5062389982019,-0.6175347110075823
+logistic_regression,Logistic Regression,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,MajorAxisLength,2.3633152109628313,2.3633152109628313,241.828840979358,-0.9094681723880108
+logistic_regression,Logistic Regression,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,EquivDiameter,1.927033259542018,1.927033259542018,209.38047665511013,-0.7353279134678345
+logistic_regression,Logistic Regression,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,Perimeter,1.6387475888102863,1.6387475888102863,676.666,-0.829797569469841
+logistic_regression,Logistic Regression,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,ShapeFactor1,1.6087957119931093,1.6087957119931093,0.0070233747961012,0.4083336602839797
+logistic_regression,Logistic Regression,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,roundness,1.4160370804373912,1.4160370804373912,0.9449817103521664,1.2019991706693276
+logistic_regression,Logistic Regression,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor1,2.239009643661313,2.239009643661313,0.0072527684855915,0.6115459847117966
+logistic_regression,Logistic Regression,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,MajorAxisLength,1.744518848347879,1.744518848347879,264.936380010174,-0.6398910243495366
+logistic_regression,Logistic Regression,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,EquivDiameter,1.683962214007636,1.683962214007636,215.66216017102016,-0.6293459293788076
+logistic_regression,Logistic Regression,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,MinorAxisLength,1.416219773084904,1.416219773084904,176.31445173544094,-0.5773934636082989
+logistic_regression,Logistic Regression,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,Perimeter,1.362803372476675,1.362803372476675,710.1410000000001,-0.6737180540358727
+logistic_regression,Logistic Regression,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,1,Perimeter,1.1724410359919522,1.1724410359919522,746.25,-0.5053573304270558
+logistic_regression,Logistic Regression,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,2,ConvexArea,0.8422315829129686,0.8422315829129686,39642.0,-0.4729304358965804
+logistic_regression,Logistic Regression,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,3,Area,0.8187070309336629,0.8187070309336629,39060.0,-0.4754812863631937
+logistic_regression,Logistic Regression,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,4,ShapeFactor1,-0.6701615102703001,0.6701615102703001,0.0070661233209358,0.4462031723738781
+logistic_regression,Logistic Regression,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,5,MinorAxisLength,0.6258723962821433,0.6258723962821433,180.8989189051317,-0.4756210188828856
+logistic_regression,Logistic Regression,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,ShapeFactor4,-0.7562980672244021,0.7562980672244021,0.9983129378244776,0.7438593255633724
+logistic_regression,Logistic Regression,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,Perimeter,0.6379117915675141,0.6379117915675141,805.1600000000001,-0.2306853586805261
+logistic_regression,Logistic Regression,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,ConvexArea,0.5133722420850008,0.5133722420850008,46216.0,-0.252338818403959
+logistic_regression,Logistic Regression,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,Area,0.48920363070507367,0.48920363070507367,45776.0,-0.2466919118738791
+logistic_regression,Logistic Regression,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,MajorAxisLength,0.3417531436989987,0.3417531436989987,299.1063363302542,-0.2412575151263271
+logistic_regression,Logistic Regression,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,Perimeter,0.6174143961651247,0.6174143961651247,807.419,-0.2201526140841013
+logistic_regression,Logistic Regression,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,ShapeFactor4,-0.5043872707257727,0.5043872707257727,0.9970586140534028,0.4564556033539767
+logistic_regression,Logistic Regression,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,ConvexArea,0.473452900134785,0.473452900134785,47014.0,-0.2255618012516755
+logistic_regression,Logistic Regression,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,Area,0.45127835846315884,0.45127835846315884,46549.0,-0.220358650039418
+logistic_regression,Logistic Regression,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,MinorAxisLength,0.29174983486659734,0.29174983486659734,194.4013666563265,-0.1758747088860905
+logistic_regression,Logistic Regression,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,1,ShapeFactor4,-0.6552217181852408,0.6552217181852408,0.997809654642274,0.6285418427680326
+logistic_regression,Logistic Regression,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,2,Perimeter,0.529617672874497,0.529617672874497,817.095,-0.1750375911912235
+logistic_regression,Logistic Regression,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,3,ConvexArea,0.417425753537991,0.417425753537991,48134.0,-0.1879800227923302
+logistic_regression,Logistic Regression,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,4,Area,0.39681904127231094,0.39681904127231094,47659.0,-0.1825450399019643
+logistic_regression,Logistic Regression,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,5,MajorAxisLength,0.2894912208199366,0.2894912208199366,303.8431455041392,-0.1859969568212865
+logistic_regression,Logistic Regression,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,1,ConvexArea,0.35654625585201033,0.35654625585201033,49351.0,-0.1471433938771309
+logistic_regression,Logistic Regression,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,2,Area,0.3513872144986847,0.3513872144986847,48585.0,-0.1509996318053137
+logistic_regression,Logistic Regression,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,3,Perimeter,0.25610129969625506,0.25610129969625506,847.239,-0.0344890949032015
+logistic_regression,Logistic Regression,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,4,ShapeFactor4,-0.24605216902125626,0.24605216902125626,0.9957723021387296,0.1617224246288449
+logistic_regression,Logistic Regression,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,5,MajorAxisLength,0.22954402948754576,0.22954402948754576,309.2765163066068,-0.1226101719623966
+logistic_regression,Logistic Regression,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,1,Eccentricity,0.6439619609488666,0.6439619609488666,0.8055371428109757,0.6018372298866491
+logistic_regression,Logistic Regression,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,2,ShapeFactor4,-0.6035339334837273,0.6035339334837273,0.9975522888686492,0.5695715170715965
+logistic_regression,Logistic Regression,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,3,ShapeFactor2,0.41868171184118025,0.41868171184118025,0.0013660842621688,-0.5938832898897846
+logistic_regression,Logistic Regression,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,4,AspectRation,-0.23823011397960286,0.23823011397960286,1.6876347342648623,0.4355164772179971
+logistic_regression,Logistic Regression,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,5,ShapeFactor3,0.1965784605654197,0.1965784605654197,0.5910949025964349,-0.5405661099983899
+logistic_regression,Logistic Regression,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,1,Eccentricity,0.47619321644161744,0.47619321644161744,0.7910561380384111,0.4442428183873821
+logistic_regression,Logistic Regression,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,2,ShapeFactor2,0.36986681984900155,0.36986681984900155,0.0014024649260377,-0.532848342802074
+logistic_regression,Logistic Regression,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,3,ShapeFactor1,0.318856143321729,0.318856143321729,0.006138826187697,-0.3752588578127719
+logistic_regression,Logistic Regression,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,4,Perimeter,-0.18285509578025091,0.18285509578025091,895.616,0.1910720318525586
+logistic_regression,Logistic Regression,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,5,Extent,0.13908838489602052,0.13908838489602052,0.6768219832735962,-1.499016900459628
+logistic_regression,Logistic Regression,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,Perimeter,1.3070669127450563,1.3070669127450563,731.413,-0.5745358747285878
+logistic_regression,Logistic Regression,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ConvexArea,0.9543859245826225,0.9543859245826225,37400.0,-0.5481611031339484
+logistic_regression,Logistic Regression,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,Area,0.9315997235968532,0.9315997235968532,36759.0,-0.5538678781886722
+logistic_regression,Logistic Regression,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,ShapeFactor1,-0.8833408891495789,0.8833408891495789,0.0072659990523572,0.6232665086369717
+logistic_regression,Logistic Regression,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,MinorAxisLength,0.73182521388068,0.73182521388068,176.61718953715626,-0.5706728644522918
+logistic_regression,Logistic Regression,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor1,2.488589706326,2.488589706326,0.0073436139723714,0.6920230134100978
+logistic_regression,Logistic Regression,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,2,MinorAxisLength,1.5429196417088462,1.5429196417088462,173.64155211573845,-0.6367302455578356
+logistic_regression,Logistic Regression,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,3,EquivDiameter,1.4866290414094487,1.4866290414094487,220.76184012149344,-0.5433062239397651
+logistic_regression,Logistic Regression,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,4,MajorAxisLength,1.3119008654376898,1.3119008654376898,281.09151202046115,-0.4514220399323549
+logistic_regression,Logistic Regression,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,5,Perimeter,1.2015398413598892,1.2015398413598892,729.704,-0.5825042060766583
+logistic_regression,Logistic Regression,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,Perimeter,1.2344867153906,1.2344867153906,739.4119999999999,-0.5372399809584221
+logistic_regression,Logistic Regression,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ConvexArea,0.8167192215162142,0.8167192215162142,40152.0,-0.4558173046338428
+logistic_regression,Logistic Regression,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,Area,0.791182997650721,0.791182997650721,39621.0,-0.456370083401832
+logistic_regression,Logistic Regression,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,MajorAxisLength,0.5889319942790022,0.5889319942790022,276.7030457026375,-0.5026187611688365
+logistic_regression,Logistic Regression,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,ShapeFactor1,-0.5823024114404383,0.5823024114404383,0.0069837471467816,0.3732288291626908
+logistic_regression,Logistic Regression,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,Perimeter,1.0906692221954322,1.0906692221954322,755.262,-0.4633382537103743
+logistic_regression,Logistic Regression,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,ShapeFactor1,-0.9772263451285066,0.9772263451285066,0.007354025503519,0.7012462464033744
+logistic_regression,Logistic Regression,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,MinorAxisLength,0.7900763404293946,0.7900763404293946,174.2631647465524,-0.6229308148348102
+logistic_regression,Logistic Regression,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,ConvexArea,0.7880553331233902,0.7880553331233902,40725.0,-0.4365901983327671
+logistic_regression,Logistic Regression,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,Area,0.7677802099930322,0.7677802099930322,40098.0,-0.4401204509373586
+logistic_regression,Logistic Regression,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,Perimeter,1.1336420706353256,1.1336420706353256,750.526,-0.4854201830634817
+logistic_regression,Logistic Regression,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ConvexArea,0.7918071509758541,0.7918071509758541,40650.0,-0.4391068352831696
+logistic_regression,Logistic Regression,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,Area,0.762579590513546,0.762579590513546,40204.0,-0.436509421500809
+logistic_regression,Logistic Regression,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,ShapeFactor4,-0.7121956480211762,0.7121956480211762,0.9980933413897976,0.6935431040531316
+logistic_regression,Logistic Regression,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,MajorAxisLength,0.5732514844022143,0.5732514844022143,278.12426365528427,-0.4860385497536503
+logistic_regression,Logistic Regression,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,Perimeter,1.1711616500903426,1.1711616500903426,746.391,-0.5046999081215686
+logistic_regression,Logistic Regression,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ConvexArea,0.7819023518453493,0.7819023518453493,40848.0,-0.4324629137341068
+logistic_regression,Logistic Regression,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,Area,0.7550239735339148,0.7550239735339148,40358.0,-0.4312632089231803
+logistic_regression,Logistic Regression,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,MajorAxisLength,0.6841158514152762,0.6841158514152762,268.0759661224964,-0.603263988080015
+logistic_regression,Logistic Regression,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Eccentricity,-0.6205885657879762,0.6205885657879762,0.6963871204596195,-0.5860246490199418
+logistic_regression,Logistic Regression,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,Perimeter,1.1573333939623025,1.1573333939623025,747.915,-0.4975941521388541
+logistic_regression,Logistic Regression,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ConvexArea,0.7569902813049892,0.7569902813049892,41346.0,-0.4157524443834336
+logistic_regression,Logistic Regression,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,Area,0.7281377520739287,0.7281377520739287,40906.0,-0.4125948680625275
+logistic_regression,Logistic Regression,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,MajorAxisLength,0.5711097542786032,0.5711097542786032,278.3183814056201,-0.4837739334546414
+logistic_regression,Logistic Regression,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,EquivDiameter,0.5164703280098087,0.5164703280098087,228.21730174755936,-0.41752073770366
+logistic_regression,Logistic Regression,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,Perimeter,1.1352662555742488,1.1352662555742488,750.347,-0.4862547830115826
+logistic_regression,Logistic Regression,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,ConvexArea,0.7494866456000614,0.7494866456000614,41496.0,-0.4107191704826284
+logistic_regression,Logistic Regression,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,Area,0.7177855755628756,0.7177855755628756,41117.0,-0.4054068755048673
+logistic_regression,Logistic Regression,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,MajorAxisLength,0.5804864067334438,0.5804864067334438,277.4685195765557,-0.4936885906494385
+logistic_regression,Logistic Regression,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,EquivDiameter,0.5066652599298207,0.5066652599298207,228.8051362204872,-0.4076030359284872
+logistic_regression,Logistic Regression,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,Perimeter,1.1147870074896122,1.1147870074896122,752.6039999999999,-0.4757313635542425
+logistic_regression,Logistic Regression,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,ConvexArea,0.7234240175849457,0.7234240175849457,42017.0,-0.3932369324671652
+logistic_regression,Logistic Regression,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,Area,0.6922731026446406,0.6922731026446406,41637.0,-0.3876923914765106
+logistic_regression,Logistic Regression,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,ShapeFactor4,-0.5834529148091258,0.5834529148091258,0.9974523007005316,0.5466611869346812
+logistic_regression,Logistic Regression,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,MajorAxisLength,0.518159605102477,0.518159605102477,283.11756862566284,-0.4277856604517704
+logistic_regression,Logistic Regression,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,Perimeter,0.9312541093912735,0.9312541093912735,772.831,-0.3814215694188314
+logistic_regression,Logistic Regression,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,ConvexArea,0.7099174733160756,0.7099174733160756,42287.0,-0.3841770394457158
+logistic_regression,Logistic Regression,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,Area,0.6830002999878204,0.6830002999878204,41826.0,-0.3812538578585117
+logistic_regression,Logistic Regression,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,ShapeFactor1,-0.6456596431299895,0.6456596431299895,0.0070431505144589,0.4258523187249647
+logistic_regression,Logistic Regression,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,MinorAxisLength,0.6156460252684569,0.6156460252684569,181.3121835458421,-0.4664467896329238
+logistic_regression,Logistic Regression,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ShapeFactor1,2.78090062349062,2.78090062349062,0.0074500132066587,0.7862785954398569
+logistic_regression,Logistic Regression,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,EquivDiameter,1.7302376498126042,1.7302376498126042,214.4662643717136,-0.6495225920924306
+logistic_regression,Logistic Regression,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,MinorAxisLength,1.6445946379389609,1.6445946379389609,171.49658494483035,-0.6843472411123696
+logistic_regression,Logistic Regression,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,MajorAxisLength,1.6321717260610573,1.6321717260610573,269.1317270905478,-0.590947270562062
+logistic_regression,Logistic Regression,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,Perimeter,1.291663758228459,1.291663758228459,718.771,-0.6334800788844126
+logistic_regression,Logistic Regression,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ShapeFactor1,2.891244357286499,2.891244357286499,0.0074901775936004,0.8218589047664845
+logistic_regression,Logistic Regression,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,EquivDiameter,1.707640500096071,1.707640500096071,215.050242371104,-0.6396699551547406
+logistic_regression,Logistic Regression,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,MinorAxisLength,1.673276782882833,1.673276782882833,170.89149754304088,-0.6977798215788179
+logistic_regression,Logistic Regression,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,MajorAxisLength,1.5538029436296625,1.5538029436296625,272.05823055475423,-0.5568060988624974
+logistic_regression,Logistic Regression,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,Perimeter,1.2861737254255252,1.2861737254255252,719.437,-0.6303748075691316
+logistic_regression,Logistic Regression,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ShapeFactor1,2.358883403210635,2.358883403210635,0.0072964017386732,0.6501992484558039
+logistic_regression,Logistic Regression,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,EquivDiameter,1.5313810330388518,1.5313810330388518,219.60531468052807,-0.562818646138767
+logistic_regression,Logistic Regression,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,MinorAxisLength,1.4716799839015733,1.4716799839015733,175.1444459729213,-0.6033668957187264
+logistic_regression,Logistic Regression,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,MajorAxisLength,1.4384503889068738,1.4384503889068738,276.365808655726,-0.5065530356581308
+logistic_regression,Logistic Regression,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,Perimeter,1.1629777190594073,1.1629777190594073,734.382,-0.5606927057570137
+logistic_regression,Logistic Regression,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,1,ShapeFactor1,1.7285621870939105,1.7285621870939105,0.0070669689983555,0.4469523301844312
+logistic_regression,Logistic Regression,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,2,MajorAxisLength,1.5655663370887334,1.5655663370887334,271.6189534517964,-0.5619307929485292
+logistic_regression,Logistic Regression,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,3,EquivDiameter,1.469016464482468,1.469016464482468,221.2170018373271,-0.5356269224271627
+logistic_regression,Logistic Regression,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,4,MinorAxisLength,1.2038130806443192,1.2038130806443192,180.7954490214904,-0.4779179887648497
+logistic_regression,Logistic Regression,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,5,Perimeter,1.1227999114295324,1.1227999114295324,739.2560000000001,-0.5379673418070456
+logistic_regression,Logistic Regression,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,Perimeter,1.2332254768067432,1.2332254768067432,739.5509999999999,-0.5365918837920196
+logistic_regression,Logistic Regression,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,ConvexArea,0.8655929020743104,0.8655929020743104,39175.0,-0.4886006953077538
+logistic_regression,Logistic Regression,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,Area,0.8338673273408451,0.8338673273408451,38751.0,-0.4860077778338904
+logistic_regression,Logistic Regression,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,ShapeFactor4,-0.7294567536564907,0.7294567536564907,0.998179288540195,0.7132362100175913
+logistic_regression,Logistic Regression,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,MajorAxisLength,0.6500565503798877,0.6500565503798877,271.1629633226162,-0.5672504645238611
+logistic_regression,Logistic Regression,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,Perimeter,1.2488230964157339,1.2488230964157339,737.8319999999999,-0.5446068408355147
+logistic_regression,Logistic Regression,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,ConvexArea,0.8315764202119711,0.8315764202119711,39855.0,-0.465783186957437
+logistic_regression,Logistic Regression,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,Area,0.7990329893178703,0.7990329893178703,39461.0,-0.4618206938720956
+logistic_regression,Logistic Regression,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,ShapeFactor1,-0.7715650482979169,0.7715650482979169,0.0071611986815947,0.530427307214889
+logistic_regression,Logistic Regression,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,MinorAxisLength,0.6857406300816934,0.6857406300816934,178.47954412418304,-0.5293297001865769
+logistic_regression,Logistic Regression,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,ShapeFactor1,-1.1210946489580196,1.1210946489580196,0.0074889155787573,0.8207409273264835
+logistic_regression,Logistic Regression,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,Perimeter,0.9377871437824739,0.9377871437824739,772.111,-0.3847786194894053
+logistic_regression,Logistic Regression,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,MinorAxisLength,0.8673627199122734,0.8673627199122734,171.13989376351716,-0.6922655732086788
+logistic_regression,Logistic Regression,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,Eccentricity,0.8386656115874767,0.8386656115874767,0.8223430413257113,0.7847330805367372
+logistic_regression,Logistic Regression,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,ConvexArea,0.7896561087404413,0.7896561087404413,40693.0,-0.4376639634316054
+decision_tree,Decision Tree,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,roundness,0.30356666181138126,0.30356666181138126,0.9045325908282456,0.9045325908282456
+decision_tree,Decision Tree,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,MajorAxisLength,0.2109036633103679,0.2109036633103679,359.95047767229994,359.95047767229994
+decision_tree,Decision Tree,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,Perimeter,0.17904206283864857,0.17904206283864857,969.983,969.983
+decision_tree,Decision Tree,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,MinorAxisLength,0.13417079760924763,0.13417079760924763,240.5130294492974,240.5130294492974
+decision_tree,Decision Tree,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,ShapeFactor1,0.09155407763178396,0.09155407763178396,0.005314961869829,0.005314961869829
+decision_tree,Decision Tree,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,MajorAxisLength,0.23242296530635628,0.23242296530635628,386.98786978852297,386.98786978852297
+decision_tree,Decision Tree,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,Perimeter,0.22192879188844594,0.22192879188844594,993.761,993.761
+decision_tree,Decision Tree,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,Solidity,0.13096732017269797,0.13096732017269797,0.9911111111111112,0.9911111111111112
+decision_tree,Decision Tree,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,ShapeFactor1,0.09892337117713253,0.09892337117713253,0.0056897429947588,0.0056897429947588
+decision_tree,Decision Tree,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,roundness,0.09768763261397609,0.09768763261397609,0.8654673100101826,0.8654673100101826
+decision_tree,Decision Tree,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,Perimeter,0.23455323475917328,0.23455323475917328,1011.261,1011.261
+decision_tree,Decision Tree,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,MajorAxisLength,0.23276180838817243,0.23276180838817243,380.5696407327228,380.5696407327228
+decision_tree,Decision Tree,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,Compactness,0.13860766170963906,0.13860766170963906,0.7733071079863808,0.7733071079863808
+decision_tree,Decision Tree,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,ShapeFactor1,0.09126931121483649,0.09126931121483649,0.0055946377856745,0.0055946377856745
+decision_tree,Decision Tree,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,ShapeFactor4,0.07080567812134111,0.07080567812134111,0.9880679024330704,0.9880679024330704
+decision_tree,Decision Tree,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,1,Perimeter,0.3240261881208511,0.3240261881208511,1005.7759999999998,1005.7759999999998
+decision_tree,Decision Tree,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,2,Compactness,0.30720785569223963,0.30720785569223963,0.804808664178152,0.804808664178152
+decision_tree,Decision Tree,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,3,MajorAxisLength,0.17833620497107008,0.17833620497107008,374.7846255158424,374.7846255158424
+decision_tree,Decision Tree,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,4,MinorAxisLength,0.13803248597362888,0.13803248597362888,244.4125876142546,244.4125876142546
+decision_tree,Decision Tree,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,5,roundness,-0.1148473247723477,0.1148473247723477,0.8876587307353914,0.8876587307353914
+decision_tree,Decision Tree,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,1,roundness,0.315981892338306,0.315981892338306,0.8680784148896584,0.8680784148896584
+decision_tree,Decision Tree,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,2,Perimeter,0.2090434737099431,0.2090434737099431,1028.668,1028.668
+decision_tree,Decision Tree,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,3,MajorAxisLength,0.2073059403101125,0.2073059403101125,376.5884966121909,376.5884966121909
+decision_tree,Decision Tree,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,4,ShapeFactor1,0.06976325780492175,0.06976325780492175,0.0051519008524589,0.0051519008524589
+decision_tree,Decision Tree,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,5,MinorAxisLength,0.06866004943332867,0.06866004943332867,249.01087878501625,249.01087878501625
+decision_tree,Decision Tree,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,1,ShapeFactor4,0.2997443698983611,0.2997443698983611,0.997350170071718,0.997350170071718
+decision_tree,Decision Tree,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,2,Solidity,0.17431377391942074,0.17431377391942074,0.9881675592151218,0.9881675592151218
+decision_tree,Decision Tree,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,3,MajorAxisLength,0.1716927295784763,0.1716927295784763,442.9813402096897,442.9813402096897
+decision_tree,Decision Tree,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,4,ShapeFactor1,0.11874638285888922,0.11874638285888922,0.0047444664147212,0.0047444664147212
+decision_tree,Decision Tree,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,5,Perimeter,0.09636698366953039,0.09636698366953039,1170.4599999999998,1170.4599999999998
+decision_tree,Decision Tree,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ShapeFactor1,0.48513477001907457,0.48513477001907457,0.0035370266335946,0.0035370266335946
+decision_tree,Decision Tree,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,MajorAxisLength,0.1974814812510175,0.1974814812510175,542.0882388913515,542.0882388913515
+decision_tree,Decision Tree,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,Perimeter,0.1927141725157575,0.1927141725157575,1457.451,1457.451
+decision_tree,Decision Tree,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,EquivDiameter,0.031587603453339164,0.031587603453339164,441.74423127603575,441.74423127603575
+decision_tree,Decision Tree,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,MinorAxisLength,0.03146773154990871,0.03146773154990871,362.1338272028383,362.1338272028383
+decision_tree,Decision Tree,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ShapeFactor1,0.48513477001907457,0.48513477001907457,0.0028601199942404,0.0028601199942404
+decision_tree,Decision Tree,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,MajorAxisLength,0.1974814812510175,0.1974814812510175,719.1256903918719,719.1256903918719
+decision_tree,Decision Tree,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,Perimeter,0.1927141725157575,0.1927141725157575,1919.868,1919.868
+decision_tree,Decision Tree,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,EquivDiameter,0.031587603453339164,0.031587603453339164,565.8031152369625,565.8031152369625
+decision_tree,Decision Tree,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,MinorAxisLength,0.03146773154990871,0.03146773154990871,450.926186722595,450.926186722595
+decision_tree,Decision Tree,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.3298595598334829,0.3298595598334829,213.83523966062947,213.83523966062947
+decision_tree,Decision Tree,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,2,ShapeFactor1,0.208458853729803,0.208458853729803,0.0078833268077651,0.0078833268077651
+decision_tree,Decision Tree,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,3,Perimeter,0.09459467664553915,0.09459467664553915,603.014,603.014
+decision_tree,Decision Tree,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.09434130602275037,0.09434130602275037,162.1897200105204,162.1897200105204
+decision_tree,Decision Tree,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,5,ConvexArea,0.018136141255832055,0.018136141255832055,27498.0,27498.0
+decision_tree,Decision Tree,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.36097157350209563,0.36097157350209563,234.75262724944605,234.75262724944605
+decision_tree,Decision Tree,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,ShapeFactor1,0.19780863232743323,0.19780863232743323,0.0078789269088587,0.0078789269088587
+decision_tree,Decision Tree,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,Perimeter,0.10039630975539085,0.10039630975539085,641.153,641.153
+decision_tree,Decision Tree,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.09244214786320355,0.09244214786320355,162.19632893113194,162.19632893113194
+decision_tree,Decision Tree,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,ShapeFactor2,-0.039348702006119646,0.039348702006119646,0.0023030958118011,0.0023030958118011
+decision_tree,Decision Tree,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.3467986757698641,0.3467986757698641,236.2812723200096,236.2812723200096
+decision_tree,Decision Tree,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,ShapeFactor1,0.10402949189991265,0.10402949189991265,0.0076155892580419,0.0076155892580419
+decision_tree,Decision Tree,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,Perimeter,0.10323061448025903,0.10323061448025903,648.4689999999999,648.4689999999999
+decision_tree,Decision Tree,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.10291136771049876,0.10291136771049876,167.64540050624518,167.64540050624518
+decision_tree,Decision Tree,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,ShapeFactor3,0.03880843823035489,0.03880843823035489,0.707582861531777,0.707582861531777
+decision_tree,Decision Tree,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.3515249378820244,0.3515249378820244,242.94856462354684,242.94856462354684
+decision_tree,Decision Tree,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,ShapeFactor1,0.1976570142877994,0.1976570142877994,0.0076984778700661,0.0076984778700661
+decision_tree,Decision Tree,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,Perimeter,0.14129598515017433,0.14129598515017433,656.453,656.453
+decision_tree,Decision Tree,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.08542549997007838,0.08542549997007838,166.9923013054856,166.9923013054856
+decision_tree,Decision Tree,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,ShapeFactor2,-0.044334279166519705,0.044334279166519705,0.0022007284570944,0.0022007284570944
+decision_tree,Decision Tree,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.33431161713489754,0.33431161713489754,266.26846337583515,266.26846337583515
+decision_tree,Decision Tree,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,Perimeter,0.11493652117642424,0.11493652117642424,687.588,687.588
+decision_tree,Decision Tree,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,ShapeFactor1,0.0983383978704796,0.0983383978704796,0.0079369400076259,0.0079369400076259
+decision_tree,Decision Tree,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.06589429853218157,0.06589429853218157,161.04061516633084,161.04061516633084
+decision_tree,Decision Tree,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,ShapeFactor2,0.0579028106518175,0.0579028106518175,0.001777081878971,0.001777081878971
+decision_tree,Decision Tree,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.31952399585755403,0.31952399585755403,247.3614472256199,247.3614472256199
+decision_tree,Decision Tree,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,Perimeter,0.1524551360856205,0.1524551360856205,676.165,676.165
+decision_tree,Decision Tree,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,ShapeFactor1,0.08178079216995615,0.08178079216995615,0.0073300968181597,0.0073300968181597
+decision_tree,Decision Tree,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.07386955646439347,0.07386955646439347,174.5062389982019,174.5062389982019
+decision_tree,Decision Tree,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,ShapeFactor3,0.03404586514680384,0.03404586514680384,0.7022122388496438,0.7022122388496438
+decision_tree,Decision Tree,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.2885240857990488,0.2885240857990488,241.828840979358,241.828840979358
+decision_tree,Decision Tree,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,Perimeter,0.23999669001891533,0.23999669001891533,676.666,676.666
+decision_tree,Decision Tree,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,ShapeFactor1,0.18501647794102455,0.18501647794102455,0.0070233747961012,0.0070233747961012
+decision_tree,Decision Tree,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,roundness,0.0902127164799593,0.0902127164799593,0.9449817103521664,0.9449817103521664
+decision_tree,Decision Tree,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,MinorAxisLength,-0.06604830856186679,0.06604830856186679,181.66087987226533,181.66087987226533
+decision_tree,Decision Tree,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.37863595029900826,0.37863595029900826,264.936380010174,264.936380010174
+decision_tree,Decision Tree,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,Perimeter,0.09958353085806873,0.09958353085806873,710.1410000000001,710.1410000000001
+decision_tree,Decision Tree,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,MinorAxisLength,0.08502692131423929,0.08502692131423929,176.31445173544094,176.31445173544094
+decision_tree,Decision Tree,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,ShapeFactor1,0.05684327891351235,0.05684327891351235,0.0072527684855915,0.0072527684855915
+decision_tree,Decision Tree,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,roundness,0.03548243322211992,0.03548243322211992,0.9102453575676372,0.9102453575676372
+decision_tree,Decision Tree,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,1,roundness,0.22828092987773044,0.22828092987773044,0.8814007479216192,0.8814007479216192
+decision_tree,Decision Tree,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,2,ShapeFactor3,0.08800334559820205,0.08800334559820205,0.6528530755302192,0.6528530755302192
+decision_tree,Decision Tree,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,3,Extent,0.08667502579961994,0.08667502579961994,0.8143098380136343,0.8143098380136343
+decision_tree,Decision Tree,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,4,EquivDiameter,0.08596651366474868,0.08596651366474868,223.00837790844412,223.00837790844412
+decision_tree,Decision Tree,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,5,Perimeter,0.08273281379315552,0.08273281379315552,746.25,746.25
+decision_tree,Decision Tree,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,Perimeter,0.378337365016787,0.378337365016787,805.1600000000001,805.1600000000001
+decision_tree,Decision Tree,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,MajorAxisLength,0.10306518483794927,0.10306518483794927,299.1063363302542,299.1063363302542
+decision_tree,Decision Tree,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,ShapeFactor3,0.07523723442172173,0.07523723442172173,0.6514734667988155,0.6514734667988155
+decision_tree,Decision Tree,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,roundness,0.06284128949383436,0.06284128949383436,0.8873262347737757,0.8873262347737757
+decision_tree,Decision Tree,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,Compactness,0.05508225434631058,0.05508225434631058,0.8071390628626615,0.8071390628626615
+decision_tree,Decision Tree,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,Perimeter,0.35497601520281796,0.35497601520281796,807.419,807.419
+decision_tree,Decision Tree,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,MajorAxisLength,0.18302824985752578,0.18302824985752578,305.7739408863234,305.7739408863234
+decision_tree,Decision Tree,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,ShapeFactor3,0.06543800403726957,0.06543800403726957,0.6338982211715148,0.6338982211715148
+decision_tree,Decision Tree,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,Compactness,0.05499718382905751,0.05499718382905751,0.7961772548694888,0.7961772548694888
+decision_tree,Decision Tree,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,roundness,0.049315980691106785,0.049315980691106785,0.8972682279850429,0.8972682279850429
+decision_tree,Decision Tree,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,1,Perimeter,0.3627907758520614,0.3627907758520614,817.095,817.095
+decision_tree,Decision Tree,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,2,MajorAxisLength,0.17876963861083225,0.17876963861083225,303.8431455041392,303.8431455041392
+decision_tree,Decision Tree,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,3,ShapeFactor3,0.0650407323864643,0.0650407323864643,0.657288686936249,0.657288686936249
+decision_tree,Decision Tree,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,4,Compactness,0.05626568976761529,0.05626568976761529,0.8107334253231755,0.8107334253231755
+decision_tree,Decision Tree,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,5,roundness,0.04484462315969204,0.04484462315969204,0.8970356098396858,0.8970356098396858
+decision_tree,Decision Tree,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,1,Perimeter,0.36060079659957095,0.36060079659957095,847.239,847.239
+decision_tree,Decision Tree,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,2,MajorAxisLength,0.15708585387768784,0.15708585387768784,309.2765163066068,309.2765163066068
+decision_tree,Decision Tree,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,3,Compactness,0.13071010312070389,0.13071010312070389,0.804191017760457,0.804191017760457
+decision_tree,Decision Tree,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,4,ShapeFactor3,0.03919203361693396,0.03919203361693396,0.6467231930465999,0.6467231930465999
+decision_tree,Decision Tree,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,5,roundness,0.03596878797368939,0.03596878797368939,0.8505506742528366,0.8505506742528366
+decision_tree,Decision Tree,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,1,Perimeter,0.31962793215178753,0.31962793215178753,883.1569999999999,883.1569999999999
+decision_tree,Decision Tree,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,2,MajorAxisLength,0.17982557636002985,0.17982557636002985,339.8361753731025,339.8361753731025
+decision_tree,Decision Tree,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,3,ShapeFactor3,0.06608333104889179,0.06608333104889179,0.5910949025964349,0.5910949025964349
+decision_tree,Decision Tree,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,4,Compactness,0.059351113855670275,0.059351113855670275,0.768826965315626,0.768826965315626
+decision_tree,Decision Tree,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,5,roundness,0.04804686089127628,0.04804686089127628,0.8638142084108642,0.8638142084108642
+decision_tree,Decision Tree,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,0,BARBUNYA,1,Perimeter,0.3053740280273282,0.3053740280273282,895.616,895.616
+decision_tree,Decision Tree,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,0,BARBUNYA,2,Compactness,0.2419064198852939,0.2419064198852939,0.7801115847233366,0.7801115847233366
+decision_tree,Decision Tree,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,0,BARBUNYA,3,MajorAxisLength,0.1947653886816885,0.1947653886816885,340.80921346237847,340.80921346237847
+decision_tree,Decision Tree,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,0,BARBUNYA,4,Solidity,0.14222198958211457,0.14222198958211457,0.9868109991290284,0.9868109991290284
+decision_tree,Decision Tree,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,0,BARBUNYA,5,ShapeFactor1,0.06753044069030036,0.06753044069030036,0.006138826187697,0.006138826187697
+decision_tree,Decision Tree,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,Perimeter,0.2408756196579177,0.2408756196579177,731.413,731.413
+decision_tree,Decision Tree,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,Extent,0.1458211425615081,0.1458211425615081,0.7749831337493676,0.7749831337493676
+decision_tree,Decision Tree,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,ShapeFactor4,0.12236964594411005,0.12236964594411005,0.9921602240547652,0.9921602240547652
+decision_tree,Decision Tree,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,Solidity,0.08665963161121017,0.08665963161121017,0.982860962566845,0.982860962566845
+decision_tree,Decision Tree,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,roundness,0.07144939078909011,0.07144939078909011,0.8634718862827261,0.8634718862827261
+decision_tree,Decision Tree,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,MinorAxisLength,0.17057577764584758,0.17057577764584758,173.64155211573845,173.64155211573845
+decision_tree,Decision Tree,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,ShapeFactor2,0.1419007856918893,0.1419007856918893,0.0017234341618147,0.0017234341618147
+decision_tree,Decision Tree,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,Perimeter,0.1229169820210482,0.1229169820210482,729.704,729.704
+decision_tree,Decision Tree,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,MajorAxisLength,0.122721405021793,0.122721405021793,281.09151202046115,281.09151202046115
+decision_tree,Decision Tree,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,Solidity,0.07142878317633325,0.07142878317633325,0.9896835246664598,0.9896835246664598
+decision_tree,Decision Tree,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,3,DERMASON,1,MajorAxisLength,0.29449227185636234,0.29449227185636234,276.7030457026375,276.7030457026375
+decision_tree,Decision Tree,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,3,DERMASON,2,Solidity,0.18072033633546417,0.18072033633546417,0.9867752540346684,0.9867752540346684
+decision_tree,Decision Tree,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,3,DERMASON,3,roundness,0.13327921507688684,0.13327921507688684,0.9106726790433178,0.9106726790433178
+decision_tree,Decision Tree,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,3,DERMASON,4,MinorAxisLength,-0.11616430042684517,0.11616430042684517,183.3441984080516,183.3441984080516
+decision_tree,Decision Tree,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,3,DERMASON,5,Perimeter,0.09773397210985685,0.09773397210985685,739.4119999999999,739.4119999999999
+decision_tree,Decision Tree,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,3,DERMASON,1,Perimeter,0.38797308682102727,0.38797308682102727,755.262,755.262
+decision_tree,Decision Tree,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,3,DERMASON,2,Compactness,0.20143874853547764,0.20143874853547764,0.7662466201762249,0.7662466201762249
+decision_tree,Decision Tree,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,3,DERMASON,3,ConvexArea,0.13645083409035128,0.13645083409035128,40725.0,40725.0
+decision_tree,Decision Tree,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,3,DERMASON,4,MajorAxisLength,0.06115251994301667,0.06115251994301667,294.8817146401059,294.8817146401059
+decision_tree,Decision Tree,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,3,DERMASON,5,ShapeFactor4,-0.03292746415491052,0.03292746415491052,0.9935263506429898,0.9935263506429898
+decision_tree,Decision Tree,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,MinorAxisLength,0.2515218098410895,0.2515218098410895,184.4035791473984,184.4035791473984
+decision_tree,Decision Tree,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ConvexArea,0.1566869420307583,0.1566869420307583,40650.0,40650.0
+decision_tree,Decision Tree,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,roundness,0.09611052467340428,0.09611052467340428,0.8969074773818111,0.8969074773818111
+decision_tree,Decision Tree,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,MajorAxisLength,0.08208599332304649,0.08208599332304649,278.12426365528427,278.12426365528427
+decision_tree,Decision Tree,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,ShapeFactor3,0.0809784351800895,0.0809784351800895,0.6617616962164241,0.6617616962164241
+decision_tree,Decision Tree,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,ShapeFactor3,0.3255823144358731,0.3255823144358731,0.7150295578048644,0.7150295578048644
+decision_tree,Decision Tree,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ShapeFactor1,0.18590939393763953,0.18590939393763953,0.0066424492324321,0.0066424492324321
+decision_tree,Decision Tree,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,Perimeter,0.06345156579469981,0.06345156579469981,746.391,746.391
+decision_tree,Decision Tree,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,roundness,0.05945770922897167,0.05945770922897167,0.910346468815673,0.910346468815673
+decision_tree,Decision Tree,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Solidity,0.051991943549743735,0.051991943549743735,0.9880043086564826,0.9880043086564826
+decision_tree,Decision Tree,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,ShapeFactor3,0.2232745985850804,0.2232745985850804,0.672377779415233,0.672377779415233
+decision_tree,Decision Tree,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ShapeFactor1,0.19699563311168602,0.19699563311168602,0.0068038522809763,0.0068038522809763
+decision_tree,Decision Tree,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,Compactness,0.09082452252169618,0.09082452252169618,0.8199864507510066,0.8199864507510066
+decision_tree,Decision Tree,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,ShapeFactor4,0.05749624004892295,0.05749624004892295,0.994523303051443,0.994523303051443
+decision_tree,Decision Tree,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,roundness,0.05737533506443409,0.05737533506443409,0.9189510772586774,0.9189510772586774
+decision_tree,Decision Tree,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,ShapeFactor1,0.20015482350578231,0.20015482350578231,0.0067482676162306,0.0067482676162306
+decision_tree,Decision Tree,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,ShapeFactor3,0.18381503946931363,0.18381503946931363,0.6799924716145277,0.6799924716145277
+decision_tree,Decision Tree,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,Extent,0.17091575798616948,0.17091575798616948,0.7628385899814472,0.7628385899814472
+decision_tree,Decision Tree,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,MajorAxisLength,0.1021859548959827,0.1021859548959827,277.4685195765557,277.4685195765557
+decision_tree,Decision Tree,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,Solidity,-0.06325667940301388,0.06325667940301388,0.9908665895508,0.9908665895508
+decision_tree,Decision Tree,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,ConvexArea,0.19398867167625206,0.19398867167625206,42017.0,42017.0
+decision_tree,Decision Tree,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,Perimeter,0.1337153804413098,0.1337153804413098,752.6039999999999,752.6039999999999
+decision_tree,Decision Tree,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,roundness,0.11234215178239314,0.11234215178239314,0.9237538258163772,0.9237538258163772
+decision_tree,Decision Tree,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,ShapeFactor2,0.09753359482557122,0.09753359482557122,0.0018347587626473,0.0018347587626473
+decision_tree,Decision Tree,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,ShapeFactor3,0.09174662032434877,0.09174662032434877,0.6613873880839164,0.6613873880839164
+decision_tree,Decision Tree,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,Perimeter,0.3606949377158511,0.3606949377158511,772.831,772.831
+decision_tree,Decision Tree,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,MajorAxisLength,0.15179729632325098,0.15179729632325098,294.5868134177609,294.5868134177609
+decision_tree,Decision Tree,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,ConvexArea,0.0642634683127353,0.0642634683127353,42287.0,42287.0
+decision_tree,Decision Tree,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,ShapeFactor4,0.06160822593062791,0.06160822593062791,0.9970482165067734,0.9970482165067734
+decision_tree,Decision Tree,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,AspectRation,0.055651531335208414,0.055651531335208414,1.6247491352023729,1.6247491352023729
+decision_tree,Decision Tree,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,MajorAxisLength,0.3421972981847931,0.3421972981847931,269.1317270905478,269.1317270905478
+decision_tree,Decision Tree,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,ShapeFactor4,0.11206839255780322,0.11206839255780322,0.9965465724525387,0.9965465724525387
+decision_tree,Decision Tree,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,ShapeFactor1,0.09067952650976202,0.09067952650976202,0.0074500132066587,0.0074500132066587
+decision_tree,Decision Tree,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,Extent,0.066173428448757,0.066173428448757,0.6933515028213888,0.6933515028213888
+decision_tree,Decision Tree,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,Perimeter,0.03822153527534933,0.03822153527534933,718.771,718.771
+decision_tree,Decision Tree,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,MajorAxisLength,0.3199339405177536,0.3199339405177536,272.05823055475423,272.05823055475423
+decision_tree,Decision Tree,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,Solidity,0.15817139730155066,0.15817139730155066,0.989242040471716,0.989242040471716
+decision_tree,Decision Tree,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,ShapeFactor1,0.09900876299481928,0.09900876299481928,0.0074901775936004,0.0074901775936004
+decision_tree,Decision Tree,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,Perimeter,0.05615647031171911,0.05615647031171911,719.437,719.437
+decision_tree,Decision Tree,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,ConvexArea,0.03943176136118662,0.03943176136118662,36717.0,36717.0
+decision_tree,Decision Tree,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,MajorAxisLength,0.3687653753791754,0.3687653753791754,276.365808655726,276.365808655726
+decision_tree,Decision Tree,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,ShapeFactor4,0.10527894072937145,0.10527894072937145,0.9963341368497746,0.9963341368497746
+decision_tree,Decision Tree,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,Area,0.08611627478169681,0.08611627478169681,37877.0,37877.0
+decision_tree,Decision Tree,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,Extent,-0.07539137896361389,0.07539137896361389,0.8126019050888184,0.8126019050888184
+decision_tree,Decision Tree,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,ShapeFactor1,0.06540727263239277,0.06540727263239277,0.0072964017386732,0.0072964017386732
+decision_tree,Decision Tree,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,1,MinorAxisLength,0.2444394356940353,0.2444394356940353,180.7954490214904,180.7954490214904
+decision_tree,Decision Tree,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,2,roundness,0.2177362504859606,0.2177362504859606,0.8837858283545291,0.8837858283545291
+decision_tree,Decision Tree,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,3,ShapeFactor4,0.1289468450663426,0.1289468450663426,0.996527844991714,0.996527844991714
+decision_tree,Decision Tree,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,4,ShapeFactor3,0.06822732690588916,0.06822732690588916,0.6633104829691828,0.6633104829691828
+decision_tree,Decision Tree,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,5,ShapeFactor1,0.057348116603427604,0.057348116603427604,0.0070669689983555,0.0070669689983555
+decision_tree,Decision Tree,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,1,MajorAxisLength,0.31288796646968003,0.31288796646968003,271.1629633226162,271.1629633226162
+decision_tree,Decision Tree,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,2,Perimeter,0.194797929410676,0.194797929410676,739.5509999999999,739.5509999999999
+decision_tree,Decision Tree,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,3,MinorAxisLength,-0.12370927038948272,0.12370927038948272,182.2863325032997,182.2863325032997
+decision_tree,Decision Tree,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,4,ShapeFactor4,0.11757456556856795,0.11757456556856795,0.998179288540195,0.998179288540195
+decision_tree,Decision Tree,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,5,Area,0.09823280333699272,0.09823280333699272,38751.0,38751.0
+decision_tree,Decision Tree,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,1,Perimeter,0.5743892372854734,0.5743892372854734,737.8319999999999,737.8319999999999
+decision_tree,Decision Tree,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,2,MajorAxisLength,-0.10681698074071566,0.10681698074071566,282.5880611744089,282.5880611744089
+decision_tree,Decision Tree,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,3,Compactness,0.07579110318902132,0.07579110318902132,0.7932047256425413,0.7932047256425413
+decision_tree,Decision Tree,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,4,ShapeFactor1,0.06923298700904461,0.06923298700904461,0.0071611986815947,0.0071611986815947
+decision_tree,Decision Tree,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,5,roundness,0.028500212203536834,0.028500212203536834,0.9108837977431166,0.9108837977431166
+decision_tree,Decision Tree,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,1,ShapeFactor1,0.3353445769659075,0.3353445769659075,0.0074889155787573,0.0074889155787573
+decision_tree,Decision Tree,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,2,Area,0.28954093329750147,0.28954093329750147,40163.0,40163.0
+decision_tree,Decision Tree,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,3,MajorAxisLength,-0.18540865966859882,0.18540865966859882,300.77731638963246,300.77731638963246
+decision_tree,Decision Tree,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,4,Perimeter,0.12439966871221815,0.12439966871221815,772.111,772.111
+decision_tree,Decision Tree,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,5,Compactness,0.06748180525459725,0.06748180525459725,0.7518358869614227,0.7518358869614227
+random_forest,Random Forest,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,roundness,0.14774535077628836,0.14774535077628836,0.9045325908282456,0.9045325908282456
+random_forest,Random Forest,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,Perimeter,0.08697854354373219,0.08697854354373219,969.983,969.983
+random_forest,Random Forest,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,MajorAxisLength,0.06556707993294422,0.06556707993294422,359.95047767229994,359.95047767229994
+random_forest,Random Forest,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,Solidity,0.06245393449860866,0.06245393449860866,0.9917408622305528,0.9917408622305528
+random_forest,Random Forest,unscaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,ConvexArea,0.06001014930913427,0.06001014930913427,68288.0,68288.0
+random_forest,Random Forest,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,Perimeter,0.10248030535125909,0.10248030535125909,993.761,993.761
+random_forest,Random Forest,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,ShapeFactor4,-0.0901588757038443,0.0901588757038443,0.997570025272178,0.997570025272178
+random_forest,Random Forest,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,Solidity,0.08901978518628885,0.08901978518628885,0.9911111111111112,0.9911111111111112
+random_forest,Random Forest,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,MajorAxisLength,0.0820407849736798,0.0820407849736798,386.98786978852297,386.98786978852297
+random_forest,Random Forest,unscaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,ConvexArea,0.07558317678288454,0.07558317678288454,68625.0,68625.0
+random_forest,Random Forest,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,Perimeter,0.09905558108194921,0.09905558108194921,1011.261,1011.261
+random_forest,Random Forest,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,ShapeFactor4,0.08625965959842231,0.08625965959842231,0.9880679024330704,0.9880679024330704
+random_forest,Random Forest,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ConvexArea,0.08182409341832622,0.08182409341832622,69648.0,69648.0
+random_forest,Random Forest,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,ShapeFactor1,0.08042331029212327,0.08042331029212327,0.0055946377856745,0.0055946377856745
+random_forest,Random Forest,unscaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,MajorAxisLength,0.0754708478190863,0.0754708478190863,380.5696407327228,380.5696407327228
+random_forest,Random Forest,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,roundness,0.16417302022216418,0.16417302022216418,0.8876587307353914,0.8876587307353914
+random_forest,Random Forest,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,Perimeter,0.07571965515121956,0.07571965515121956,1005.7759999999998,1005.7759999999998
+random_forest,Random Forest,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ConvexArea,0.06703863324199662,0.06703863324199662,72262.0,72262.0
+random_forest,Random Forest,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,MajorAxisLength,0.059911571721114325,0.059911571721114325,374.7846255158424,374.7846255158424
+random_forest,Random Forest,unscaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,ShapeFactor4,0.0591431571857838,0.0591431571857838,0.9932154901836944,0.9932154901836944
+random_forest,Random Forest,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,1,roundness,0.13217357924526021,0.13217357924526021,0.8680784148896584,0.8680784148896584
+random_forest,Random Forest,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,2,ShapeFactor4,0.07710591294021292,0.07710591294021292,0.9924857985408702,0.9924857985408702
+random_forest,Random Forest,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,3,Perimeter,0.06275478236321723,0.06275478236321723,1028.668,1028.668
+random_forest,Random Forest,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,4,ConvexArea,0.05956476756202189,0.05956476756202189,74018.0,74018.0
+random_forest,Random Forest,unscaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,5,Compactness,-0.05079959322676549,0.05079959322676549,0.8100984219350958,0.8100984219350958
+random_forest,Random Forest,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,1,ShapeFactor4,0.208334920639336,0.208334920639336,0.997350170071718,0.997350170071718
+random_forest,Random Forest,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,2,Perimeter,0.08334252146274289,0.08334252146274289,1170.4599999999998,1170.4599999999998
+random_forest,Random Forest,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,3,ShapeFactor1,0.059831151621908885,0.059831151621908885,0.0047444664147212,0.0047444664147212
+random_forest,Random Forest,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,4,roundness,-0.05601167323573515,0.05601167323573515,0.8564357096222179,0.8564357096222179
+random_forest,Random Forest,unscaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,5,MinorAxisLength,0.046712146776561346,0.046712146776561346,269.0760699570991,269.0760699570991
+random_forest,Random Forest,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ShapeFactor1,0.1507817964094268,0.1507817964094268,0.0035370266335946,0.0035370266335946
+random_forest,Random Forest,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,ConvexArea,0.1465933019072133,0.1465933019072133,154519.0,154519.0
+random_forest,Random Forest,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,EquivDiameter,0.14512273435646436,0.14512273435646436,441.74423127603575,441.74423127603575
+random_forest,Random Forest,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,MinorAxisLength,0.1409394652034577,0.1409394652034577,362.1338272028383,362.1338272028383
+random_forest,Random Forest,unscaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Area,0.11455802236949152,0.11455802236949152,153261.0,153261.0
+random_forest,Random Forest,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ConvexArea,0.15163745409643448,0.15163745409643448,257425.0,257425.0
+random_forest,Random Forest,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,ShapeFactor1,0.14920829608221386,0.14920829608221386,0.0028601199942404,0.0028601199942404
+random_forest,Random Forest,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,EquivDiameter,0.14856923064481148,0.14856923064481148,565.8031152369625,565.8031152369625
+random_forest,Random Forest,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,MinorAxisLength,0.14160362033757942,0.14160362033757942,450.926186722595,450.926186722595
+random_forest,Random Forest,unscaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Area,0.12023250822669701,0.12023250822669701,251432.0,251432.0
+random_forest,Random Forest,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,1,ConvexArea,0.13235375076760383,0.13235375076760383,27498.0,27498.0
+random_forest,Random Forest,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,2,Perimeter,0.11812523296936832,0.11812523296936832,603.014,603.014
+random_forest,Random Forest,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,3,ShapeFactor1,0.0984914797472459,0.0984914797472459,0.0078833268077651,0.0078833268077651
+random_forest,Random Forest,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,4,EquivDiameter,0.09670084950494477,0.09670084950494477,185.8403149237035,185.8403149237035
+random_forest,Random Forest,unscaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.09629463791350645,0.09629463791350645,162.1897200105204,162.1897200105204
+random_forest,Random Forest,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ConvexArea,0.12946058774491462,0.12946058774491462,30161.0,30161.0
+random_forest,Random Forest,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,Perimeter,0.11400369241625338,0.11400369241625338,641.153,641.153
+random_forest,Random Forest,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,EquivDiameter,0.09758580109134128,0.09758580109134128,194.772103329466,194.772103329466
+random_forest,Random Forest,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MajorAxisLength,0.09584801463408553,0.09584801463408553,234.75262724944605,234.75262724944605
+random_forest,Random Forest,unscaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.07513470430161608,0.07513470430161608,162.19632893113194,162.19632893113194
+random_forest,Random Forest,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ConvexArea,0.12654653042524494,0.12654653042524494,31397.0,31397.0
+random_forest,Random Forest,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,Perimeter,0.11075215443828847,0.11075215443828847,648.4689999999999,648.4689999999999
+random_forest,Random Forest,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.09668930551673001,0.09668930551673001,236.2812723200096,236.2812723200096
+random_forest,Random Forest,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,EquivDiameter,0.09250633148189691,0.09250633148189691,198.7549499130856,198.7549499130856
+random_forest,Random Forest,unscaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.07251227420340678,0.07251227420340678,167.64540050624518,167.64540050624518
+random_forest,Random Forest,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ConvexArea,0.12259098292691747,0.12259098292691747,32083.0,32083.0
+random_forest,Random Forest,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,Perimeter,0.11184425615342466,0.11184425615342466,656.453,656.453
+random_forest,Random Forest,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.10649606931088187,0.10649606931088187,242.94856462354684,242.94856462354684
+random_forest,Random Forest,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,EquivDiameter,0.09150822454884477,0.09150822454884477,200.45172374602387,200.45172374602387
+random_forest,Random Forest,unscaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.07341827242074955,0.07341827242074955,166.9923013054856,166.9923013054856
+random_forest,Random Forest,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ConvexArea,0.10723638594877778,0.10723638594877778,33909.0,33909.0
+random_forest,Random Forest,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,Perimeter,0.08485623654955658,0.08485623654955658,687.588,687.588
+random_forest,Random Forest,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.0763620144298245,0.0763620144298245,266.26846337583515,266.26846337583515
+random_forest,Random Forest,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.06355699510265005,0.06355699510265005,161.04061516633084,161.04061516633084
+random_forest,Random Forest,unscaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,EquivDiameter,0.05852845001625592,0.05852845001625592,206.67520472174508,206.67520472174508
+random_forest,Random Forest,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,Perimeter,0.11302286073307433,0.11302286073307433,676.165,676.165
+random_forest,Random Forest,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,ConvexArea,0.11240512416765874,0.11240512416765874,34073.0,34073.0
+random_forest,Random Forest,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.09784027473204442,0.09784027473204442,247.3614472256199,247.3614472256199
+random_forest,Random Forest,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,EquivDiameter,0.07402557860492284,0.07402557860492284,207.28420508237667,207.28420508237667
+random_forest,Random Forest,unscaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,ShapeFactor1,0.06492277426822243,0.06492277426822243,0.0073300968181597,0.0073300968181597
+random_forest,Random Forest,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,Perimeter,0.10943705628590279,0.10943705628590279,676.666,676.666
+random_forest,Random Forest,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,ConvexArea,0.10831002130599607,0.10831002130599607,34759.0,34759.0
+random_forest,Random Forest,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.08805117376773496,0.08805117376773496,241.828840979358,241.828840979358
+random_forest,Random Forest,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,EquivDiameter,0.07542471326018357,0.07542471326018357,209.38047665511013,209.38047665511013
+random_forest,Random Forest,unscaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,Area,0.04568527247148886,0.04568527247148886,34432.0,34432.0
+random_forest,Random Forest,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,ConvexArea,0.08492833383168981,0.08492833383168981,36928.0,36928.0
+random_forest,Random Forest,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,MajorAxisLength,0.07601727159187027,0.07601727159187027,264.936380010174,264.936380010174
+random_forest,Random Forest,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,Perimeter,0.06290997994352783,0.06290997994352783,710.1410000000001,710.1410000000001
+random_forest,Random Forest,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,MinorAxisLength,0.06184312897356207,0.06184312897356207,176.31445173544094,176.31445173544094
+random_forest,Random Forest,unscaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,ShapeFactor1,0.05797066745180494,0.05797066745180494,0.0072527684855915,0.0072527684855915
+random_forest,Random Forest,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,1,Perimeter,0.07486912971659034,0.07486912971659034,746.25,746.25
+random_forest,Random Forest,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,2,roundness,0.07343037310748526,0.07343037310748526,0.8814007479216192,0.8814007479216192
+random_forest,Random Forest,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,3,ShapeFactor3,0.04923379292362297,0.04923379292362297,0.6528530755302192,0.6528530755302192
+random_forest,Random Forest,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,4,Extent,0.04233986376270651,0.04233986376270651,0.8143098380136343,0.8143098380136343
+random_forest,Random Forest,unscaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,5,Compactness,0.03900428669823989,0.03900428669823989,0.8079932397800239,0.8079932397800239
+random_forest,Random Forest,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,Perimeter,0.12343908317664007,0.12343908317664007,805.1600000000001,805.1600000000001
+random_forest,Random Forest,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,ConvexArea,0.08326109469251752,0.08326109469251752,46216.0,46216.0
+random_forest,Random Forest,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,EquivDiameter,0.06946562719705288,0.06946562719705288,241.4204080018854,241.4204080018854
+random_forest,Random Forest,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,ShapeFactor1,0.06557318311730574,0.06557318311730574,0.0065341300316815,0.0065341300316815
+random_forest,Random Forest,unscaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,MajorAxisLength,0.06422741668100589,0.06422741668100589,299.1063363302542,299.1063363302542
+random_forest,Random Forest,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,Perimeter,0.13023906626210058,0.13023906626210058,807.419,807.419
+random_forest,Random Forest,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,ConvexArea,0.08655707125938114,0.08655707125938114,47014.0,47014.0
+random_forest,Random Forest,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,EquivDiameter,0.07456177436729641,0.07456177436729641,243.45025686549823,243.45025686549823
+random_forest,Random Forest,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,MajorAxisLength,0.06981705839006676,0.06981705839006676,305.7739408863234,305.7739408863234
+random_forest,Random Forest,unscaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,Compactness,0.06226710590779615,0.06226710590779615,0.7961772548694888,0.7961772548694888
+random_forest,Random Forest,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,1,Perimeter,0.12489652187998698,0.12489652187998698,817.095,817.095
+random_forest,Random Forest,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,2,ConvexArea,0.0854043060608717,0.0854043060608717,48134.0,48134.0
+random_forest,Random Forest,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,3,EquivDiameter,0.07166676878923364,0.07166676878923364,246.3357941155388,246.3357941155388
+random_forest,Random Forest,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,4,MajorAxisLength,0.06995874916047465,0.06995874916047465,303.8431455041392,303.8431455041392
+random_forest,Random Forest,unscaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,5,Compactness,0.0636966823522465,0.0636966823522465,0.8107334253231755,0.8107334253231755
+random_forest,Random Forest,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,1,Perimeter,0.1178428069470963,0.1178428069470963,847.239,847.239
+random_forest,Random Forest,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,2,ConvexArea,0.081345937751067,0.081345937751067,49351.0,49351.0
+random_forest,Random Forest,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,3,EquivDiameter,0.06816004903634146,0.06816004903634146,248.71739641801872,248.71739641801872
+random_forest,Random Forest,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,4,MajorAxisLength,0.06472547142736737,0.06472547142736737,309.2765163066068,309.2765163066068
+random_forest,Random Forest,unscaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,5,Compactness,0.0629211330352598,0.0629211330352598,0.804191017760457,0.804191017760457
+random_forest,Random Forest,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,1,Perimeter,0.0762023874465762,0.0762023874465762,883.1569999999999,883.1569999999999
+random_forest,Random Forest,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,2,ShapeFactor1,0.07014973873527362,0.07014973873527362,0.0063384533315882,0.0063384533315882
+random_forest,Random Forest,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,3,Compactness,0.06955819272491727,0.06955819272491727,0.768826965315626,0.768826965315626
+random_forest,Random Forest,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,4,MinorAxisLength,0.06897800738706421,0.06897800738706421,201.3683224653088,201.3683224653088
+random_forest,Random Forest,unscaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,5,ConvexArea,0.0677338141840448,0.0677338141840448,54275.0,54275.0
+random_forest,Random Forest,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,1,roundness,0.062370605454916586,0.062370605454916586,0.869745452690357,0.869745452690357
+random_forest,Random Forest,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,2,Compactness,0.037493016670084034,0.037493016670084034,0.7801115847233366,0.7801115847233366
+random_forest,Random Forest,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,3,ConvexArea,0.035850897025713806,0.035850897025713806,56259.0,56259.0
+random_forest,Random Forest,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,4,MinorAxisLength,0.03340811903363945,0.03340811903363945,208.4878424352304,208.4878424352304
+random_forest,Random Forest,unscaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,5,Area,0.03297045063489075,0.03297045063489075,55517.0,55517.0
+random_forest,Random Forest,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,ShapeFactor4,0.09744962578289498,0.09744962578289498,0.9921602240547652,0.9921602240547652
+random_forest,Random Forest,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,roundness,0.05759956742350953,0.05759956742350953,0.8634718862827261,0.8634718862827261
+random_forest,Random Forest,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,ShapeFactor3,0.035977225447724,0.035977225447724,0.6560784254861437,0.6560784254861437
+random_forest,Random Forest,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,ConvexArea,0.03313377333703607,0.03313377333703607,37400.0,37400.0
+random_forest,Random Forest,unscaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Perimeter,0.031428758723919654,0.031428758723919654,731.413,731.413
+random_forest,Random Forest,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,1,ConvexArea,0.08341818908251439,0.08341818908251439,38676.0,38676.0
+random_forest,Random Forest,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,2,Perimeter,0.08230425676460343,0.08230425676460343,729.704,729.704
+random_forest,Random Forest,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,3,MinorAxisLength,0.08113667883633834,0.08113667883633834,173.64155211573845,173.64155211573845
+random_forest,Random Forest,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,4,ShapeFactor1,0.07365342725569551,0.07365342725569551,0.0073436139723714,0.0073436139723714
+random_forest,Random Forest,unscaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,5,EquivDiameter,0.06698866194098599,0.06698866194098599,220.76184012149344,220.76184012149344
+random_forest,Random Forest,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,ShapeFactor4,0.07915986492480732,0.07915986492480732,0.9943847141528392,0.9943847141528392
+random_forest,Random Forest,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,EquivDiameter,0.044167966197796706,0.044167966197796706,224.60414956530053,224.60414956530053
+random_forest,Random Forest,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,ShapeFactor3,0.03981908946521016,0.03981908946521016,0.6588820439710613,0.6588820439710613
+random_forest,Random Forest,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,Compactness,0.037387410862653896,0.037387410862653896,0.8117154944751649,0.8117154944751649
+random_forest,Random Forest,unscaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,MinorAxisLength,0.0372436308962277,0.0372436308962277,183.3441984080516,183.3441984080516
+random_forest,Random Forest,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,ShapeFactor4,0.04719583645293426,0.04719583645293426,0.9935263506429898,0.9935263506429898
+random_forest,Random Forest,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,EquivDiameter,0.04051287522011099,0.04051287522011099,225.9521171947512,225.9521171947512
+random_forest,Random Forest,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,Perimeter,0.03725345416348202,0.03725345416348202,755.262,755.262
+random_forest,Random Forest,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,ConvexArea,0.03389202222994006,0.03389202222994006,40725.0,40725.0
+random_forest,Random Forest,unscaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,Compactness,0.03307856771194232,0.03307856771194232,0.7662466201762249,0.7662466201762249
+random_forest,Random Forest,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,Perimeter,0.06477751125712337,0.06477751125712337,750.526,750.526
+random_forest,Random Forest,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ShapeFactor1,0.05901255755896625,0.05901255755896625,0.006917825680412,0.006917825680412
+random_forest,Random Forest,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,Compactness,0.05115164846467571,0.05115164846467571,0.8134873669679351,0.8134873669679351
+random_forest,Random Forest,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,EquivDiameter,0.04927167634546494,0.04927167634546494,226.25057493083293,226.25057493083293
+random_forest,Random Forest,unscaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,ShapeFactor3,0.04797244781763155,0.04797244781763155,0.6617616962164241,0.6617616962164241
+random_forest,Random Forest,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,ShapeFactor4,0.05333501367153898,0.05333501367153898,0.9963258912205788,0.9963258912205788
+random_forest,Random Forest,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,Perimeter,0.046781730257610704,0.046781730257610704,746.391,746.391
+random_forest,Random Forest,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,EquivDiameter,0.044093622660045816,0.044093622660045816,226.68348317956844,226.68348317956844
+random_forest,Random Forest,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,ShapeFactor1,0.03985878614816922,0.03985878614816922,0.0066424492324321,0.0066424492324321
+random_forest,Random Forest,unscaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Compactness,0.03186262894190577,0.03186262894190577,0.8455942039801742,0.8455942039801742
+random_forest,Random Forest,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,Perimeter,0.07200781524106288,0.07200781524106288,747.915,747.915
+random_forest,Random Forest,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,EquivDiameter,0.0695214561080339,0.0695214561080339,228.21730174755936,228.21730174755936
+random_forest,Random Forest,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,Compactness,0.06522420108012945,0.06522420108012945,0.8199864507510066,0.8199864507510066
+random_forest,Random Forest,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,ConvexArea,0.05623002373745493,0.05623002373745493,41346.0,41346.0
+random_forest,Random Forest,unscaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,ShapeFactor1,0.05214792448352478,0.05214792448352478,0.0068038522809763,0.0068038522809763
+random_forest,Random Forest,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,Perimeter,0.06578387116166522,0.06578387116166522,750.347,750.347
+random_forest,Random Forest,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,EquivDiameter,0.05953984825943027,0.05953984825943027,228.8051362204872,228.8051362204872
+random_forest,Random Forest,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,Compactness,0.05497612292173615,0.05497612292173615,0.8246165603567075,0.8246165603567075
+random_forest,Random Forest,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,Solidity,-0.05264258282414062,0.05264258282414062,0.9908665895508,0.9908665895508
+random_forest,Random Forest,unscaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,ShapeFactor1,0.045532150428721545,0.045532150428721545,0.0067482676162306,0.0067482676162306
+random_forest,Random Forest,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,1,roundness,0.07571698759250282,0.07571698759250282,0.9237538258163772,0.9237538258163772
+random_forest,Random Forest,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,2,Perimeter,0.06828171539214334,0.06828171539214334,752.6039999999999,752.6039999999999
+random_forest,Random Forest,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,3,Area,0.04262446629985851,0.04262446629985851,41637.0,41637.0
+random_forest,Random Forest,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,4,EquivDiameter,0.04000224286012781,0.04000224286012781,230.2474211020353,230.2474211020353
+random_forest,Random Forest,unscaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,5,ShapeFactor3,0.03789785527992782,0.03789785527992782,0.6613873880839164,0.6613873880839164
+random_forest,Random Forest,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,Perimeter,0.10883659372833024,0.10883659372833024,772.831,772.831
+random_forest,Random Forest,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,ShapeFactor1,0.05869466571328813,0.05869466571328813,0.0070431505144589,0.0070431505144589
+random_forest,Random Forest,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,Compactness,0.048436560253719035,0.048436560253719035,0.7833663698986627,0.7833663698986627
+random_forest,Random Forest,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,roundness,0.046512493639737335,0.046512493639737335,0.8800090299576121,0.8800090299576121
+random_forest,Random Forest,unscaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,MinorAxisLength,0.04562500215459687,0.04562500215459687,181.3121835458421,181.3121835458421
+random_forest,Random Forest,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ConvexArea,0.08052955683761841,0.08052955683761841,36539.0,36539.0
+random_forest,Random Forest,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,MajorAxisLength,0.0693914018173138,0.0693914018173138,269.1317270905478,269.1317270905478
+random_forest,Random Forest,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,MinorAxisLength,0.06165947511702226,0.06165947511702226,171.49658494483035,171.49658494483035
+random_forest,Random Forest,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,ShapeFactor1,0.06081509934092098,0.06081509934092098,0.0074500132066587,0.0074500132066587
+random_forest,Random Forest,unscaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,roundness,-0.05809935653741223,0.05809935653741223,0.8786919078361368,0.8786919078361368
+random_forest,Random Forest,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ConvexArea,0.09644565001557155,0.09644565001557155,36717.0,36717.0
+random_forest,Random Forest,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,ShapeFactor1,0.06615543374172872,0.06615543374172872,0.0074901775936004,0.0074901775936004
+random_forest,Random Forest,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,MinorAxisLength,0.06321822081452473,0.06321822081452473,170.89149754304088,170.89149754304088
+random_forest,Random Forest,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,MajorAxisLength,0.05617471596111555,0.05617471596111555,272.05823055475423,272.05823055475423
+random_forest,Random Forest,unscaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,EquivDiameter,0.051967359397577,0.051967359397577,215.050242371104,215.050242371104
+random_forest,Random Forest,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,MinorAxisLength,0.06033136691743107,0.06033136691743107,175.1444459729213,175.1444459729213
+random_forest,Random Forest,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,ConvexArea,0.05424278529698761,0.05424278529698761,38345.0,38345.0
+random_forest,Random Forest,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,Extent,-0.05258981067746122,0.05258981067746122,0.8126019050888184,0.8126019050888184
+random_forest,Random Forest,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,EquivDiameter,0.05076146395235084,0.05076146395235084,219.60531468052807,219.60531468052807
+random_forest,Random Forest,unscaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,ShapeFactor1,0.04279898758643741,0.04279898758643741,0.0072964017386732,0.0072964017386732
+random_forest,Random Forest,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,1,roundness,0.07989751609918533,0.07989751609918533,0.8837858283545291,0.8837858283545291
+random_forest,Random Forest,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,2,ShapeFactor3,0.03884459918527767,0.03884459918527767,0.6633104829691828,0.6633104829691828
+random_forest,Random Forest,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,3,ShapeFactor1,0.03661324123788458,0.03661324123788458,0.0070669689983555,0.0070669689983555
+random_forest,Random Forest,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,4,EquivDiameter,0.035796356840673664,0.035796356840673664,221.2170018373271,221.2170018373271
+random_forest,Random Forest,unscaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,6,SIRA,5,Compactness,0.033920936024350964,0.033920936024350964,0.8144387533566799,0.8144387533566799
+random_forest,Random Forest,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,roundness,0.07211262668718714,0.07211262668718714,0.8903413034812356,0.8903413034812356
+random_forest,Random Forest,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,ShapeFactor3,0.0473103973934162,0.0473103973934162,0.6710150953479026,0.6710150953479026
+random_forest,Random Forest,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,Compactness,0.03903861235631246,0.03903861235631246,0.819155110676789,0.819155110676789
+random_forest,Random Forest,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,EquivDiameter,0.03858107931655995,0.03858107931655995,222.12452723198373,222.12452723198373
+random_forest,Random Forest,unscaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,ShapeFactor1,0.03413512622047649,0.03413512622047649,0.0069975733096595,0.0069975733096595
+random_forest,Random Forest,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,1,Perimeter,0.1135575313926495,0.1135575313926495,737.8319999999999,737.8319999999999
+random_forest,Random Forest,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,2,ConvexArea,0.09959081785875845,0.09959081785875845,39855.0,39855.0
+random_forest,Random Forest,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,3,ShapeFactor1,0.06597491012619112,0.06597491012619112,0.0071611986815947,0.0071611986815947
+random_forest,Random Forest,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,4,MinorAxisLength,0.06275589257779686,0.06275589257779686,178.47954412418304,178.47954412418304
+random_forest,Random Forest,unscaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,5,roundness,0.0484688689576591,0.0484688689576591,0.9108837977431166,0.9108837977431166
+random_forest,Random Forest,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,Perimeter,0.08801801579369233,0.08801801579369233,772.111,772.111
+random_forest,Random Forest,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,roundness,0.046336634216331406,0.046336634216331406,0.8465966191015571,0.8465966191015571
+random_forest,Random Forest,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,EquivDiameter,0.03421577175216456,0.03421577175216456,226.13518044567576,226.13518044567576
+random_forest,Random Forest,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,ConvexArea,0.03321757426300718,0.03321757426300718,40693.0,40693.0
+random_forest,Random Forest,unscaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,ShapeFactor4,0.03319843990432829,0.03319843990432829,0.9934360728217264,0.9934360728217264
+mlp,MLP,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,roundness,0.15021595380558522,0.15021595380558522,0.9045325908282456,0.5183217787978041
+mlp,MLP,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,ShapeFactor1,0.14403205936023367,0.14403205936023367,0.005314961869829,-1.1050931589179638
+mlp,MLP,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,MinorAxisLength,0.09304868087941442,0.09304868087941442,240.5130294492974,0.8477767819176024
+mlp,MLP,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,Solidity,0.08987349903845783,0.08987349903845783,0.9917408622305528,0.9836686908010036
+mlp,MLP,scaled,2573,192,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,ShapeFactor4,-0.05131977201067482,0.05131977201067482,0.9960275630551412,0.2202104635252211
+mlp,MLP,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,1,EquivDiameter,0.10809450971805544,0.10809450971805544,294.27773893919004,0.69702382437514
+mlp,MLP,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,2,MinorAxisLength,0.10696646240373228,0.10696646240373228,224.32314119220808,0.4883708909454604
+mlp,MLP,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,3,ShapeFactor1,0.10391345790828657,0.10391345790828657,0.0056897429947588,-0.7730868874382189
+mlp,MLP,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,4,Solidity,0.08993211054520403,0.08993211054520403,0.9911111111111112,0.8486606381606353
+mlp,MLP,scaled,2590,960,barbunya_predicted_as_cali,decision_tree,0,BARBUNYA,2,CALI,5,roundness,0.07113736030232638,0.07113736030232638,0.8654673100101826,-0.1419657532120657
+mlp,MLP,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,ShapeFactor4,0.23636698028854278,0.23636698028854278,0.9880679024330704,-1.603589852677381
+mlp,MLP,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,MinorAxisLength,0.10304661742985073,0.10304661742985073,230.3304483927484,0.6217295381744266
+mlp,MLP,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ShapeFactor1,0.08901798904010642,0.08901798904010642,0.0055946377856745,-0.857337464017534
+mlp,MLP,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,ShapeFactor3,0.08604233065959835,0.08604233065959835,0.5980038832622602,-0.4705300341422669
+mlp,MLP,scaled,2591,66,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,EquivDiameter,0.05912734636740401,0.05912734636740401,294.29720826243783,0.6973523027999835
+mlp,MLP,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,1,roundness,0.13475911062825519,0.13475911062825519,0.8876587307353914,0.2331171366481719
+mlp,MLP,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,2,Area,0.10842324847479247,0.10842324847479247,71456.0,0.628131068603429
+mlp,MLP,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,3,ShapeFactor1,0.09225954485557589,0.09225954485557589,0.0052449706884774,-1.1670960443657297
+mlp,MLP,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,4,MinorAxisLength,0.08166999154483838,0.08166999154483838,244.4125876142546,0.9343446540621446
+mlp,MLP,scaled,2790,126,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,2,CALI,5,ShapeFactor2,0.0774439769668229,0.0774439769668229,0.0013573548553531,-0.6085284015079594
+mlp,MLP,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,1,roundness,0.10683025647608985,0.10683025647608985,0.8680784148896584,-0.09783244710024
+mlp,MLP,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,2,ShapeFactor1,0.0976288033653278,0.0976288033653278,0.0051519008524589,-1.2495435508924289
+mlp,MLP,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,3,Area,0.07724863442875848,0.07724863442875848,73097.0,0.6840338922390701
+mlp,MLP,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,4,MinorAxisLength,0.07691644598563004,0.07691644598563004,249.01087878501625,1.0364239833900204
+mlp,MLP,scaled,2883,553,barbunya_predicted_as_cali,mlp,0,BARBUNYA,2,CALI,5,EquivDiameter,0.05696615323510486,0.05696615323510486,305.07374682444606,0.8791696349722938
+mlp,MLP,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,1,ShapeFactor4,0.21611935770277407,0.21611935770277407,0.997350170071718,0.523259953896213
+mlp,MLP,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,2,ShapeFactor1,0.140763585926619,0.140763585926619,0.0047444664147212,-1.610476318173805
+mlp,MLP,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,3,ConvexArea,0.11738239647680226,0.11738239647680226,94486.0,1.3673687228751454
+mlp,MLP,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,4,roundness,0.06575522838396908,0.06575522838396908,0.8564357096222179,-0.2946192861033797
+mlp,MLP,scaled,3330,895,barbunya_predicted_as_cali,logistic_regression,0,BARBUNYA,0,BARBUNYA,5,ShapeFactor2,-0.04330405341322625,0.04330405341322625,0.0010740926824468,-1.0837503984893089
+mlp,MLP,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ConvexArea,0.42100218013812024,0.42100218013812024,154519.0,3.381785603455392
+mlp,MLP,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,Area,0.3372526165738172,0.3372526165738172,153261.0,3.4149260031028907
+mlp,MLP,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,MajorAxisLength,0.13946362534438447,0.13946362534438447,542.0882388913515,2.5934177062388617
+mlp,MLP,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,ShapeFactor1,-0.10983098652117271,0.10983098652117271,0.0035370266335946,-2.680107505825664
+mlp,MLP,scaled,3450,1567,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Perimeter,0.061247578556713124,0.061247578556713124,1457.451,2.810666790742582
+mlp,MLP,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,1,ConvexArea,0.4257201828189355,0.4257201828189355,257425.0,6.834812830363772
+mlp,MLP,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,2,Area,0.2752881406504027,0.2752881406504027,251432.0,6.759250256079441
+mlp,MLP,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,3,MajorAxisLength,0.11636068420888696,0.11636068420888696,719.1256903918719,4.6587718405698295
+mlp,MLP,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,4,Perimeter,0.10897046718803208,0.10897046718803208,1919.868,4.966718210859961
+mlp,MLP,scaled,3869,806,correct_bombay,logistic_regression,1,BOMBAY,1,BOMBAY,5,Compactness,0.089788855453556,0.089788855453556,0.7867930777561853,-0.2214347394738046
+mlp,MLP,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.20521476838600913,0.20521476838600913,0.0078833268077651,1.170136862346293
+mlp,MLP,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,2,ShapeFactor2,0.09882938435626591,0.09882938435626591,0.0027741626078932,1.7684152002184994
+mlp,MLP,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.07810489697589067,0.07810489697589067,213.83523966062947,-1.2360470952566496
+mlp,MLP,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,4,Perimeter,0.06706955315539448,0.06706955315539448,603.014,-1.1732051414113684
+mlp,MLP,scaled,10554,1099,correct_dermason,random_forest,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.06677014745350558,0.06677014745350558,162.1897200105204,-0.8909541077415046
+mlp,MLP,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.26380439763750124,0.26380439763750124,0.0078789269088587,1.1662391366241782
+mlp,MLP,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,ShapeFactor2,0.11579319459147165,0.11579319459147165,0.0023030958118011,0.9781179951464172
+mlp,MLP,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,Eccentricity,0.0710017215806516,0.0710017215806516,0.7229269741192467,-0.2971957532039712
+mlp,MLP,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,EquivDiameter,0.06103150898294419,0.06103150898294419,194.772103329466,-0.9817943878522396
+mlp,MLP,scaled,11193,2097,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,roundness,0.05609338952672098,0.05609338952672098,0.9108144171400296,0.6244981969641038
+mlp,MLP,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.17115777191205198,0.17115777191205198,0.0076155892580419,0.9329569733234064
+mlp,MLP,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,roundness,0.12194483086395595,0.12194483086395595,0.92716539342989,0.9008649746833056
+mlp,MLP,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,ShapeFactor2,0.08463336010124912,0.08463336010124912,0.0023520030785423,1.0601685165033252
+mlp,MLP,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,ShapeFactor4,0.076097513645456,0.076097513645456,0.9972750716076658,0.5060526119016412
+mlp,MLP,scaled,11538,2056,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.06795720000998806,0.06795720000998806,167.64540050624518,-0.7698412452999313
+mlp,MLP,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.22054506389540265,0.22054506389540265,0.0076984778700661,1.0063852683888008
+mlp,MLP,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,2,MinorAxisLength,0.1148965619683425,0.1148965619683425,166.9923013054856,-0.7843396591502806
+mlp,MLP,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,3,ShapeFactor2,0.09171814929214957,0.09171814929214957,0.0022007284570944,0.806378795978768
+mlp,MLP,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,4,ShapeFactor3,0.06442836210713394,0.06442836210713394,0.6807551184796109,0.3683161093326485
+mlp,MLP,scaled,11678,1622,correct_dermason,logistic_regression,3,DERMASON,3,DERMASON,5,Perimeter,0.053421283323015295,0.053421283323015295,656.453,-0.9240420876316576
+mlp,MLP,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.2500385137832208,0.2500385137832208,0.0079369400076259,1.2176310326869588
+mlp,MLP,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,2,MinorAxisLength,0.08457762583293349,0.08457762583293349,161.04061516633084,-0.9164635518950496
+mlp,MLP,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.08253076011418191,0.08253076011418191,266.26846337583515,-0.6243506747612253
+mlp,MLP,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,4,Extent,0.061490351123823915,0.061490351123823915,0.6730869547770956,-1.575674392365579
+mlp,MLP,scaled,12185,322,correct_dermason,mlp,3,DERMASON,3,DERMASON,5,roundness,0.05948612866561753,0.05948612866561753,0.8917023703343984,0.3014633703179214
+mlp,MLP,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor2,0.13048880083962486,0.13048880083962486,0.0022295964423456,0.8548099064908007
+mlp,MLP,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,roundness,0.11604757071573304,0.11604757071573304,0.9275274952439287,0.90698527660156
+mlp,MLP,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,ShapeFactor1,0.10504344026288163,0.10504344026288163,0.0073300968181597,0.6800486110927882
+mlp,MLP,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,ConvexArea,0.08014154110655909,0.08014154110655909,34073.0,-0.6597991182538071
+mlp,MLP,scaled,12237,1552,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,MinorAxisLength,0.074642449102058,0.074642449102058,174.5062389982019,-0.6175347110075823
+mlp,MLP,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,roundness,0.17583362397429392,0.17583362397429392,0.9449817103521664,1.2019991706693276
+mlp,MLP,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,AspectRation,-0.09494588035402006,0.09494588035402006,1.3312103362562135,-1.0181682215826744
+mlp,MLP,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,MajorAxisLength,0.09449273989406647,0.09449273989406647,241.828840979358,-0.9094681723880108
+mlp,MLP,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,ShapeFactor2,0.09344538137425953,0.09344538137425953,0.0024346580142357,1.1988366739829186
+mlp,MLP,scaled,12383,386,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,Perimeter,0.08189149806604033,0.08189149806604033,676.666,-0.829797569469841
+mlp,MLP,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.11076152438697731,0.11076152438697731,0.0072527684855915,0.6115459847117966
+mlp,MLP,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,2,Compactness,0.09378583074208062,0.09378583074208062,0.8140148973226643,0.2214887606383153
+mlp,MLP,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,3,ShapeFactor2,0.09195707074742306,0.09195707074742306,0.001964323396303,0.4097678262431484
+mlp,MLP,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,4,ShapeFactor4,0.08008344784478902,0.08008344784478902,0.995676811742082,0.1398426707210885
+mlp,MLP,scaled,12838,2412,correct_dermason,decision_tree,3,DERMASON,3,DERMASON,5,EquivDiameter,0.06649292242277935,0.06649292242277935,215.66216017102016,-0.6293459293788076
+mlp,MLP,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,1,AspectRation,0.12908258072227521,0.12908258072227521,1.5257292779096072,-0.2248184658188238
+mlp,MLP,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,2,roundness,0.1139394405253635,0.1139394405253635,0.8814007479216192,0.127343725042354
+mlp,MLP,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,3,Perimeter,0.09290284405390856,0.09290284405390856,746.25,-0.5053573304270558
+mlp,MLP,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,4,ConvexArea,0.0880140600968736,0.0880140600968736,39642.0,-0.4729304358965804
+mlp,MLP,scaled,7636,2067,correct_sira,random_forest,6,SIRA,6,SIRA,5,MajorAxisLength,0.06957895810039497,0.06957895810039497,276.00277691575513,-0.5107882361690241
+mlp,MLP,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,ShapeFactor1,0.1779428600344729,0.1779428600344729,0.0065341300316815,-0.0250721845445073
+mlp,MLP,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,roundness,0.1233680693770209,0.1233680693770209,0.8873262347737757,0.2274972375126474
+mlp,MLP,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,AspectRation,0.11094289120374813,0.11094289120374813,1.5323923209489223,-0.1976430991272663
+mlp,MLP,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,MinorAxisLength,0.10052340237576551,0.10052340237576551,195.18913808249496,-0.1583866517229725
+mlp,MLP,scaled,8943,362,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,Perimeter,0.0848188899401006,0.0848188899401006,805.1600000000001,-0.2306853586805261
+mlp,MLP,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,1,ShapeFactor1,0.17930784098970368,0.17930784098970368,0.0065688616487212,0.0056954126176305
+mlp,MLP,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,2,roundness,0.13557652003090373,0.13557652003090373,0.8972682279850429,0.3955383733565036
+mlp,MLP,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,3,AspectRation,0.10848325637957114,0.10848325637957114,1.5729001608660884,-0.032430988514057
+mlp,MLP,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,4,Perimeter,0.07555250263288221,0.07555250263288221,807.419,-0.2201526140841013
+mlp,MLP,scaled,9111,186,correct_sira,logistic_regression,6,SIRA,6,SIRA,5,ShapeFactor2,0.07496908641287257,0.07496908641287257,0.0016282044743443,-0.1541306416587729
+mlp,MLP,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,1,ShapeFactor1,0.18497133065627386,0.18497133065627386,0.006375357130954,-0.1657238750276785
+mlp,MLP,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,2,roundness,0.14003257688218626,0.14003257688218626,0.8970356098396858,0.391606624809401
+mlp,MLP,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,3,AspectRation,0.11248870477287719,0.11248870477287719,1.5180691140345954,-0.2560606116360697
+mlp,MLP,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,4,MajorAxisLength,0.11217159199206841,0.11217159199206841,303.8431455041392,-0.1859969568212865
+mlp,MLP,scaled,9316,462,correct_sira,decision_tree,6,SIRA,6,SIRA,5,Area,0.05856552757932453,0.05856552757932453,47659.0,-0.1825450399019643
+mlp,MLP,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,1,ShapeFactor1,0.1387856062164979,0.1387856062164979,0.0063656790430504,-0.1742973747751094
+mlp,MLP,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,2,MajorAxisLength,0.12018313711760864,0.12018313711760864,309.2765163066068,-0.1226101719623966
+mlp,MLP,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,3,Area,0.09134982985289533,0.09134982985289533,48585.0,-0.1509996318053137
+mlp,MLP,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,4,AspectRation,0.07818702857075467,0.07818702857075467,1.539719485623858,-0.1677590978269725
+mlp,MLP,scaled,9463,1293,correct_sira,mlp,6,SIRA,6,SIRA,5,ShapeFactor2,0.07173703205055407,0.07173703205055407,0.0016423335793842,-0.1304265888241516
+mlp,MLP,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,1,roundness,0.13353771477021792,0.13353771477021792,0.8638142084108642,-0.1699067369274786
+mlp,MLP,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,2,ShapeFactor1,0.12198864159507848,0.12198864159507848,0.0063384533315882,-0.1984157370662777
+mlp,MLP,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,3,ShapeFactor2,0.10724924831436114,0.10724924831436114,0.0013660842621688,-0.5938832898897846
+mlp,MLP,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,4,Compactness,0.06924187929576887,0.06924187929576887,0.768826965315626,-0.5137595558273551
+mlp,MLP,scaled,9919,1094,correct_sira,decision_tree,6,SIRA,6,SIRA,5,EquivDiameter,0.06544924311072861,0.06544924311072861,261.2752154165713,0.1402188032350064
+mlp,MLP,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,1,ShapeFactor1,0.12502368400766758,0.12502368400766758,0.006138826187697,-0.3752588578127719
+mlp,MLP,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,2,roundness,0.11879897088842528,0.11879897088842528,0.869745452690357,-0.0696559115131349
+mlp,MLP,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,3,AspectRation,0.07181500848727064,0.07181500848727064,1.634671880535459,0.2195063205020039
+mlp,MLP,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,4,ShapeFactor2,0.06936155672598564,0.06936155672598564,0.0014024649260377,-0.532848342802074
+mlp,MLP,scaled,9967,1890,correct_sira,random_forest,6,SIRA,6,SIRA,5,Compactness,0.05626586890214251,0.05626586890214251,0.7801115847233366,-0.3301486435115897
+mlp,MLP,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,AspectRation,0.13475754474757207,0.13475754474757207,1.512258573842891,-0.2797590268277312
+mlp,MLP,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,roundness,0.11054230753349127,0.11054230753349127,0.8634718862827261,-0.1756927194779015
+mlp,MLP,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,ShapeFactor4,0.08390504644018296,0.08390504644018296,0.9921602240547652,-0.6659145142396414
+mlp,MLP,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,MajorAxisLength,0.07177508076209532,0.07177508076209532,267.0908591655995,-0.6147564418458176
+mlp,MLP,scaled,12877,2335,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Area,0.04813938768979634,0.04813938768979634,36759.0,-0.5538678781886722
+mlp,MLP,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,1,ShapeFactor1,0.16720444324325534,0.16720444324325534,0.0073436139723714,0.6920230134100978
+mlp,MLP,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,2,ShapeFactor4,0.0961576809581478,0.0961576809581478,0.9984966680374612,0.7859575049262292
+mlp,MLP,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,3,MinorAxisLength,0.09222125169345408,0.09222125169345408,173.64155211573845,-0.6367302455578356
+mlp,MLP,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,4,Compactness,0.06081378279227936,0.06081378279227936,0.7853735551624333,-0.2445316494425674
+mlp,MLP,scaled,13136,1480,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,5,roundness,0.04854014293037188,0.04854014293037188,0.9033463670937024,0.4982720383200429
+mlp,MLP,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,AspectRation,0.10564659580557538,0.10564659580557538,1.5091998989071154,-0.2922338994166564
+mlp,MLP,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ConvexArea,0.08112457328593924,0.08112457328593924,40152.0,-0.4558173046338428
+mlp,MLP,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,MajorAxisLength,0.07978481570339245,0.07978481570339245,276.7030457026375,-0.5026187611688365
+mlp,MLP,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,Solidity,0.07309124573302894,0.07309124573302894,0.9867752540346684,-0.080874224653935
+mlp,MLP,scaled,13322,1696,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,roundness,0.06513602644566296,0.06513602644566296,0.9106726790433178,0.6221025173194219
+mlp,MLP,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,roundness,0.137905146460241,0.137905146460241,0.8833591398874561,0.1604447746380992
+mlp,MLP,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,Compactness,0.10501123026069827,0.10501123026069827,0.7662466201762249,-0.5557440931890013
+mlp,MLP,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,Perimeter,0.0705355697940263,0.0705355697940263,755.262,-0.4633382537103743
+mlp,MLP,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,ShapeFactor2,0.05846618216650736,0.05846618216650736,0.001563792702052,-0.2621926915392567
+mlp,MLP,scaled,13372,2326,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,ShapeFactor4,0.054343914101795,0.054343914101795,0.9935263506429898,-0.3528933664952142
+mlp,MLP,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,AspectRation,0.14179000136048153,0.14179000136048153,1.5082367974700348,-0.2961619296814167
+mlp,MLP,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,Area,0.11295644776628001,0.11295644776628001,40204.0,-0.436509421500809
+mlp,MLP,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,roundness,0.07630217660400246,0.07630217660400246,0.8969074773818111,0.3894409098162218
+mlp,MLP,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,ShapeFactor1,0.05543424360307066,0.05543424360307066,0.006917825680412,0.3148311703586413
+mlp,MLP,scaled,13381,1676,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,ConvexArea,0.047033474947280746,0.047033474947280746,40650.0,-0.4391068352831696
+mlp,MLP,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,1,AspectRation,0.16360051834476555,0.16360051834476555,1.393405182128823,-0.7645051830970642
+mlp,MLP,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,2,ShapeFactor1,0.11125621900841731,0.11125621900841731,0.0066424492324321,0.070884232624604
+mlp,MLP,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,3,MajorAxisLength,0.09292963559790522,0.09292963559790522,268.0759661224964,-0.603263988080015
+mlp,MLP,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,4,roundness,0.07583337493558444,0.07583337493558444,0.910346468815673,0.6165888606499333
+mlp,MLP,scaled,13395,1719,dermason_predicted_as_sira,random_forest,3,DERMASON,6,SIRA,5,Area,0.06057127913709022,0.06057127913709022,40358.0,-0.4312632089231803
+mlp,MLP,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,1,AspectRation,0.19881975518575756,0.19881975518575756,1.4791138754114983,-0.414940403931184
+mlp,MLP,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,2,ShapeFactor1,0.052591517920455376,0.052591517920455376,0.0068038522809763,0.2138658845492077
+mlp,MLP,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,3,MinorAxisLength,0.04813260176592975,0.04813260176592975,188.1656213441918,-0.3143045463373624
+mlp,MLP,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,4,ShapeFactor3,-0.04435057748590193,0.04435057748590193,0.672377779415233,0.2833953398930438
+mlp,MLP,scaled,13448,2291,dermason_predicted_as_sira,mlp,3,DERMASON,6,SIRA,5,Compactness,0.040716089215033294,0.040716089215033294,0.8199864507510066,0.3186513084661212
+mlp,MLP,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,1,MajorAxisLength,0.12185836560372586,0.12185836560372586,277.4685195765557,-0.4936885906494385
+mlp,MLP,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,2,AspectRation,0.12086077930344943,0.12086077930344943,1.4615350367380229,-0.4866360817385619
+mlp,MLP,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,3,ConvexArea,0.06752881697358415,0.06752881697358415,41496.0,-0.4107191704826284
+mlp,MLP,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,4,ShapeFactor1,0.047625247245232656,0.047625247245232656,0.0067482676162306,0.1646252583113515
+mlp,MLP,scaled,13457,2148,dermason_predicted_as_sira,logistic_regression,3,DERMASON,6,SIRA,5,ShapeFactor2,0.04738898389938265,0.04738898389938265,0.0019247763283026,0.3434206806391922
+mlp,MLP,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,1,roundness,0.08304457706639731,0.08304457706639731,0.9237538258163772,0.843202121309688
+mlp,MLP,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,2,ShapeFactor3,0.06839250431095915,0.06839250431095915,0.6613873880839164,0.1719861583945413
+mlp,MLP,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,3,ShapeFactor4,0.06403460560865674,0.06403460560865674,0.9974523007005316,0.5466611869346812
+mlp,MLP,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,4,Eccentricity,0.0466865624793702,0.0466865624793702,0.748551453883167,-0.0183287220970724
+mlp,MLP,scaled,13499,182,dermason_predicted_as_sira,decision_tree,3,DERMASON,3,DERMASON,5,Compactness,0.04146140685496799,0.04146140685496799,0.813257270538614,0.2091614911054775
+mlp,MLP,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,1,roundness,0.12967219830953425,0.12967219830953425,0.8800090299576121,0.1038206887179069
+mlp,MLP,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,2,Compactness,0.09615203249128124,0.09615203249128124,0.7833663698986627,-0.2771903598653459
+mlp,MLP,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,3,ShapeFactor3,0.09218335756815643,0.09218335756815643,0.6136628694882087,-0.3117954826656313
+mlp,MLP,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,4,ConvexArea,0.08939741666237487,0.08939741666237487,42287.0,-0.3841770394457158
+mlp,MLP,scaled,13514,54,dermason_predicted_as_sira,decision_tree,3,DERMASON,6,SIRA,5,MajorAxisLength,0.0878524256878689,0.0878524256878689,294.5868134177609,-0.2939831686725438
+mlp,MLP,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ShapeFactor1,0.1796090972584654,0.1796090972584654,0.0074500132066587,0.7862785954398569
+mlp,MLP,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,MinorAxisLength,0.08251382760431508,0.08251382760431508,171.49658494483035,-0.6843472411123696
+mlp,MLP,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,EquivDiameter,0.07842436081149959,0.07842436081149959,214.4662643717136,-0.6495225920924306
+mlp,MLP,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,ShapeFactor2,0.07694784110898856,0.07694784110898856,0.0018531610373455,0.2232734642500445
+mlp,MLP,scaled,7426,942,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,Extent,0.05996623328750241,0.05996623328750241,0.6933515028213888,-1.1597660722179346
+mlp,MLP,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,1,ShapeFactor1,0.16585839035288305,0.16585839035288305,0.0074901775936004,0.8218589047664845
+mlp,MLP,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,2,MinorAxisLength,0.06726688745995528,0.06726688745995528,170.89149754304088,-0.6977798215788179
+mlp,MLP,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,3,EquivDiameter,0.06609592330005355,0.06609592330005355,215.050242371104,-0.6396699551547406
+mlp,MLP,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,4,Perimeter,0.04135479880903888,0.04135479880903888,719.437,-0.6303748075691316
+mlp,MLP,scaled,7434,693,sira_predicted_as_dermason,logistic_regression,6,SIRA,3,DERMASON,5,ShapeFactor2,0.027353446583853108,0.027353446583853108,0.0018037824068936,0.1404321475617121
+mlp,MLP,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,6,SIRA,1,roundness,0.11754854461306788,0.11754854461306788,0.8825542096139839,0.1468397163208114
+mlp,MLP,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,6,SIRA,2,AspectRation,0.09165392270538954,0.09165392270538954,1.5779307594969605,-0.0119135820279587
+mlp,MLP,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,6,SIRA,3,MajorAxisLength,0.07458486378233044,0.07458486378233044,276.365808655726,-0.5065530356581308
+mlp,MLP,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,6,SIRA,4,Compactness,0.07125301233810233,0.07125301233810233,0.7946182479978717,-0.0941121781014222
+mlp,MLP,scaled,7526,1439,sira_predicted_as_dermason,logistic_regression,6,SIRA,6,SIRA,5,Perimeter,0.05503399420433146,0.05503399420433146,734.382,-0.5606927057570137
+mlp,MLP,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,1,ShapeFactor2,0.07032246144030352,0.07032246144030352,0.0019179914673322,0.3320378858716719
+mlp,MLP,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,2,Extent,0.04745569772479042,0.04745569772479042,0.7003462099125365,-1.016207140143784
+mlp,MLP,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,3,ShapeFactor4,0.04147826769447011,0.04147826769447011,0.996527844991714,0.3348402696732339
+mlp,MLP,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,4,ShapeFactor3,0.03774403365698669,0.03774403365698669,0.6633104829691828,0.1914804985552044
+mlp,MLP,scaled,7568,1414,sira_predicted_as_dermason,mlp,6,SIRA,3,DERMASON,5,MinorAxisLength,0.03409155281722422,0.03409155281722422,180.7954490214904,-0.4779179887648497
+mlp,MLP,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,AspectRation,0.1188931315191002,0.1188931315191002,1.4875660703618998,-0.3804679420589728
+mlp,MLP,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,roundness,0.0966974646048316,0.0966974646048316,0.8903413034812356,0.2784584038987444
+mlp,MLP,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,MajorAxisLength,0.07617317456362474,0.07617317456362474,271.1629633226162,-0.5672504645238611
+mlp,MLP,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,ConvexArea,0.06120496098549101,0.06120496098549101,39175.0,-0.4886006953077538
+mlp,MLP,scaled,7604,217,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,Perimeter,0.055652517790420325,0.055652517790420325,739.5509999999999,-0.5365918837920196
+mlp,MLP,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,1,roundness,0.08037055688708705,0.08037055688708705,0.9108837977431166,0.62567087884997
+mlp,MLP,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,2,ShapeFactor2,0.0543067743802762,0.0543067743802762,0.0017486651604196,0.0479632955835418
+mlp,MLP,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,3,ShapeFactor4,0.05021077030210346,0.05021077030210346,0.9961757090508864,0.2541552165383148
+mlp,MLP,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,4,MinorAxisLength,0.04954934933822204,0.04954934933822204,178.47954412418304,-0.5293297001865769
+mlp,MLP,scaled,7683,2179,sira_predicted_as_dermason,decision_tree,6,SIRA,3,DERMASON,5,EquivDiameter,0.04288423749463391,0.04288423749463391,224.1501855337048,-0.4861394519023674
+mlp,MLP,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,1,ShapeFactor2,0.09414495858478164,0.09414495858478164,0.0014760154548259,-0.409454425389301
+mlp,MLP,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,2,roundness,0.08288619775076105,0.08288619775076105,0.8465966191015571,-0.4609211444559483
+mlp,MLP,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,3,MajorAxisLength,0.07444367975359462,0.07444367975359462,300.77731638963246,-0.2217635292788671
+mlp,MLP,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,4,Area,0.05552042053122186,0.05552042053122186,40163.0,-0.4379061404338141
+mlp,MLP,scaled,7761,21,sira_predicted_as_dermason,decision_tree,6,SIRA,6,SIRA,5,Perimeter,0.05076044245770641,0.05076044245770641,772.111,-0.3847786194894053

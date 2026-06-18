@@ -1,0 +1,17 @@
+model_name,display_name,feature,mean_abs_shap,rank
+random_forest,Random Forest,Perimeter,0.029611888105597093,1
+random_forest,Random Forest,ShapeFactor1,0.027062802904054255,2
+random_forest,Random Forest,ConvexArea,0.02450778435159657,3
+random_forest,Random Forest,MajorAxisLength,0.02424716635024822,4
+random_forest,Random Forest,MinorAxisLength,0.02347147302327051,5
+random_forest,Random Forest,roundness,0.020620283758589524,6
+random_forest,Random Forest,EquivDiameter,0.020141810349614202,7
+random_forest,Random Forest,Compactness,0.019243738001113214,8
+random_forest,Random Forest,ShapeFactor3,0.01855692539863022,9
+random_forest,Random Forest,Area,0.015552331045137745,10
+random_forest,Random Forest,ShapeFactor4,0.013868078520659771,11
+random_forest,Random Forest,AspectRation,0.010868337657138988,12
+random_forest,Random Forest,Eccentricity,0.01041706179431297,13
+random_forest,Random Forest,ShapeFactor2,0.009487706532693544,14
+random_forest,Random Forest,Solidity,0.006473591667033672,15
+random_forest,Random Forest,Extent,0.0031653234104130324,16
