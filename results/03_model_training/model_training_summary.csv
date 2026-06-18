@@ -1,0 +1,5 @@
+model_name,loaded_from_disk,training_time_seconds,prediction_time_seconds,warnings_count
+logistic_regression,False,0.1445,0.0013,0
+decision_tree,False,0.2083,0.001,0
+random_forest,False,0.5305,0.0453,0
+mlp,False,1.2793,0.0021,0

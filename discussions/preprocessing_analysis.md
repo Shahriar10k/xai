@@ -143,17 +143,4 @@ The preprocessing output is now ready for model training, model evaluation, SHAP
 
 ---
 
-## Next Stage
-
-The next notebook should train the four planned models:
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- MLP
-
-The next stage should save trained models, predictions, training time, and model configurations.
-
-Model evaluation should include accuracy, macro precision, macro recall, macro F1-score, weighted F1-score, and confusion matrices.
-
-The main concern in the next stage is not only which model is most accurate, but also which model provides a strong base for stable and trustworthy explanations.
+*Generated using chatgpt*

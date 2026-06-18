@@ -1,0 +1,92 @@
+{
+    "project_stage": "03_model_training",
+    "random_state": 42,
+    "force_retrain": false,
+    "target_column_used": "Class_encoded",
+    "models": [
+        "logistic_regression",
+        "decision_tree",
+        "random_forest",
+        "mlp"
+    ],
+    "training_summaries": [
+        {
+            "model_name": "logistic_regression",
+            "model_path": "/home/iailab42/khans1/projects/xai/models/logistic_regression.pkl",
+            "loaded_from_disk": false,
+            "training_time_seconds": 0.1445,
+            "warnings": []
+        },
+        {
+            "model_name": "decision_tree",
+            "model_path": "/home/iailab42/khans1/projects/xai/models/decision_tree.pkl",
+            "loaded_from_disk": false,
+            "training_time_seconds": 0.2083,
+            "warnings": []
+        },
+        {
+            "model_name": "random_forest",
+            "model_path": "/home/iailab42/khans1/projects/xai/models/random_forest.pkl",
+            "loaded_from_disk": false,
+            "training_time_seconds": 0.5305,
+            "warnings": []
+        },
+        {
+            "model_name": "mlp",
+            "model_path": "/home/iailab42/khans1/projects/xai/models/mlp.pkl",
+            "loaded_from_disk": false,
+            "training_time_seconds": 1.2793,
+            "warnings": []
+        }
+    ],
+    "prediction_summaries": [
+        {
+            "model_name": "logistic_regression",
+            "prediction_time_seconds": 0.0013,
+            "predictions_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/logistic_regression_predictions.csv",
+            "probabilities_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/logistic_regression_probabilities.csv"
+        },
+        {
+            "model_name": "decision_tree",
+            "prediction_time_seconds": 0.001,
+            "predictions_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/decision_tree_predictions.csv",
+            "probabilities_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/decision_tree_probabilities.csv"
+        },
+        {
+            "model_name": "random_forest",
+            "prediction_time_seconds": 0.0453,
+            "predictions_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/random_forest_predictions.csv",
+            "probabilities_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/random_forest_probabilities.csv"
+        },
+        {
+            "model_name": "mlp",
+            "prediction_time_seconds": 0.0021,
+            "predictions_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/mlp_predictions.csv",
+            "probabilities_path": "/home/iailab42/khans1/projects/xai/results/03_model_training/mlp_probabilities.csv"
+        }
+    ],
+    "data_shapes": {
+        "X_train": [
+            10834,
+            16
+        ],
+        "X_test": [
+            2709,
+            16
+        ],
+        "X_train_scaled": [
+            10834,
+            16
+        ],
+        "X_test_scaled": [
+            2709,
+            16
+        ],
+        "y_train": [
+            10834
+        ],
+        "y_test": [
+            2709
+        ]
+    }
+}
