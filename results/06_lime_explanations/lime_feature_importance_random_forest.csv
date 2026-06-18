@@ -1,0 +1,17 @@
+model_name,display_name,feature,mean_abs_lime_weight,mean_lime_weight,explanation_count,rank
+random_forest,Random Forest,Perimeter,0.04716513721271646,0.04716513721271646,40,1
+random_forest,Random Forest,ConvexArea,0.03889841714338567,0.03889841714338567,40,2
+random_forest,Random Forest,EquivDiameter,0.031140614640492437,0.031140614640492437,40,3
+random_forest,Random Forest,MajorAxisLength,0.029170493060361576,0.025139737035421494,40,4
+random_forest,Random Forest,MinorAxisLength,0.027949186409339834,0.027949186409339834,40,5
+random_forest,Random Forest,ShapeFactor1,0.027544978062664656,0.027408925620205533,40,6
+random_forest,Random Forest,Area,0.024500116593824218,0.024500116593824218,40,7
+random_forest,Random Forest,roundness,0.019127855218003507,0.015098977536642105,40,8
+random_forest,Random Forest,Compactness,0.015282629638906397,0.01103069128853621,40,9
+random_forest,Random Forest,ShapeFactor3,0.013525680350848982,0.009250114577725638,40,10
+random_forest,Random Forest,ShapeFactor4,0.011303215734193425,0.0033147551772947452,40,11
+random_forest,Random Forest,ShapeFactor2,0.01025953856107939,0.009169344942472549,40,12
+random_forest,Random Forest,Eccentricity,0.008476297189461007,0.005954190299805029,40,13
+random_forest,Random Forest,AspectRation,0.007523371522752934,0.0057571171961680444,40,14
+random_forest,Random Forest,Solidity,0.0043365523995183815,0.0012615264813708809,40,15
+random_forest,Random Forest,Extent,0.0030473899810126628,0.0014177737082012678,40,16

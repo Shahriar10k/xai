@@ -1,0 +1,51 @@
+{
+    "notebook": "06_lime_explanations",
+    "random_state": 42,
+    "force_recompute_lime": false,
+    "models_explained": [
+        "logistic_regression",
+        "decision_tree",
+        "random_forest",
+        "mlp"
+    ],
+    "number_of_selected_samples": 40,
+    "selected_samples_source": "results/05_shap_explanations/selected_samples.csv",
+    "lime_num_samples": 5000,
+    "lime_num_features": 16,
+    "top_k_local_features": 5,
+    "model_input_types": {
+        "logistic_regression": "scaled",
+        "decision_tree": "unscaled",
+        "random_forest": "unscaled",
+        "mlp": "scaled"
+    },
+    "saved_outputs": {
+        "combined_local_lime_explanations": "results/06_lime_explanations/local_lime_explanations_all_models.csv",
+        "top_k_local_lime_explanations": "results/06_lime_explanations/local_lime_top_5_explanations_all_models.csv",
+        "combined_global_lime_importance": "results/06_lime_explanations/lime_feature_importance_all_models.csv",
+        "local_lime_explanations_per_model": [
+            "results/06_lime_explanations/local_lime_explanations_logistic_regression.csv",
+            "results/06_lime_explanations/local_lime_explanations_decision_tree.csv",
+            "results/06_lime_explanations/local_lime_explanations_random_forest.csv",
+            "results/06_lime_explanations/local_lime_explanations_mlp.csv"
+        ],
+        "global_lime_importance_per_model": [
+            "results/06_lime_explanations/lime_feature_importance_logistic_regression.csv",
+            "results/06_lime_explanations/lime_feature_importance_decision_tree.csv",
+            "results/06_lime_explanations/lime_feature_importance_random_forest.csv",
+            "results/06_lime_explanations/lime_feature_importance_mlp.csv"
+        ],
+        "raw_lime_records_per_model": [
+            "results/06_lime_explanations/lime_raw_explanations_logistic_regression.pkl",
+            "results/06_lime_explanations/lime_raw_explanations_decision_tree.pkl",
+            "results/06_lime_explanations/lime_raw_explanations_random_forest.pkl",
+            "results/06_lime_explanations/lime_raw_explanations_mlp.pkl"
+        ],
+        "plots": [
+            "plots/06_lime_explanations/lime_top_features_logistic_regression.png",
+            "plots/06_lime_explanations/lime_top_features_decision_tree.png",
+            "plots/06_lime_explanations/lime_top_features_random_forest.png",
+            "plots/06_lime_explanations/lime_top_features_mlp.png"
+        ]
+    }
+}

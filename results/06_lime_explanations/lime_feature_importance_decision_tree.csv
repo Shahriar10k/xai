@@ -1,0 +1,17 @@
+model_name,display_name,feature,mean_abs_lime_weight,mean_lime_weight,explanation_count,rank
+decision_tree,Decision Tree,Perimeter,0.11306558503209015,0.11262248418202365,40,1
+decision_tree,Decision Tree,MajorAxisLength,0.06617775147386486,0.05546503332069991,40,2
+decision_tree,Decision Tree,MinorAxisLength,0.0436088243946488,0.03970871943865817,40,3
+decision_tree,Decision Tree,ShapeFactor1,0.03793536645021241,0.034306861578027245,40,4
+decision_tree,Decision Tree,roundness,0.031857307298677875,0.005020342407025151,40,5
+decision_tree,Decision Tree,ShapeFactor2,0.029768836823327406,-0.001739839389662784,40,6
+decision_tree,Decision Tree,Compactness,0.025471027289988075,0.006249232019480045,40,7
+decision_tree,Decision Tree,Extent,0.02402755252726089,-0.0035082616995312844,40,8
+decision_tree,Decision Tree,ShapeFactor3,0.02332974643572671,0.013998782741476548,40,9
+decision_tree,Decision Tree,AspectRation,0.021505338771802215,0.01645645263931659,40,10
+decision_tree,Decision Tree,Area,0.02037218718149837,0.01151798527457588,40,11
+decision_tree,Decision Tree,ShapeFactor4,0.01960749045202438,0.0011623669589145636,40,12
+decision_tree,Decision Tree,Eccentricity,0.01822040974646755,0.003164709232836867,40,13
+decision_tree,Decision Tree,ConvexArea,0.017577786861313085,0.014689638788443957,40,14
+decision_tree,Decision Tree,EquivDiameter,0.013609974008130798,0.0068552934081091465,40,15
+decision_tree,Decision Tree,Solidity,0.009462893313356277,0.002491898444122062,40,16
