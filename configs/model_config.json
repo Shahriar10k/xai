@@ -4,14 +4,14 @@
         "use_scaled_data": true,
         "params": {
             "max_iter": 1000,
-            "random_state": 42
+            "random_state": 1
         }
     },
     "decision_tree": {
         "model_type": "DecisionTreeClassifier",
         "use_scaled_data": false,
         "params": {
-            "random_state": 42
+            "random_state": 1
         }
     },
     "random_forest": {
@@ -19,7 +19,7 @@
         "use_scaled_data": false,
         "params": {
             "n_estimators": 200,
-            "random_state": 42,
+            "random_state": 1,
             "n_jobs": -1
         }
     },
@@ -39,7 +39,7 @@
             "early_stopping": true,
             "validation_fraction": 0.1,
             "n_iter_no_change": 20,
-            "random_state": 42
+            "random_state": 1
         }
     }
 }
