@@ -1,0 +1,17 @@
+seed,model_name,display_name,input_type,explainer_type,feature,mean_abs_shap,rank
+10,mlp,MLP,scaled,kernel,ShapeFactor1,0.04104214526598459,1
+10,mlp,MLP,scaled,kernel,roundness,0.030127215268210994,2
+10,mlp,MLP,scaled,kernel,AspectRation,0.0295480943217016,3
+10,mlp,MLP,scaled,kernel,ShapeFactor4,0.02708670258754481,4
+10,mlp,MLP,scaled,kernel,MajorAxisLength,0.022848941107550737,5
+10,mlp,MLP,scaled,kernel,ShapeFactor2,0.021338724621260772,6
+10,mlp,MLP,scaled,kernel,Perimeter,0.02094757290172912,7
+10,mlp,MLP,scaled,kernel,Area,0.02052557539457524,8
+10,mlp,MLP,scaled,kernel,EquivDiameter,0.020260896436394626,9
+10,mlp,MLP,scaled,kernel,MinorAxisLength,0.019525919519127376,10
+10,mlp,MLP,scaled,kernel,Eccentricity,0.013523839157874654,11
+10,mlp,MLP,scaled,kernel,ConvexArea,0.01229248199339917,12
+10,mlp,MLP,scaled,kernel,ShapeFactor3,0.012281427658293324,13
+10,mlp,MLP,scaled,kernel,Compactness,0.012059850345254296,14
+10,mlp,MLP,scaled,kernel,Solidity,0.010933192650961508,15
+10,mlp,MLP,scaled,kernel,Extent,0.005988865723584602,16

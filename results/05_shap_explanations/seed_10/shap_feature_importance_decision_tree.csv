@@ -1,0 +1,17 @@
+seed,model_name,display_name,input_type,explainer_type,feature,mean_abs_shap,rank
+10,decision_tree,Decision Tree,unscaled,tree,MajorAxisLength,0.0840623806658896,1
+10,decision_tree,Decision Tree,unscaled,tree,Perimeter,0.07626102340404928,2
+10,decision_tree,Decision Tree,unscaled,tree,Compactness,0.055627644992259584,3
+10,decision_tree,Decision Tree,unscaled,tree,MinorAxisLength,0.03691052144711685,4
+10,decision_tree,Decision Tree,unscaled,tree,ShapeFactor1,0.03544689013239167,5
+10,decision_tree,Decision Tree,unscaled,tree,roundness,0.027406713087728435,6
+10,decision_tree,Decision Tree,unscaled,tree,ShapeFactor4,0.023950518849868686,7
+10,decision_tree,Decision Tree,unscaled,tree,Solidity,0.012235731243930351,8
+10,decision_tree,Decision Tree,unscaled,tree,Extent,0.009542036459714923,9
+10,decision_tree,Decision Tree,unscaled,tree,ConvexArea,0.009082956871649223,10
+10,decision_tree,Decision Tree,unscaled,tree,ShapeFactor3,0.008917936657420283,11
+10,decision_tree,Decision Tree,unscaled,tree,Area,0.008786620585209577,12
+10,decision_tree,Decision Tree,unscaled,tree,ShapeFactor2,0.004436778005840859,13
+10,decision_tree,Decision Tree,unscaled,tree,AspectRation,0.0038332274989614015,14
+10,decision_tree,Decision Tree,unscaled,tree,Eccentricity,0.0036964075853949236,15
+10,decision_tree,Decision Tree,unscaled,tree,EquivDiameter,0.003509713490319501,16

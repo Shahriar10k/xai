@@ -1,0 +1,17 @@
+seed,model_name,display_name,input_type,explainer_type,feature,mean_abs_shap,rank
+4,logistic_regression,Logistic Regression,scaled,linear,ShapeFactor1,1.4633874684320967,1
+4,logistic_regression,Logistic Regression,scaled,linear,MinorAxisLength,1.0949494573326541,2
+4,logistic_regression,Logistic Regression,scaled,linear,EquivDiameter,0.8929123307892353,3
+4,logistic_regression,Logistic Regression,scaled,linear,Perimeter,0.8855546171005151,4
+4,logistic_regression,Logistic Regression,scaled,linear,ConvexArea,0.7968408635671044,5
+4,logistic_regression,Logistic Regression,scaled,linear,Area,0.778416899975541,6
+4,logistic_regression,Logistic Regression,scaled,linear,MajorAxisLength,0.7749775645746454,7
+4,logistic_regression,Logistic Regression,scaled,linear,ShapeFactor4,0.7337406165724177,8
+4,logistic_regression,Logistic Regression,scaled,linear,ShapeFactor2,0.6102784055116628,9
+4,logistic_regression,Logistic Regression,scaled,linear,roundness,0.35020454151037195,10
+4,logistic_regression,Logistic Regression,scaled,linear,Solidity,0.2510332361699324,11
+4,logistic_regression,Logistic Regression,scaled,linear,AspectRation,0.24056283444433008,12
+4,logistic_regression,Logistic Regression,scaled,linear,Eccentricity,0.2395475918714605,13
+4,logistic_regression,Logistic Regression,scaled,linear,Extent,0.18946891327445536,14
+4,logistic_regression,Logistic Regression,scaled,linear,ShapeFactor3,0.15512467876896815,15
+4,logistic_regression,Logistic Regression,scaled,linear,Compactness,0.15127427482766603,16

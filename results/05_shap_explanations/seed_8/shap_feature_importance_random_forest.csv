@@ -1,0 +1,17 @@
+seed,model_name,display_name,input_type,explainer_type,feature,mean_abs_shap,rank
+8,random_forest,Random Forest,unscaled,tree,Perimeter,0.0313864179959064,1
+8,random_forest,Random Forest,unscaled,tree,ShapeFactor1,0.02789717408217246,2
+8,random_forest,Random Forest,unscaled,tree,ConvexArea,0.02629009073196757,3
+8,random_forest,Random Forest,unscaled,tree,MajorAxisLength,0.026268491050433503,4
+8,random_forest,Random Forest,unscaled,tree,MinorAxisLength,0.022665644873663786,5
+8,random_forest,Random Forest,unscaled,tree,EquivDiameter,0.02036554267383677,6
+8,random_forest,Random Forest,unscaled,tree,roundness,0.019782207307305393,7
+8,random_forest,Random Forest,unscaled,tree,ShapeFactor3,0.019330665944506126,8
+8,random_forest,Random Forest,unscaled,tree,Compactness,0.017624680622042838,9
+8,random_forest,Random Forest,unscaled,tree,Area,0.0156477522134455,10
+8,random_forest,Random Forest,unscaled,tree,ShapeFactor4,0.013720206549000474,11
+8,random_forest,Random Forest,unscaled,tree,ShapeFactor2,0.011086841903252563,12
+8,random_forest,Random Forest,unscaled,tree,Eccentricity,0.010883342823943898,13
+8,random_forest,Random Forest,unscaled,tree,AspectRation,0.009570728976220673,14
+8,random_forest,Random Forest,unscaled,tree,Solidity,0.006704693307175581,15
+8,random_forest,Random Forest,unscaled,tree,Extent,0.003106305655634096,16
